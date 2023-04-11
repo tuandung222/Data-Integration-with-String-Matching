@@ -11,10 +11,10 @@
         "r_id_attr": "id",
         "l_join_attr": "title",
         "r_join_attr": "title",
-        "tokenizers": ["3_GRAM"],
+        "tokenizers": ["4_GRAM"],
         "sim_measure_types": ["JACCARD"],
-        "thresholds": [0.7],
-        "n_jobs": [1],
+        "thresholds": [0.9],
+        "n_jobs": [4],
         "scale_filters": ["POSITION_FILTER", "SIZE_FILTER", "SUFFIX_FILTER", "PREFIX_FILTER"],
         "sim_funcs": ["JACCARD"]
     },
@@ -30,11 +30,11 @@
         "r_id_attr": "id",
         "l_join_attr": "title",
         "r_join_attr": "title",
-        "tokenizers": ["3_GRAM"],
+        "tokenizers": ["5_GRAM"],
         "sim_measure_types": ["JACCARD"],
-        "thresholds": [0.6, 0.7, 0.8, 0.9],
-        "n_jobs": [1],
-        "scale_filters": ["POSITION_FILTER"],
+        "thresholds": [0.7, 0.8, 0.9],
+        "n_jobs": [4],
+        "scale_filters": ["SIZE_FILTER"],
         "sim_funcs": ["JACCARD"]
     }, 
     {
@@ -49,10 +49,10 @@
         "r_id_attr": "id",
         "l_join_attr": "title",
         "r_join_attr": "title",
-        "tokenizers": ["2_GRAM", "3_GRAM", "4_GRAM", "5_GRAM"],
+        "tokenizers": ["3_GRAM", "4_GRAM", "5_GRAM"],
         "sim_measure_types": ["JACCARD"],
-        "thresholds": [0.7],
-        "n_jobs": [1],
+        "thresholds": [0.8],
+        "n_jobs": [4],
         "scale_filters": ["POSITION_FILTER"],
         "sim_funcs": ["JACCARD"]
     }
