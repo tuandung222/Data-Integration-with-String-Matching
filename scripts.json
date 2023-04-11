@@ -1,10 +1,10 @@
 {"scripts" : [
     {
         "dataset_name": "library",
-        "ltable": ["library", "DBPL2.csv"],
+        "ltable": ["library", "DBLP2.csv"],
         "rtable": ["library", "ACM.csv"],
-        "ltable_encoding": "utf-8",
-        "rtable_encoding": "utf-8",
+        "ltable_encoding": "ISO-8859-1",
+        "rtable_encoding": "ISO-8859-1",
         "l_id_attr": "id",
         "r_id_attr": "id",
         "l_join_attr": "title",
@@ -13,6 +13,6 @@
         "sim_measure_types": ["JACCARD"],
         "thresholds": [0.8],
         "n_jobs": [1],
-        "scale_filters": ["POSITION_FILTER", "SIZE_FILTER", "OVERLAP_FILTER", "SUFFIX_FILTER", "PREFIX_FILTER"],
+        "scale_filters": ["POSITION_FILTER", "SIZE_FILTER"],
         "sim_funcs": ["JACCARD"]
     }]}

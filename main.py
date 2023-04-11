@@ -33,7 +33,7 @@ SIM_FUNC = {
     'TF-IDF': sm.TfIdf,
 }
 
-DATA_PATH = os.sep.join([os.getcwd(), 'example_datasets', 'example_datasets'])
+DATA_PATH = os.sep.join([os.getcwd(), 'dataset'])
 SCRIPTS_FILE = 'scripts.json'
 EXECUTION_TIMES = 1
 BENCHMARK_DIRECTORY = 'benchmark_results'
@@ -42,9 +42,7 @@ APPLY_RESULTS_DIRECTORY = 'apply_results'
 def load_scripts():
     with open(SCRIPTS_FILE, 'r') as js_file:
         scripts = json.load(js_file)['scripts']
-
     return scripts
-
 
 def load_data_and_test():
     if not os.path.exists(BENCHMARK_DIRECTORY):
@@ -116,14 +114,12 @@ def test(script, output_file, l_table, r_table, idx_script):
                                       str(sim_measure_type), str(tokenizer),
                                       str(threshold), str(n_jobs),
                                       str(cand_set_size), str(avg_time_elapsed)])
-            # print(output_table[["_id", 'l_' + script['l_join_attr'], 'r_' + script['r_join_attr'], "_sim_score"]])
             if not os.path.exists(BENCHMARK_DIRECTORY):
                 os.makedirs(BENCHMARK_DIRECTORY)
+            if not os.path.exists(os.sep.join([BENCHMARK_DIRECTORY,idx_script])):
+                os.makedirs(os.sep.join([BENCHMARK_DIRECTORY, idx_script]))
             output_table.to_csv(os.sep.join([BENCHMARK_DIRECTORY, 
-                                             str(sim_measure_type) + '_' + str(tokenizer) + '_' +
-                                             str(scale_filter) + '_' + str(sim_funcs) + '_' + str(idx_script) + '.csv']))
-            output_file.write('%s\n' % output_record)
-
+                                            str(sim_measure_type) + '_' + tokenizer + '_' + scale_filter + '_' + sim_funcs + '_' + str(idx_script) + 'csv']))
 
 if __name__ == "__main__":
     load_data_and_test()
