@@ -1,37 +1,18 @@
 {"scripts" : [
     {
-        "dataset_name": "anime",
-        "ltable": ["anime", "A.csv"],
-        "rtable": ["anime", "B.csv"],
+        "dataset_name": "library",
+        "ltable": ["library", "DBPL2.csv"],
+        "rtable": ["library", "ACM.csv"],
         "ltable_encoding": "utf-8",
         "rtable_encoding": "utf-8",
-        "l_id_attr": "ID",
-        "r_id_attr": "ID",
-        "l_join_attr": "Title",
-        "r_join_attr": "Title",
+        "l_id_attr": "id",
+        "r_id_attr": "id",
+        "l_join_attr": "title",
+        "r_join_attr": "title",
         "tokenizers": ["3_GRAM"],
         "sim_measure_types": ["JACCARD"],
         "thresholds": [0.8],
         "n_jobs": [1],
         "scale_filters": ["POSITION_FILTER", "SIZE_FILTER", "OVERLAP_FILTER", "SUFFIX_FILTER", "PREFIX_FILTER"],
         "sim_funcs": ["JACCARD"]
-    },
-    {
-        "dataset_name": "anime",
-        "ltable": ["anime", "A.csv"],
-        "rtable": ["anime", "B.csv"],
-        "ltable_encoding": "utf-8",
-        "rtable_encoding": "utf-8",
-        "l_id_attr": "ID",
-        "r_id_attr": "ID",
-        "l_join_attr": "Title",
-        "r_join_attr": "Title",
-        "tokenizers": ["2_GRAM", "3_GRAM", "4_GRAM", "5_GRAM"],
-        "sim_measure_types": ["JACCARD"],
-        "thresholds": [0.8],
-        "n_jobs": [1],
-        "scale_filters": ["POSITION_FILTER"],
-        "sim_funcs": ["JACCARD"]
-    }
-]
-}
+    }]}
