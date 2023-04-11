@@ -1,7 +1,7 @@
 {"scripts" : [
     {
         "num_script": 1,
-        "description": "test performance filters on 3-gram-Jaccard measure",
+        "description": "test performance filters on 4-gram-Jaccard measure",
         "dataset_name": "library",
         "ltable": ["library", "DBLP2.csv"],
         "rtable": ["library", "ACM.csv"],
