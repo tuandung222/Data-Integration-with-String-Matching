@@ -13,7 +13,25 @@
         "sim_measure_types": ["JACCARD"],
         "thresholds": [0.8],
         "n_jobs": [1],
-        "scale_filters": ["POSITION_FILTER", "SIZE_FILTER", "OVERLAP_FILTER", ""],
+        "scale_filters": ["POSITION_FILTER", "SIZE_FILTER", "OVERLAP_FILTER"],
         "sim_funcs": ["JACCARD"]
-    }]
+    },
+    {
+        "dataset_name": "anime",
+        "ltable": ["anime", "A.csv"],
+        "rtable": ["anime", "B.csv"],
+        "ltable_encoding": "utf-8",
+        "rtable_encoding": "utf-8",
+        "l_id_attr": "ID",
+        "r_id_attr": "ID",
+        "l_join_attr": "Title",
+        "r_join_attr": "Title",
+        "tokenizers": ["2_GRAM", "3_GRAM"],
+        "sim_measure_types": ["JACCARD"],
+        "thresholds": [0.8],
+        "n_jobs": [1],
+        "scale_filters": ["POSITION_FILTER"],
+        "sim_funcs": ["JACCARD"]
+    }
+]
 }

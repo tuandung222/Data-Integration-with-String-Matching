@@ -52,13 +52,13 @@ def load_data_and_test():
                               'similarity measure type', 'tokenizer',
                               'threshold', 'n_jobs', 'cand_set_size', 'avg_time'])
     write_header = False
-    for script in scripts:
+    for idx, script in enumerate(scripts):
         print(script['ltable'])
         l_path = os.sep.join([DATA_PATH, *script['ltable']])
         r_path = os.sep.join([DATA_PATH, *script['rtable']])
         out_file_path = os.sep.join([OUTPUT_DIRECTORY, script['dataset_name']])
         out_path = os.sep.join([OUTPUT_DIRECTORY, script['dataset_name']])
-        output_file = open(out_path + '.csv', 'a')
+        output_file = open(out_path + str(idx) + '.csv', 'a')
         add_header = not os.path.exists(out_file_path)
         if add_header:
             output_file.write('%s\n' % output_header)
