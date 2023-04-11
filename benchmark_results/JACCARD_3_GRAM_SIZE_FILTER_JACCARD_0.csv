@@ -1,0 +1,2052 @@
+,_id,l_ID,r_ID,l_Title,r_Title,_sim_score
+0,950,657,2,Hidamari Sketch: Sae Hiro Sotsugyou-hen,Hidamari Sketch: Sae Hiro Sotsugyou-hen,1.0
+1,2955,702,4,Tamako Love Story,Tamako Love Story,1.0
+2,3554,12,5,Working!!!,Working!!!,1.0
+3,3741,1086,5,Working!!,Working!!!,0.875
+4,3947,1754,6,Touch,Touch,1.0
+5,3981,166,7,Ghost in the Shell: Stand Alone Complex - The Laughing Man,Ghost in the Shell: Stand Alone Complex - The Laughing Man,1.0
+6,7713,620,12,Byousoku 5 Centimeter,Byousoku 5 Centimeter,1.0
+7,8718,1201,13,Hikaru no Go,Hikaru no Go,1.0
+8,10136,677,15,Dragon Ball Kai (2014),Dragon Ball Kai (2014),1.0
+9,11049,347,16,Hanamonogatari,Hanamonogatari,1.0
+10,11893,383,17,Kami nomi zo Shiru Sekai 2,Kami nomi zo Shiru Sekai II,0.88
+11,11966,508,17,Kami nomi zo Shiru Sekai,Kami nomi zo Shiru Sekai II,0.875
+12,14944,150,20,Nurarihyon no Mago: Sennen Makyou,Nurarihyon no Mago: Sennen Makyou,1.0
+13,17356,531,22,xxxHOLiC Shunmuki,xxxHOLiC Shunmuki,1.0
+14,20474,1261,25,Cardcaptor Sakura,Cardcaptor Sakura,1.0
+15,23720,40,29,Kara no Kyoukai: Mirai Fukuin,Kara no Kyoukai: Mirai Fukuin,1.0
+16,24767,2053,30,Ashita no Joe 2,Ashita no Joe,0.8461538461538461
+17,24880,2386,30,Ashita no Joe,Ashita no Joe,1.0
+18,26512,807,32,Dragon Ball Z,Dragon Ball,0.8181818181818182
+19,26531,877,32,Dragon Ball,Dragon Ball,1.0
+20,27200,811,33,Mirai Shounen Conan,Mirai Shounen Conan,1.0
+21,28521,321,35,Junjou Romantica 2,Junjou Romantica,0.875
+22,28539,345,35,Junjou Romantica 3,Junjou Romantica,0.875
+23,28652,629,35,Junjou Romantica,Junjou Romantica,1.0
+24,30127,35,37,Black Lagoon: Roberta's Blood Trail,Black Lagoon: Roberta's Blood Trail,1.0
+25,31180,430,38,Slayers Next,Slayers Next,1.0
+26,31715,204,39,Overlord,Overlord,1.0
+27,32109,478,40,Ookiku Furikabutte,Ookiku Furikabutte,1.0
+28,33187,727,41,There She Is!!,There She Is!!,1.0
+29,33753,717,42,Paprika,Paprika,1.0
+30,34088,765,43,Tiger & Bunny,Tiger & Bunny,1.0
+31,34519,173,44,Detective Conan Movie 15: Quarter of Silence,Detective Conan Movie 15: Quarter of Silence,1.0
+32,37646,927,47,Perfect Blue,Perfect Blue,1.0
+33,38000,174,48,Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai,Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai,1.0
+34,38576,667,49,K-On!!,K-On!!,1.0
+35,38894,807,50,Dragon Ball Z,Dragon Ball Z,1.0
+36,38919,877,50,Dragon Ball,Dragon Ball Z,0.8181818181818182
+37,39307,2151,51,Kimi to Boku.,Kimi to Boku. 2,0.8461538461538461
+38,39508,596,51,Kimi to Boku. 2,Kimi to Boku. 2,1.0
+39,40263,321,52,Junjou Romantica 2,Junjou Romantica 2,1.0
+40,40278,345,52,Junjou Romantica 3,Junjou Romantica 2,0.8823529411764706
+41,40424,629,52,Junjou Romantica,Junjou Romantica 2,0.875
+42,41160,37,53,Yowamushi Pedal: Grande Road,Yowamushi Pedal: Grande Road,1.0
+43,42350,171,54,Detroit Metal City,Detroit Metal City,1.0
+44,44478,284,56,Eve no Jikan,Eve no Jikan,1.0
+45,45047,349,57,Detective Conan Movie 14: The Lost Ship in the Sky,Detective Conan Movie 14: The Lost Ship in the Sky,1.0
+46,46284,602,59,Neon Genesis Evangelion,Neon Genesis Evangelion,1.0
+47,47088,593,60,Kaiba,Kaiba,1.0
+48,50202,223,64,xxxHOLiC Rou,xxxHOLiC Rou,1.0
+49,50717,28,65,Zankyou no Terror,Zankyou no Terror,1.0
+50,51749,218,66,Kaichou wa Maid-sama!,Kaichou wa Maid-sama!,1.0
+51,52880,573,67,Darker than Black: Kuro no Keiyakusha Gaiden,Darker than Black: Kuro no Keiyakusha,0.8333333333333334
+52,53563,42,68,Akatsuki no Yona,Akatsuki no Yona,1.0
+53,54822,1068,69,Cardcaptor Sakura: The Movie 2: The Sealed Card,Cardcaptor Sakura Movie 2: The Sealed Card,0.8780487804878049
+54,55201,19,70,Gintama: Shinyaku Benizakura-hen Special,Gintama: Shinyaku Benizakura-hen Special,1.0
+55,57041,206,72,Tsukimonogatari,Tsukimonogatari,1.0
+56,59003,672,74,Detective Conan Movie 5: Countdown to Heaven,Detective Conan Movie 05: Countdown to Heaven,0.8863636363636364
+57,60443,304,76,Initial D Final Stage,Initial D Final Stage,1.0
+58,61420,365,77,Kaze Tachinu,Kaze Tachinu,1.0
+59,62266,538,79,One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna,One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna,1.0
+60,62670,230,80,Shijou Saikyou no Deshi Kenichi,Shijou Saikyou no Deshi Kenichi,1.0
+61,62896,636,80,Shijou Saikyou no Deshi Kenichi OVA,Shijou Saikyou no Deshi Kenichi,0.9032258064516129
+62,65822,374,83,Ginga Eiyuu Densetsu: Arata Naru Tatakai no Overture,Ginga Eiyuu Densetsu: Arata Naru Tatakai no Overture,1.0
+63,66984,279,85,Noragami Aragoto,Noragami Aragoto,1.0
+64,67756,410,86,Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai. Movie,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie,0.8412698412698413
+65,68127,231,87,Full Metal Panic? Fumoffu,Full Metal Panic? Fumoffu,1.0
+66,69641,1335,88,Detective Conan,Detective Conan,1.0
+67,70056,625,89,Detective Conan Movie 8: Magician of the Silver Sky,Detective Conan Movie 08: Magician of the Silver Sky,0.9019607843137255
+68,70476,2177,90,Mobile Suit Gundam,Mobile Suit Gundam 00,0.8421052631578947
+69,70505,2230,90,Mobile Suit Gundam I,Mobile Suit Gundam 00,0.85
+70,70707,551,90,Mobile Suit Gundam 00,Mobile Suit Gundam 00,1.0
+71,71220,3673,90,Mobile Suit Gundam ZZ,Mobile Suit Gundam 00,0.8095238095238095
+72,72185,846,92,Maison Ikkoku,Maison Ikkoku,1.0
+73,72554,644,93,Gosick,Gosick,1.0
+74,73672,179,95,Kuragehime,Kuragehime,1.0
+75,74378,655,96,Majo no Takkyubin,Majo no Takkyuubin,0.8235294117647058
+76,75089,14,97,Mobile Suit Gundam: The Origin,Mobile Suit Gundam: The Origin,1.0
+77,76306,391,98,Ookiku Furikabutte: Natsu no Taikai-hen,Ookiku Furikabutte: Natsu no Taikai Hen,0.8
+78,77219,285,99,Sakasama no Patema,Sakasama no Patema,1.0
+79,78424,545,100,Seirei no Moribito,Seirei no Moribito,1.0
+80,79220,86,101,Zoku Natsume Yuujinchou,Zoku Natsume Yuujinchou,1.0
+81,80389,135,102,Kiseijuu: Sei no Kakuritsu,Kiseijuu: Sei no Kakuritsu,1.0
+82,81499,197,103,Rainbow: Nisha Rokubou no Shichinin,Rainbow: Nisha Rokubou no Shichinin,1.0
+83,82397,82,104,Hellsing Ultimate,Hellsing Ultimate,1.0
+84,83358,136,105,Steins;Gate: Fuka Ryouiki no Dj vu,Steins;Gate: Fuka Ryouiki no Dj vu,1.0
+85,84302,8,106,Yojouhan Shinwa Taikei,Yojouhan Shinwa Taikei,1.0
+86,87606,30,111,Uchuu Kyoudai,Uchuu Kyoudai,1.0
+87,89167,83,113,Evangelion: 2.0 You Can (Not) Advance,Evangelion: 2.0 You Can (Not) Advance,1.0
+88,90050,47,114,One Piece,One Piece,1.0
+89,90349,198,115,Hotaru no Haka,Hotaru no Haka,1.0
+90,92287,307,117,Uchuu Senkan Yamato 2199,Uchuu Senkan Yamato 2199,1.0
+91,92989,1563,117,Uchuu Senkan Yamato 2,Uchuu Senkan Yamato 2199,0.8636363636363636
+92,93360,278,118,Baccano!,Baccano!,1.0
+93,93466,159,119,Nana,Nana,1.0
+94,93492,131,120,Usagi Drop,Usagi Drop,1.0
+95,93883,196,121,Cross Game,Cross Game,1.0
+96,94359,253,122,Fate/Zero,Fate/Zero,1.0
+97,94540,257,123,Ghost in the Shell: Stand Alone Complex 2nd Gig,Ghost in the Shell: Stand Alone Complex 2nd GIG,0.9130434782608695
+98,94570,351,123,Ghost in the Shell: Stand Alone Complex,Ghost in the Shell: Stand Alone Complex 2nd GIG,0.8409090909090909
+99,95283,269,124,Mahou Shoujo Madoka Magica,Mahou Shoujo MadokaMagica,0.8333333333333334
+100,96281,79,125,Chihayafuru 2,Chihayafuru 2,1.0
+101,96377,368,125,Chihayafuru,Chihayafuru 2,0.8181818181818182
+102,97005,341,126,Gintama: Yorinuki Gintama-san on Theater 2D,Gintama: Yorinuki Gintama-san on Theater 2D,1.0
+103,97925,248,127,Magi: The Kingdom of Magic,Magi: The Kingdom of Magic,1.0
+104,99088,328,128,Major: World Series,Major: World Series,1.0
+105,100370,275,130,Mahou Shoujo Madoka Magica Movie 3: Hangyaku no Monogatari,Mahou Shoujo MadokaMagica Movie 3: Hangyaku no Monogatari,0.9433962264150944
+106,102887,487,133,Slam Dunk,Slam Dunk,1.0
+107,102962,276,134,Mahou Shoujo Madoka Magica Movie 2: Eien no Monogatari,Mahou Shoujo MadokaMagica Movie 2: Eien no Monogatari,0.9387755102040817
+108,103480,62,135,No Game No Life,No Game No Life,1.0
+109,104269,72,136,Shingeki no Kyojin: Kuinaki Sentaku,Shingeki no Kyojin: Kuinaki Sentaku,1.0
+110,105305,94,137,Barakamon,Barakamon,1.0
+111,106659,1880,139,Nichijou,Nichijou,1.0
+112,106736,59,140,Fate/stay night: Unlimited Blade Works TV,Fate/stay night: Unlimited Blade Works (TV),0.8604651162790697
+113,106739,73,140,Fate/stay night: Unlimited Blade Works TV 2,Fate/stay night: Unlimited Blade Works (TV),0.8222222222222222
+114,106963,617,140,Fate/stay night: Unlimited Blade Works,Fate/stay night: Unlimited Blade Works (TV),0.8780487804878049
+115,108333,263,142,Psycho-Pass,Psycho-Pass,1.0
+116,108424,747,142,Psycho-Pass 2,Psycho-Pass,0.8181818181818182
+117,108841,260,143,Sakamichi no Apollon,Sakamichi no Apollon,1.0
+118,110156,844,144,Romeo no Aoi Sora,Romeo no Aoi Sora,1.0
+119,110823,432,145,Mononoke,Mononoke,1.0
+120,110964,272,146,Nodame Cantabile,Nodame Cantabile,1.0
+121,111781,255,147,Nanatsu no Taizai,Nanatsu no Taizai,1.0
+122,112872,306,149,Katanagatari,Katanagatari,1.0
+123,113772,537,151,Detective Conan Movie 18: The Sniper From Another Dimension,Detective Conan Movie 18: The Sniper from Another Dimension,0.8983050847457628
+124,115358,637,153,Ghost in the Shell 2.0,Ghost in the Shell 2.0,1.0
+125,115362,641,153,Ghost in the Shell,Ghost in the Shell 2.0,0.8
+126,117331,237,155,Isekai no Seikishi Monogatari,Isekai no Seikishi Monogatari,1.0
+127,118510,423,156,K: Return of Kings,K: Return of Kings,1.0
+128,119547,360,157,Magi: Sinbad no Bouken,Magi: Sinbad no Bouken,1.0
+129,121595,573,159,Darker than Black: Kuro no Keiyakusha Gaiden,Darker than Black: Kuro no Keiyakusha Gaiden,1.0
+130,122422,714,160,Wolf's Rain OVA,Wolf's Rain OVA,1.0
+131,124049,168,162,Karigurashi no Arrietty,Karigurashi no Arrietty,1.0
+132,125283,394,163,Noragami,Noragami,1.0
+133,125415,224,164,Durarara!!x2 Ten,Durarara!!x2 Ten,1.0
+134,126316,393,165,Grisaia no Rakuen,Grisaia no Rakuen,1.0
+135,130023,798,169,Tekkon Kinkreet,Tekkon Kinkreet,1.0
+136,131796,398,171,Ghost in the Shell: Stand Alone Complex - Individual Eleven,Ghost in the Shell: Stand Alone Complex 2nd GIG - Individual Eleven,0.8615384615384616
+137,133517,914,174,Akira,Akira,1.0
+138,133701,615,175,Kuroshitsuji,Kuroshitsuji,1.0
+139,133919,1361,175,Kuroshitsuji 2,Kuroshitsuji,0.8333333333333334
+140,135249,428,177,Soul Eater,Soul Eater,1.0
+141,138371,1000,181,Kuuchuu Buranko,Kuuchuu Buranko,1.0
+142,141447,488,185,Hikaru no Go: Journey to the North Star Cup,Hikaru no Go: Journey to the North Star Cup,1.0
+143,143562,158,188,Higashi no Eden,Higashi no Eden,1.0
+144,144991,1215,189,Jigoku Shoujo Futakomori,Jigoku Shoujo Futakomori,1.0
+145,145604,639,190,Hybrid Child,Hybrid Child,1.0
+146,146206,390,191,Suzumiya Haruhi no Yuutsu,Suzumiya Haruhi no Yuuutsu,0.9583333333333334
+147,147348,220,193,Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku,Yahari Ore no Seishun Love Comedy wa Machigatteiru.,0.8035714285714286
+148,147475,722,193,Yahari Ore no Seishun Love Come wa Machigatteiru.,Yahari Ore no Seishun Love Comedy wa Machigatteiru.,0.8823529411764706
+149,147721,1710,193,Yahari Ore no Seishun Love Come wa Machigatteiru. OVA,Yahari Ore no Seishun Love Comedy wa Machigatteiru.,0.8181818181818182
+150,148985,882,195,Eyeshield 21,Eyeshield 21,1.0
+151,149573,665,196,Fullmetal Alchemist: Brotherhood Specials,Fullmetal Alchemist: Brotherhood Specials,1.0
+152,150165,145,197,Initial D Fifth Stage,Initial D Fifth Stage,1.0
+153,151107,1122,198,Kobato.,Kobato.,1.0
+154,151779,991,199,Macross: Do You Remember Love,Macross: Do You Remember Love?,0.9642857142857143
+155,152565,425,200,Initial D Second Stage,Initial D Second Stage,1.0
+156,154535,242,202,Kuroshitsuji: Book of Murder,Kuroshitsuji: Book of Murder,1.0
+157,156709,325,204,Tonari no Totoro,Tonari no Totoro,1.0
+158,158470,252,206,Toradora!,Toradora!,1.0
+159,158677,570,207,Hunter x Hunter,Hunter x Hunter,1.0
+160,159150,334,208,Samurai Champloo,Samurai Champloo,1.0
+161,161040,719,210,Shirobako,Shirobako,1.0
+162,161332,313,211,Kaze no Tani no Nausicaa,Kaze no Tani no Nausica,0.95
+163,162505,692,212,Kemono no Souja Erin,Kemono no Souja Erin,1.0
+164,163264,162,213,Mobile Suit Gundam Unicorn,Mobile Suit Gundam Unicorn,1.0
+165,164340,268,214,Angel Beats!,Angel Beats!,1.0
+166,164981,280,215,Higurashi no Naku Koro ni Kai,Higurashi no Naku Koro ni Kai,1.0
+167,165040,401,215,Higurashi no Naku Koro ni,Higurashi no Naku Koro ni Kai,0.8518518518518519
+168,165437,1137,215,Higurashi no Naku Koro ni Rei,Higurashi no Naku Koro ni Kai,0.8
+169,168349,153,219,Detective Conan Movie 6: The Phantom of Baker Street,Detective Conan Movie 06: The Phantom of Baker Street,0.9056603773584906
+170,168936,302,220,Durarara!!,Durarara!!,1.0
+171,170048,257,222,Ghost in the Shell: Stand Alone Complex 2nd Gig,Ghost in the Shell: Stand Alone Complex,0.8409090909090909
+172,170085,351,222,Ghost in the Shell: Stand Alone Complex,Ghost in the Shell: Stand Alone Complex,1.0
+173,171712,9,226,Sakurasou no Pet na Kanojo,Sakurasou no Pet na Kanojo,1.0
+174,173965,6,228,Hunter x Hunter OVA,Hunter x Hunter OVA,1.0
+175,179247,354,234,Beck,Beck,1.0
+176,179338,294,235,Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen,Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen,1.0
+177,179867,24,236,Natsume Yuujinchou,Natsume Yuujinchou,1.0
+178,179896,67,236,Natsume Yuujinchou San,Natsume Yuujinchou,0.8
+179,179928,129,236,Natsume Yuujinchou Shi,Natsume Yuujinchou,0.8
+180,181566,1223,237,The Rose of Versailles,Rose of Versailles,0.8
+181,181567,1225,237,Rose of Versailles,Rose of Versailles,1.0
+182,182079,210,238,Kaguya-hime no Monogatari,Kaguya-hime no Monogatari,1.0
+183,183053,4,239,One Outs,One Outs,1.0
+184,186062,1023,242,Neon Genesis Evangelion - The End of Evangelion,Neon Genesis Evangelion: The End of Evangelion,0.8421052631578947
+185,187801,367,244,Bakemonogatari,Bakemonogatari,1.0
+186,189458,27,246,NHK ni Youkoso!,NHK ni Youkoso!,1.0
+187,191479,314,248,Death Parade,Death Parade,1.0
+188,192079,293,249,Natsume Yuujinchou: Itsuka Yuki no Hi ni,Natsume Yuujinchou: Itsuka Yuki no Hi ni,1.0
+189,195291,316,252,Kuroshitsuji: Book of Circus,Kuroshitsuji: Book of Circus,1.0
+190,196436,541,253,Detective Conan Movie 13: The Raven Chaser,Detective Conan Movie 13: The Raven Chaser,1.0
+191,197113,91,254,Omoide no Marnie,Omoide no Marnie,1.0
+192,197955,160,255,Major: Message,Major: Message,1.0
+193,198985,749,256,Nagi no Asukara,Nagi no Asukara,1.0
+194,199520,574,257,Planetes,Planetes,1.0
+195,199783,212,258,Clannad,Clannad,1.0
+196,201140,194,260,Kami nomi zo Shiru Sekai: Megami-hen,Kami nomi zo Shiru Sekai: Megami-hen,1.0
+197,202312,520,261,Love Live! The School Idol Movie,Love Live! The School Idol Movie,1.0
+198,204164,333,264,Free! Eternal Summer Special,Free!: Eternal Summer Special,0.8275862068965517
+199,205053,2053,265,Ashita no Joe 2,Ashita no Joe 2,1.0
+200,205200,2386,265,Ashita no Joe,Ashita no Joe 2,0.8461538461538461
+201,206369,251,267,Bakuman.,Bakuman.,1.0
+202,206429,379,267,Bakuman.,Bakuman.,1.0
+203,210629,273,272,K-On! Movie,K-On! Movie,1.0
+204,211210,376,273,Danshi Koukousei no Nichijou,Danshi Koukousei no Nichijou,1.0
+205,213041,256,275,Summer Wars,Summer Wars,1.0
+206,213573,292,276,Fullmetal Alchemist,Fullmetal Alchemist,1.0
+207,214465,79,277,Chihayafuru 2,Chihayafuru,0.8181818181818182
+208,214523,368,277,Chihayafuru,Chihayafuru,1.0
+209,216029,236,279,Redline,Redline,1.0
+210,217191,220,281,Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,0.8928571428571429
+211,217281,722,281,Yahari Ore no Seishun Love Come wa Machigatteiru.,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,0.8035714285714286
+212,217547,45,282,Mahou Shoujo Madoka Magica Movie 1: Hajimari no Monogatari,Mahou Shoujo MadokaMagica Movie 1: Hajimari no Monogatari,0.9423076923076923
+213,218672,203,284,Kotonoha no Niwa,Kotonoha no Niwa,1.0
+214,219453,215,285,xxxHOLiC Kei,xxxHOLiC Kei,1.0
+215,220074,217,286,Gekkan Shoujo Nozaki-kun,Gekkan Shoujo Nozaki-kun,1.0
+216,223132,637,289,Ghost in the Shell 2.0,Ghost in the Shell,0.8
+217,223136,641,289,Ghost in the Shell,Ghost in the Shell,1.0
+218,224757,348,291,Saint Seiya: The Lost Canvas - Meiou Shinwa 2nd Chapter,Saint Seiya: The Lost Canvas - Meiou Shinwa 2,0.8113207547169812
+219,224909,721,291,Saint Seiya: The Lost Canvas - Meiou Shinwa,Saint Seiya: The Lost Canvas - Meiou Shinwa 2,0.9534883720930233
+220,225486,258,292,Black Lagoon: The Second Barrage,Black Lagoon: The Second Barrage,1.0
+221,226461,680,293,Berserk,Berserk,1.0
+222,226611,219,294,Fairy Tail 2,Fairy Tail,0.8
+223,226635,352,294,Fairy Tail,Fairy Tail,1.0
+224,227119,362,295,Tokyo Godfathers,Tokyo Godfathers,1.0
+225,227788,44,296,Non Non Biyori Repeat,Non Non Biyori Repeat,1.0
+226,228908,317,297,Tsumiki no Ie,Tsumiki no Ie,1.0
+227,229590,335,298,Baccano! Specials,Baccano! Specials,1.0
+228,230354,32,299,Trigun,Trigun,1.0
+229,230496,97,300,Fullmetal Alchemist: Brotherhood,Fullmetal Alchemist: Brotherhood,1.0
+230,231514,101,301,Steins;Gate,Steins;Gate,1.0
+231,231981,327,302,Skip Beat!,Skip Beat!,1.0
+232,232333,103,303,Gintama,Gintama,1.0
+233,232338,113,303,Gintama',Gintama,0.8333333333333334
+234,232367,190,303,Gintama,Gintama,1.0
+235,232526,106,304,Hunter x Hunter (2011),Hunter x Hunter (2011),1.0
+236,233455,103,305,Gintama,Gintama',0.8333333333333334
+237,233463,113,305,Gintama',Gintama',1.0
+238,233496,190,305,Gintama,Gintama',0.8333333333333334
+239,237316,122,310,Shigatsu wa Kimi no Uso,Shigatsu wa Kimi no Uso,1.0
+240,237704,756,310,Shigatsu wa Kimi no Uso OVA,Shigatsu wa Kimi no Uso,0.84
+241,238435,76,311,Ginga Eiyuu Densetsu,Ginga Eiyuu Densetsu,1.0
+242,239512,139,312,Sen to Chihiro no Kamikakushi,Sen to Chihiro no Kamikakushi,1.0
+243,240536,103,313,Gintama,Gintama,1.0
+244,240541,113,313,Gintama',Gintama,0.8333333333333334
+245,240570,190,313,Gintama,Gintama,1.0
+246,241520,111,315,Ookami Kodomo no Ame to Yuki,Ookami Kodomo no Ame to Yuki,1.0
+247,242625,109,316,Haikyuu!! Second Season,Haikyuu!! Second Season,1.0
+248,245508,114,319,Suzumiya Haruhi no Shoushitsu,Suzumiya Haruhi no Shoushitsu,1.0
+249,246532,66,320,Cowboy Bebop,Cowboy Bebop,1.0
+250,248111,95,322,Mushishi,Mushishi,1.0
+251,248268,56,323,Mononoke Hime,Mononoke Hime,1.0
+252,248839,55,324,Great Teacher Onizuka,Great Teacher Onizuka,1.0
+253,249862,119,325,Hajime no Ippo: New Challenger,Hajime no Ippo: New Challenger,1.0
+254,250913,107,326,Mushishi Zoku Shou 2,Mushishi Zoku Shou,0.8823529411764706
+255,250918,116,326,Mushishi Zoku Shou,Mushishi Zoku Shou,1.0
+256,251931,249,327,Tengen Toppa Gurren Lagann,Tengen Toppa Gurren Lagann,1.0
+257,252373,3128,327,Tengen Toppa Gurren Lagann OVA,Tengen Toppa Gurren Lagann,0.8518518518518519
+258,253980,138,329,Monogatari Series: Second Season,Monogatari Series: Second Season,1.0
+259,254973,24,330,Natsume Yuujinchou,Natsume Yuujinchou Shi,0.8
+260,254997,67,330,Natsume Yuujinchou San,Natsume Yuujinchou Shi,0.8181818181818182
+261,255028,129,330,Natsume Yuujinchou Shi,Natsume Yuujinchou Shi,1.0
+262,256245,329,331,Monster,Monster,1.0
+263,261115,78,337,Death Note,Death Note,1.0
+264,262525,24,339,Natsume Yuujinchou,Natsume Yuujinchou San,0.8
+265,262549,67,339,Natsume Yuujinchou San,Natsume Yuujinchou San,1.0
+266,262580,129,339,Natsume Yuujinchou Shi,Natsume Yuujinchou San,0.8181818181818182
+267,263727,75,340,Shokugeki no Souma,Shokugeki no Souma,1.0
+268,264794,110,341,Mushishi Zoku Shou: Suzu no Shizuku,Mushishi Zoku Shou: Suzu no Shizuku,1.0
+269,265871,207,342,Ping Pong The Animation,Ping Pong The Animation,1.0
+270,266930,64,343,Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai.,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,0.8245614035087719
+271,267478,271,344,Owarimonogatari,Owarimonogatari,1.0
+272,269394,142,346,Hotarubi no Mori e,Hotarubi no Mori e,1.0
+273,271584,69,348,Haikyuu!!,Haikyuu!!,1.0
+274,272941,382,350,Evangelion: 1.0 You Are (Not) Alone,Evangelion: 1.0 You Are (Not) Alone,1.0
+275,273736,52,351,Shingeki no Kyojin,Shingeki no Kyojin,1.0
+276,274358,1222,351,Shingeki no Kyojin OVA,Shingeki no Kyojin,0.8
+277,276988,239,354,Kamisama Hajimemashita 2,Kamisama Hajimemashita,0.9090909090909091
+278,277242,659,354,Kamisama Hajimemashita,Kamisama Hajimemashita,1.0
+279,277470,1075,354,Kamisama Hajimemashita OVA,Kamisama Hajimemashita,0.8333333333333334
+280,278224,346,355,Initial D Fourth Stage,Initial D Fourth Stage,1.0
+281,279390,387,356,Magi: The Labyrinth of Magic,Magi: The Labyrinth of Magic,1.0
+282,281109,1727,358,Kingdom,Kingdom,1.0
+283,281292,187,359,Kimi ni Todoke,Kimi ni Todoke,1.0
+284,282285,906,360,Princess Tutu,Princess Tutu,1.0
+285,282767,280,361,Higurashi no Naku Koro ni Kai,Higurashi no Naku Koro ni,0.8518518518518519
+286,282826,401,361,Higurashi no Naku Koro ni,Higurashi no Naku Koro ni,1.0
+287,283226,1137,361,Higurashi no Naku Koro ni Rei,Higurashi no Naku Koro ni,0.8518518518518519
+288,283873,321,362,Junjou Romantica 2,Junjou Romantica 3,0.8823529411764706
+289,283888,345,362,Junjou Romantica 3,Junjou Romantica 3,1.0
+290,284034,629,362,Junjou Romantica,Junjou Romantica 3,0.875
+291,284859,388,363,Kanon (2006),Kanon (2006),1.0
+292,285395,146,364,Kokoro Connect: Michi Random,Kokoro Connect: Michi Random,1.0
+293,286427,3,365,Mobile Suit Gundam 00 Second Season,Mobile Suit Gundam 00 Second Season,1.0
+294,287464,560,366,One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari,One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari,1.0
+295,288624,606,368,Eureka Seven,Eureka Seven,1.0
+296,289081,363,369,Ghost in the Shell: Stand Alone Complex - Solid State Society,Ghost in the Shell: Stand Alone Complex - Solid State Society,1.0
+297,290909,192,372,JoJo no Kimyou na Bouken: Stardust Crusaders,JoJo no Kimyou na Bouken: Stardust Crusaders,1.0
+298,291705,290,373,Durarara!!x2 Shou,Durarara!!x2 Shou,1.0
+299,292479,149,374,Kimi ni Todoke 2nd Season,Kimi ni Todoke 2nd Season,1.0
+300,293492,15,375,Nisemonogatari,Nisemonogatari,1.0
+301,296091,420,378,Gintama: Dai Hanseikai,Gintama: Dai Hanseikai,1.0
+302,297028,34,379,Ore Monogatari!!,Ore Monogatari!!,1.0
+303,297852,169,380,Gin no Saji,Gin no Saji,1.0
+304,299166,1779,381,Shoujo Kakumei Utena,Shoujo Kakumei Utena,1.0
+305,301760,1145,384,Prison School,Prison School,1.0
+306,303118,240,386,Black Lagoon,Black Lagoon,1.0
+307,303851,429,387,Tokyo Magnitude 8.0,Tokyo Magnitude 8.0,1.0
+308,306037,444,390,D.Gray-man,D.Gray-man,1.0
+309,306582,567,391,Yowamushi Pedal,Yowamushi Pedal,1.0
+310,309945,1687,394,Kodomo no Omocha,Kodomo no Omocha,1.0
+311,313622,721,398,Saint Seiya: The Lost Canvas - Meiou Shinwa,Saint Seiya: The Lost Canvas - Meiou Shinwa,1.0
+312,314146,195,399,Log Horizon,Log Horizon,1.0
+313,314241,690,399,Log Horizon 2,Log Horizon,0.8181818181818182
+314,315739,377,402,One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai,One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai,1.0
+315,316518,872,403,Saiyuki Reload: Burial,Saiyuuki Reload: Burial,0.8636363636363636
+316,318414,475,406,Tokyo Ghoul A,Tokyo Ghoul,0.8181818181818182
+317,318426,571,406,Tokyo Ghoul,Tokyo Ghoul,1.0
+318,319061,782,407,Azumanga Daioh,Azumanga Daioh,1.0
+319,319820,907,408,City Hunter 3,City Hunter 2,0.8333333333333334
+320,320104,1859,408,City Hunter,City Hunter 2,0.8181818181818182
+321,320137,1975,408,City Hunter 2,City Hunter 2,1.0
+322,320366,422,409,Durarara!! Specials,Durarara!! Specials,1.0
+323,321611,1039,410,Junjou Romantica OVA,Junjou Romantica OVA,1.0
+324,322293,359,411,Full Metal Panic! The Second Raid,Full Metal Panic! The Second Raid,1.0
+325,322366,524,411,Full Metal Panic! The Second Raid OVA,Full Metal Panic! The Second Raid,0.8857142857142857
+326,323931,1371,412,Full Moon wo Sagashite,Full Moon wo Sagashite,1.0
+327,324434,738,413,Magic Kaito,Magic Kaito,1.0
+328,324862,239,414,Kamisama Hajimemashita 2,Kamisama Hajimemashita,0.9090909090909091
+329,325116,659,414,Kamisama Hajimemashita,Kamisama Hajimemashita,1.0
+330,325344,1075,414,Kamisama Hajimemashita OVA,Kamisama Hajimemashita,0.8333333333333334
+331,327287,1048,416,Non Non Biyori,Non Non Biyori,1.0
+332,327990,1044,417,Haibane Renmei,Haibane Renmei,1.0
+333,328556,412,418,Gekkan Shoujo Nozaki-kun Specials,Gekkan Shoujo Nozaki-kun Specials,1.0
+334,329493,178,419,Usagi Drop Specials,Usagi Drop Specials,1.0
+335,330506,156,420,Tentai Senshi Sunred 2,Tentai Senshi Sunred 2,1.0
+336,330986,1127,420,Tentai Senshi Sunred,Tentai Senshi Sunred 2,0.8947368421052632
+337,331641,497,421,Yuru Yuri SanHai!,Yuru Yuri SanHai!,1.0
+338,332526,552,422,Hataraku Maou-sama!,Hataraku Maou-sama!,1.0
+339,335461,539,425,School Rumble 2,School Rumble,0.8461538461538461
+340,335675,1210,425,School Rumble,School Rumble,1.0
+341,337015,646,427,K: Missing Kings,K: Missing Kings,1.0
+342,337909,2844,428,Aka-chan to Boku,Aka-chan to Boku,1.0
+343,338514,227,429,Trigun: Badlands Rumble,Trigun: Badlands Rumble,1.0
+344,339883,1074,431,Golden Boy,Golden Boy,1.0
+345,340665,1406,432,Prince of Tennis,Prince of Tennis,1.0
+346,341173,505,433,Hetalia: The Beautiful World,Hetalia: The Beautiful World,1.0
+347,342546,1078,434,Saiunkoku Monogatari,Saiunkoku Monogatari,1.0
+348,344074,594,436,Lupin III vs Detective Conan: The Movie,Lupin III vs. Detective Conan: The Movie,0.875
+349,345473,2005,437,Yakitate!! Japan,Yakitate!! Japan,1.0
+350,345633,460,438,Zan Sayonara Zetsubou Sensei,Sayonara Zetsubou Sensei,0.8461538461538461
+351,345724,433,438,Sayonara Zetsubou Sensei 2,Sayonara Zetsubou Sensei,0.9166666666666666
+352,345834,624,438,Zoku Sayonara Zetsubou Sensei,Sayonara Zetsubou Sensei,0.8461538461538461
+353,346053,1022,438,Goku Sayonara Zetsubou Sensei,Sayonara Zetsubou Sensei,0.8461538461538461
+354,346089,1089,438,Sayonara Zetsubou Sensei,Sayonara Zetsubou Sensei,1.0
+355,346847,435,439,Seto no Hanayome OVA,Seto no Hanayome OVA,1.0
+356,349128,506,442,Furiko,Furiko,1.0
+357,349287,310,443,Psycho-Pass Movie,Psycho-Pass Movie,1.0
+358,350739,1185,444,Mobile Suit Zeta Gundam,Mobile Suit Zeta Gundam,1.0
+359,351604,830,445,Hetalia: The Beautiful World Specials,Hetalia: The Beautiful World Specials,1.0
+360,352408,1003,446,Kaleido Star,Kaleido Star,1.0
+361,352874,408,447,Death Billiards,Death Billiards,1.0
+362,355058,740,449,Little Witch Academia,Little Witch Academia,1.0
+363,356965,1992,451,Ergo Proxy,Ergo Proxy,1.0
+364,357578,339,453,Jormungand: Perfect Order,Jormungand: Perfect Order,1.0
+365,359755,624,456,Zoku Sayonara Zetsubou Sensei,Zoku Sayonara Zetsubou Sensei,1.0
+366,359974,1022,456,Goku Sayonara Zetsubou Sensei,Zoku Sayonara Zetsubou Sensei,0.9259259259259259
+367,360011,1089,456,Sayonara Zetsubou Sensei,Zoku Sayonara Zetsubou Sensei,0.8461538461538461
+368,360911,694,457,Baka to Test to Shoukanjuu 2,Baka to Test to Shoukanjuu Ni!,0.8518518518518519
+369,360971,805,457,Baka to Test to Shoukanjuu,Baka to Test to Shoukanjuu Ni!,0.8461538461538461
+370,362131,1038,458,Carnival Phantasm,Carnival Phantasm,1.0
+371,363992,836,460,Hibike! Euphonium,Hibike! Euphonium,1.0
+372,364933,2786,461,Maria-sama ga Miteru,Maria-sama ga Miteru 3rd,0.8181818181818182
+373,365045,948,461,Maria-sama ga Miteru 3rd,Maria-sama ga Miteru 3rd,1.0
+374,366880,744,463,Kokoro Connect,Kokoro Connect,1.0
+375,367382,855,464,FLCL,FLCL,1.0
+376,369425,540,467,Persona 3 The Movie 2: Midsummer Knight's Dream,Persona 3 the Movie 2: Midsummer Knight's Dream,0.875
+377,370498,889,469,Beelzebub,Beelzebub,1.0
+378,370713,407,470,Sidonia no Kishi: Daikyuu Wakusei Seneki,Sidonia no Kishi: Daikyuu Wakusei Seneki,1.0
+379,371599,357,471,Break Blade Movie 4: Sanka no Chi,Break Blade 4: Sanka no Chi,0.8064516129032258
+380,372823,857,472,White Album 2,White Album 2,1.0
+381,373168,526,473,Shiki,Shiki,1.0
+382,375100,2848,476,Hidamari Sketch,Hidamari Sketch x ,0.8125
+383,375113,820,476,Hidamari Sketch x SP,Hidamari Sketch x ,0.8888888888888888
+384,375315,1217,476,Hidamari Sketch  ,Hidamari Sketch x ,0.8235294117647058
+385,375330,1236,476,Hidamari Sketch x 365,Hidamari Sketch x ,0.8421052631578947
+386,376379,1317,477,Gundam Build Fighters Try,Gundam Build Fighters,0.8260869565217391
+387,376574,1722,477,Gundam Build Fighters,Gundam Build Fighters,1.0
+388,376792,2206,478,Sakigake!! Cromartie Koukou,Sakigake!! Cromartie Koukou,1.0
+389,378997,1034,480,Detective Conan Movie 2: The Fourteenth Target,Detective Conan Movie 02: The Fourteenth Target,0.8936170212765957
+390,379447,369,481,Gate: Jieitai Kanochi nite Kaku Tatakaeri,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri",0.8780487804878049
+391,383335,460,485,Zan Sayonara Zetsubou Sensei,Zan Sayonara Zetsubou Sensei,1.0
+392,383686,1089,485,Sayonara Zetsubou Sensei,Zan Sayonara Zetsubou Sensei,0.8461538461538461
+393,384218,608,486,Nisekoi,Nisekoi,1.0
+394,384303,826,486,Nisekoi:,Nisekoi,0.8333333333333334
+395,385266,707,488,Chuunibyou Demo Koi ga Shitai!,Chuunibyou demo Koi ga Shitai!,0.8064516129032258
+396,386445,1203,489,Kurenai no Buta,Kurenai no Buta,1.0
+397,387616,1178,491,Seto no Hanayome,Seto no Hanayome,1.0
+398,388452,1065,492,Toshokan Sensou: Kakumei no Tsubasa,Toshokan Sensou: Kakumei no Tsubasa,1.0
+399,388979,588,493,Ghost Hunt,Ghost Hunt,1.0
+400,389667,956,494,Uchouten Kazoku,Uchouten Kazoku,1.0
+401,390219,797,495,Detective Conan Movie 7: Crossroad in the Ancient Capital,Detective Conan Movie 07: Crossroad in the Ancient Capital,0.9137931034482759
+402,390844,1855,496,Saint Seiya,Saint Seiya,1.0
+403,390879,16,497,Sword Art Online,Sword Art Online,1.0
+404,391210,793,497,Sword Art Online II,Sword Art Online,0.8235294117647058
+405,392179,1049,498,Zan Sayonara Zetsubou Sensei Bangaichi,Zan Sayonara Zetsubou Sensei Bangaichi,1.0
+406,393933,734,500,Shiki Specials,Shiki Specials,1.0
+407,394972,1286,501,Dragon Ball Kai,Dragon Ball Kai,1.0
+408,396078,1420,502,Serial Experiments Lain,Serial Experiments Lain,1.0
+409,396642,383,503,Kami nomi zo Shiru Sekai 2,Kami nomi zo Shiru Sekai,0.9130434782608695
+410,396724,508,503,Kami nomi zo Shiru Sekai,Kami nomi zo Shiru Sekai,1.0
+411,397677,230,504,Shijou Saikyou no Deshi Kenichi,Shijou Saikyou no Deshi Kenichi OVA,0.9032258064516129
+412,397892,636,504,Shijou Saikyou no Deshi Kenichi OVA,Shijou Saikyou no Deshi Kenichi OVA,1.0
+413,398780,440,505,Hakuouki Movie 2: Shikon Soukyuu,Hakuouki Movie 2: Shikon Soukyuu,1.0
+414,400726,424,507,Master Keaton OVA,Master Keaton OVA,1.0
+415,404009,1103,511,Kumo no Mukou Yakusoku no Bashou,"Kumo no Mukou, Yakusoku no Basho",0.8064516129032258
+416,404964,959,513,Bleach,Bleach,1.0
+417,405154,513,514,Mobile Suit Gundam Wing: Endless Waltz Movie,Mobile Suit Gundam Wing: Endless Waltz Movie,1.0
+418,405358,1013,514,Mobile Suit Gundam Wing: Endless Waltz,Mobile Suit Gundam Wing: Endless Waltz Movie,0.8571428571428571
+419,407328,926,516,Ghost in the Shell 2: Innocence,Ghost in the Shell 2: Innocence,1.0
+420,408213,1113,517,Paradise Kiss,Paradise Kiss,1.0
+421,409088,1148,518,Aoi Bungaku Series,Aoi Bungaku Series,1.0
+422,409700,481,519,Another,Another,1.0
+423,410964,454,521,Claymore,Claymore,1.0
+424,411204,1212,522,Last Exile,Last Exile,1.0
+425,411619,485,523,Nodame Cantabile: Finale Special,Nodame Cantabile Finale Special,0.8709677419354839
+426,412811,944,524,Hadashi no Gen,Hadashi no Gen,1.0
+427,412875,3141,524,Hadashi no Gen 2,Hadashi no Gen,0.8571428571428571
+428,413483,514,525,Hakuouki Movie 1: Kyoto Ranbu,Hakuouki Movie 1: Kyoto Ranbu,1.0
+429,415311,453,527,Sora no Otoshimono Forte,Sora no Otoshimono: Forte,0.8333333333333334
+430,416427,2584,528,Lupin III: Part III,Lupin III: Part II,1.0
+431,416786,1339,528,Lupin III: Part II,Lupin III: Part II,1.0
+432,418580,1028,530,Danshi Koukousei no Nichijou Specials,Danshi Koukousei no Nichijou Specials,1.0
+433,419408,761,531,Haikyuu!!: Jump Festa 2014 Special,Haikyuu!!: Jump Festa 2014 Special,1.0
+434,422356,516,534,Ao Haru Ride,Ao Haru Ride,1.0
+435,423161,1030,535,Detective Conan Movie 12: Full Score of Fear,Detective Conan Movie 12: Full Score of Fear,1.0
+436,423958,1070,536,Gake no Ue no Ponyo,Gake no Ue no Ponyo,1.0
+437,425665,1031,538,Hetalia: World Series Extra Episodes,Hetalia World Series Extra Episodes,0.8611111111111112
+438,427029,1701,539,Jinrui wa Suitai Shimashita,Jinrui wa Suitai Shimashita,1.0
+439,428550,1988,541,Magic Kaito 1412,Magic Kaito 1412,1.0
+440,428856,2734,542,Sexy Commando Gaiden Sugoiyo!! Masaru-san,Sexy Commando Gaiden: Sugoiyo!! Masaru-san,0.8809523809523809
+441,430126,578,544,Slayers Try,Slayers Try,1.0
+442,430939,1227,545,Sora no Otoshimono: Tokei-jikake no Angeloid,Sora no Otoshimono: Tokeijikake no Angeloid,0.8809523809523809
+443,431854,1099,546,Tasogare Otome x Amnesia,Tasogare Otome x Amnesia,1.0
+444,432697,2626,547,Ushiro no Shoumen Dare,Ushiro no Shoumen Daare,0.8636363636363636
+445,433873,1714,548,Wolf's Rain,Wolf's Rain,1.0
+446,434366,1073,549,Binbougami ga!,Binbougami ga!,1.0
+447,435134,822,550,Chi's Sweet Home: Atarashii Ouchi,Chi's Sweet Home: Atarashii Ouchi,1.0
+448,437026,472,552,Maria-sama ga Miteru 4th,Maria-sama ga Miteru 4th,1.0
+449,437170,2786,552,Maria-sama ga Miteru,Maria-sama ga Miteru 4th,0.8181818181818182
+450,439175,2396,554,Shin Mazinger Shougeki! Z-Hen,Shin Mazinger Shougeki! Z-Hen,1.0
+451,440304,441,555,Seitokai Yakuindomo*,Seitokai Yakuindomo* OVA,0.8181818181818182
+452,440413,632,555,Seitokai Yakuindomo* OVA,Seitokai Yakuindomo* OVA,1.0
+453,441630,832,556,Seikai no Senki III,Seikai no Senki II,0.9411764705882353
+454,441752,1076,556,Seikai no Senki II,Seikai no Senki II,1.0
+455,441812,1193,556,Seikai no Senki,Seikai no Senki II,0.8125
+456,442416,907,557,City Hunter 3,City Hunter,0.8181818181818182
+457,442634,1859,557,City Hunter,City Hunter,1.0
+458,442654,1975,557,City Hunter 2,City Hunter,0.8181818181818182
+459,444536,176,560,Break Blade Movie 5: Shisen no Hate,Break Blade 5: Shisen no Hate,0.8181818181818182
+460,445985,849,561,Gochuumon wa Usagi Desu ka??,Gochuumon wa Usagi Desu ka??,1.0
+461,446083,3077,561,Gochuumon wa Usagi Desu ka?,Gochuumon wa Usagi Desu ka??,0.9615384615384616
+462,448361,1085,563,Hidamari Sketch x Honeycomb,Hidamari Sketch x Honeycomb,1.0
+463,450749,2027,565,Ie Naki Ko Remi,Ie Naki Ko Remi,1.0
+464,453197,624,568,Zoku Sayonara Zetsubou Sensei,Goku Sayonara Zetsubou Sensei,0.9259259259259259
+465,453416,1022,568,Goku Sayonara Zetsubou Sensei,Goku Sayonara Zetsubou Sensei,1.0
+466,453453,1089,568,Sayonara Zetsubou Sensei,Goku Sayonara Zetsubou Sensei,0.8461538461538461
+467,454128,883,569,Gungrave,Gungrave,1.0
+468,456599,437,572,Bokura wa Minna Kawaisou,Bokura wa Minna Kawaisou,1.0
+469,459027,746,574,Yamada-kun to 7-nin no Majo TV,Yamada-kun to 7-nin no Majo (TV),0.8125
+470,459934,592,575,Neko no Ongaeshi,Neko no Ongaeshi,1.0
+471,460559,427,576,Working'!!,Working'!!,1.0
+472,461277,3040,577,Shirokuma Cafe,Shirokuma Cafe,1.0
+473,463335,1657,579,Kindaichi Shounen no Jikenbo,Kindaichi Shounen no Jikenbo (TV),0.8387096774193549
+474,464189,1262,580,Hayate no Gotoku!! OVA,Hayate no Gotoku!!,0.8
+475,464791,492,581,Final Fantasy VII: Advent Children,Final Fantasy VII: Advent Children,1.0
+476,465856,519,582,Initial D Third Stage,Initial D Third Stage,1.0
+477,466658,2336,583,Hokuto no Ken,Hokuto no Ken,1.0
+478,467125,1848,583,Hokuto no Ken 2,Hokuto no Ken,0.8461538461538461
+479,467287,645,584,Jormungand,Jormungand,1.0
+480,468078,1680,585,Keroro Gunsou,Keroro Gunsou,1.0
+481,468165,2017,585,Keroro Gunsou,Keroro Gunsou,1.0
+482,468451,529,586,Break Blade Movie 3: Kyoujin no Ato,Break Blade 3: Kyoujin no Ato,0.8181818181818182
+483,469509,670,587,Ao no Exorcist,Ao no Exorcist,1.0
+484,471309,843,589,Pandora Hearts,Pandora Hearts,1.0
+485,471831,156,590,Tentai Senshi Sunred 2,Tentai Senshi Sunred,0.8947368421052632
+486,472331,1127,590,Tentai Senshi Sunred,Tentai Senshi Sunred,1.0
+487,473982,287,592,Baby Steps 2,Baby Steps,0.8
+488,474051,728,592,Baby Steps,Baby Steps,1.0
+489,474351,2131,593,Bishoujo Senshi Sailor Moon Sailor Stars,Bishoujo Senshi Sailor Moon: Sailor Stars,0.8571428571428571
+490,476138,416,595,Pokemon: The Origin,Pokemon: The Origin,1.0
+491,477151,527,596,Detective Conan OVA 10: Kid in Trap Island,Detective Conan OVA 10: Kid in Trap Island,1.0
+492,478130,1247,597,Detective Conan Movie 9: Strategy Above the Depths,Detective Conan Movie 09: Strategy Above the Depths,0.9
+493,479759,1556,599,Les Miserables: Shoujo Cosette,Les Misrables: Shoujo Cosette,0.8333333333333334
+494,480185,557,600,Little Witch Academia: Mahou Shikake no Parade,Little Witch Academia: Mahou Shikake no Parade,1.0
+495,480972,467,601,Hidamari Sketch   Specials,Hidamari Sketch x  Specials,0.8148148148148148
+496,481452,1315,601,Hidamari Sketch Specials,Hidamari Sketch x  Specials,0.8076923076923077
+497,482735,1214,603,School Rumble: Ichi Gakki Hoshuu,School Rumble Ichi Gakki Hoshuu,0.84375
+498,484101,1728,605,Bokurano,Bokurano,1.0
+499,484499,496,606,Denpa Teki na Kanojo,Denpa Teki na Kanojo,1.0
+500,485425,1353,607,Tsuritama,Tsuritama,1.0
+501,486528,972,609,Plastic Memories,Plastic Memories,1.0
+502,487361,832,610,Seikai no Senki III,Seikai no Senki III,1.0
+503,487484,1076,610,Seikai no Senki II,Seikai no Senki III,0.9411764705882353
+504,488597,1238,611,Ichigo Mashimaro OVA,Ichigo Mashimaro OVA,1.0
+505,489973,1729,612,Tetsuwan Birdy Decode,Tetsuwan Birdy Decode:02,0.8636363636363636
+506,490542,866,613,Seikai no Monshou,Seikai no Monshou,1.0
+507,491088,2117,614,InuYasha,InuYasha,1.0
+508,492242,1839,615,Kono Danshi Ningyo Hiroimashita.,"Kono Danshi, Ningyo Hiroimashita.",0.84375
+509,492883,1037,616,Hoshi wo Ou Kodomo,Hoshi wo Ou Kodomo,1.0
+510,493823,894,617,Kyoukai no Kanata,Kyoukai no Kanata,1.0
+511,495843,1231,619,Baka to Test to Shoukanjuu: Matsuri,Baka to Test to Shoukanjuu: Matsuri,1.0
+512,497722,1352,621,Chi's Sweet Home,Chi's Sweet Home,1.0
+513,498496,1242,622,Bounen no Xamdou,Bounen no Xamdou,1.0
+514,499048,498,623,Full Metal Panic!,Full Metal Panic!,1.0
+515,499950,842,624,Tokyo Ravens,Tokyo Ravens,1.0
+516,501597,856,626,Noragami OVA,Noragami OVA,1.0
+517,502951,1977,627,Yumeiro Ptissire SP Professional,Yume-iro Ptissire SP Professional,0.84375
+518,503131,802,628,Minami-ke,Minami-ke,1.0
+519,506395,1117,632,Special A,Special A,1.0
+520,507088,627,634,Break Blade Movie 6: Doukoku no Toride,Break Blade 6: Doukoku no Toride,0.8333333333333334
+521,507931,2926,635,Daa! Daa! Daa!,Daa! Daa! Daa!,1.0
+522,510560,1187,639,Jigoku Shoujo: Mitsuganae,Jigoku Shoujo Mitsuganae,0.8
+523,511294,998,640,Macross Plus,Macross Plus,1.0
+524,512098,1043,641,Angel Beats! Special,Angel Beats! Specials,0.9473684210526315
+525,517080,891,647,Fruits Basket,Fruits Basket,1.0
+526,517488,1693,648,Memories,Memories,1.0
+527,519861,418,651,Break Blade Movie 2: Ketsubetsu no Michi,Break Blade 2: Ketsubetsu no Michi,0.8333333333333334
+528,523735,1806,654,Uchuu Kaizoku Captain Harlock,Uchuu Kaizoku Captain Harlock,1.0
+529,525572,1357,656,City Hunter '91,City Hunter '91,1.0
+530,526865,1209,658,K-On!,K-On!,1.0
+531,528165,513,660,Mobile Suit Gundam Wing: Endless Waltz Movie,Mobile Suit Gundam Wing: Endless Waltz,0.8571428571428571
+532,528415,1013,660,Mobile Suit Gundam Wing: Endless Waltz,Mobile Suit Gundam Wing: Endless Waltz,1.0
+533,530271,1378,662,Romeo x Juliet,Romeo x Juliet,1.0
+534,530955,1076,663,Seikai no Senki II,Seikai no Senki,0.8125
+535,531004,1193,663,Seikai no Senki,Seikai no Senki,1.0
+536,531357,1135,664,Slayers,Slayers,1.0
+537,531913,1026,665,Fairy Tail OVA,Fairy Tail OVA,1.0
+538,532647,683,666,The Last: Naruto the Movie,The Last: Naruto the Movie,1.0
+539,535660,1207,669,Uchuu Senkan Yamato 2199: Hoshimeguru Hakobune,Uchuu Senkan Yamato 2199: Hoshimeguru Hakobune,1.0
+540,536374,1120,670,Urusei Yatsura Movie 2: Beautiful Dreamer,Urusei Yatsura Movie 2: Beautiful Dreamer,1.0
+541,537015,762,671,Akame ga Kill!,Akame ga Kill!,1.0
+542,537585,474,672,Genshiken 2,Genshiken 2,1.0
+543,537979,847,673,Capeta,Capeta,1.0
+544,538251,736,674,Detective Conan Movie 16: The Eleventh Striker,Detective Conan Movie 16: The Eleventh Striker,1.0
+545,539188,933,675,Arakawa Under the Bridge x Bridge,Arakawa Under the Bridge x Bridge,1.0
+546,539537,1571,675,Arakawa Under the Bridge,Arakawa Under the Bridge x Bridge,0.8461538461538461
+547,541435,1020,677,Densetsu no Yuusha no Densetsu,Densetsu no Yuusha no Densetsu,1.0
+548,542241,860,678,Guilty Crown,Guilty Crown,1.0
+549,543307,1306,679,InuYasha: Kuroi Tessaiga,InuYasha: Kuroi Tessaiga,1.0
+550,548433,884,685,Kekkai Sensen,Kekkai Sensen,1.0
+551,548802,2151,686,Kimi to Boku.,Kimi to Boku.,1.0
+552,548951,596,686,Kimi to Boku. 2,Kimi to Boku.,0.8461538461538461
+553,549924,922,687,Nurarihyon no Mago,Nurarihyon no Mago OVA,0.8
+554,550745,2681,688,Oniisama e...,Oniisama e...,1.0
+555,551886,441,691,Seitokai Yakuindomo*,Seitokai Yakuindomo*,1.0
+556,551968,632,691,Seitokai Yakuindomo* OVA,Seitokai Yakuindomo*,0.8181818181818182
+557,552126,960,691,Seitokai Yakuindomo,Seitokai Yakuindomo*,0.9444444444444444
+558,553789,2131,693,Bishoujo Senshi Sailor Moon Sailor Stars,Bishoujo Senshi Sailor Moon S,0.84375
+559,553889,2308,693,Bishoujo Senshi Sailor Moon S,Bishoujo Senshi Sailor Moon S,1.0
+560,554078,2665,693,Bishoujo Senshi Sailor Moon Super S,Bishoujo Senshi Sailor Moon S,0.8181818181818182
+561,554353,3188,693,Bishoujo Senshi Sailor Moon R,Bishoujo Senshi Sailor Moon S,0.9285714285714286
+562,554593,3651,693,Bishoujo Senshi Sailor Moon,Bishoujo Senshi Sailor Moon S,0.9259259259259259
+563,555958,52,695,Shingeki no Kyojin,Shingeki no Kyojin OVA,0.8
+564,556642,1222,695,Shingeki no Kyojin OVA,Shingeki no Kyojin OVA,1.0
+565,557281,2924,696,Black Jack,Black Jack,1.0
+566,558504,2227,698,Soukou Kihei Votoms,Soukou Kihei Votoms,1.0
+567,559594,2342,699,Chibi Maruko-chan,Chibi Maruko-chan,1.0
+568,560880,848,700,Mitsudomoe Zouryouchuu!,Mitsudomoe Zouryouchuu!,1.0
+569,562126,1938,701,Jigoku Shoujo,Jigoku Shoujo,1.0
+570,562752,1266,702,Nobunaga Concerto,Nobunaga Concerto,1.0
+571,563177,182,703,Hoozuki no Reitetsu OVA,Hoozuki no Reitetsu,0.8095238095238095
+572,563949,1676,703,Hoozuki no Reitetsu,Hoozuki no Reitetsu,1.0
+573,564612,1150,704,Mobile Suit Gundam: Char's Counterattack,Mobile Suit Gundam: Char's Counterattack,1.0
+574,565195,1329,705,Over Drive,Over Drive,1.0
+575,566896,821,707,Hidamari Sketch x 365 Specials,Hidamari Sketch x 365 Specials,1.0
+576,568137,1616,708,Shingeki no Kyojin Movie 1: Guren no Yumiya,Shingeki no Kyojin Movie 1: Guren no Yumiya,1.0
+577,569183,12,710,Working!!!,Working!!,0.875
+578,569212,1086,710,Working!!,Working!!,1.0
+579,569864,784,711,Shingeki no Bahamut: Genesis,Shingeki no Bahamut: Genesis,1.0
+580,570815,462,712,Tonari no Kaibutsu-kun,Tonari no Kaibutsu-kun,1.0
+581,570976,2798,712,Tonari no Kaibutsu-kun OVA,Tonari no Kaibutsu-kun,0.8333333333333334
+582,572800,1593,715,Blood+,Blood+,1.0
+583,574543,2189,718,Gakuen Alice,Gakuen Alice,1.0
+584,575921,3554,719,Ojamajo Doremi Na-i-sho,Ojamajo Doremi Na-i-sho,1.0
+585,576832,1090,720,Ichigo Mashimaro Encore,Ichigo Mashimaro Encore,1.0
+586,577745,1820,721,Shaman King,Shaman King,1.0
+587,578025,582,722,Higashi no Eden - Movie II: Paradise Lost,Higashi no Eden Movie II: Paradise Lost,0.9
+588,579123,946,723,Inu x Boku SS Special,Inu x Boku SS Special,1.0
+589,579948,612,724,Boku wa Tomodachi ga Sukunai NEXT,Boku wa Tomodachi ga Sukunai Next,0.8235294117647058
+590,580113,935,724,Boku wa Tomodachi ga Sukunai,Boku wa Tomodachi ga Sukunai Next,0.8387096774193549
+591,581026,687,725,Break Blade Movie 1: Kakusei no Toki,Break Blade 1: Kakusei no Toki,0.8235294117647058
+592,583194,875,727,Hakuouki Sekkaroku,Hakuouki Sekkaroku,1.0
+593,585514,1972,729,Ichigo Mashimaro,Ichigo Mashimaro,1.0
+594,585947,983,730,Itazura na Kiss,Itazura na Kiss,1.0
+595,588627,2663,733,Kochira Katsushikaku Kameari Kouenmae Hashutsujo,Kochira Katsushikaku Kameari Kouenmae Hashutsujo (TV),0.8979591836734694
+596,590598,1749,735,Mobile Suit Gundam 0080: War in the Pocket,Mobile Suit Gundam 0080: War in the Pocket,1.0
+597,591640,1745,736,Panty & Stocking with Garterbelt,Panty & Stocking with Garterbelt,1.0
+598,593175,2948,738,Pretty Rhythm: Rainbow Live,Pretty Rhythm: Rainbow Live,1.0
+599,594736,1694,739,Macross Plus Movie Edition,Macross Plus Movie Edition,1.0
+600,597229,2718,743,Urusei Yatsura,Urusei Yatsura,1.0
+601,598624,1507,744,Utawarerumono Specials,Utawarerumono Specials,1.0
+602,599345,800,745,Zero no Tsukaima F,Zero no Tsukaima F,1.0
+603,599412,929,745,Zero no Tsukaima,Zero no Tsukaima F,0.875
+604,600120,824,746,Air Gear: Kuro no Hane to Nemuri no Mori -Break on the Sky-,Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky,0.8947368421052632
+605,600723,864,747,Servant x Service,Servant x Service,1.0
+606,601634,900,749,Higashi no Eden: Soushuu-hen Air Communication,Higashi no Eden Soushuuhen: Air Communication,0.8125
+607,602118,1331,750,D-Frag!,D-Frag!,1.0
+608,602481,674,751,New Initial D Movie: Legend 1 - Kakusei,New Initial D Movie: Legend 1 - Kakusei,1.0
+609,603348,907,752,City Hunter 3,City Hunter 3,1.0
+610,603632,1859,752,City Hunter,City Hunter 3,0.8181818181818182
+611,603665,1975,752,City Hunter 2,City Hunter 3,0.8333333333333334
+612,604781,510,754,Ao no Exorcist Movie,Ao no Exorcist Movie,1.0
+613,605539,2055,755,Yuru Yuri,Yuru Yuri,1.0
+614,605669,804,755,Yuru Yuri ,Yuru Yuri,0.8571428571428571
+615,605967,479,756,Sidonia no Kishi,Sidonia no Kishi,1.0
+616,606690,766,757,Elfen Lied,Elfen Lied,1.0
+617,607370,829,758,Tegami Bachi Reverse,Tegami Bachi Reverse,1.0
+618,608178,684,759,Durarara!!x2 Shou: Watashi no Kokoro wa Nabe Moyou,Durarara!!x2 Shou: Watashi no Kokoro wa Nabe Moyou,1.0
+619,608650,363,760,Ghost in the Shell: Stand Alone Complex - Solid State Society,Ghost in the Shell: Stand Alone Complex - Solid State Society 3D,0.9482758620689655
+620,609659,1521,761,Hanasakeru Seishounen,Hanasakeru Seishounen,1.0
+621,610414,1061,762,Hidamari Sketch x 365 EX,Hidamari Sketch x 365,0.8636363636363636
+622,610499,1236,762,Hidamari Sketch x 365,Hidamari Sketch x 365,1.0
+623,610943,2177,763,Mobile Suit Gundam,Mobile Suit Gundam,1.0
+624,610974,2230,763,Mobile Suit Gundam I,Mobile Suit Gundam,0.8888888888888888
+625,611177,551,763,Mobile Suit Gundam 00,Mobile Suit Gundam,0.8421052631578947
+626,611704,3587,763,Mobile Suit Gundam F91,Mobile Suit Gundam,0.8
+627,611736,3673,763,Mobile Suit Gundam ZZ,Mobile Suit Gundam,0.8421052631578947
+628,612734,1720,764,Michiko to Hatchin,Michiko to Hatchin,1.0
+629,614416,699,767,Persona 3 The Movie 1: Spring of Birth,Persona 3 the Movie 1: Spring of Birth,0.8461538461538461
+630,615224,801,768,Piano no Mori,Piano no Mori,1.0
+631,616938,758,770,Seitokai Yakuindomo OVA,Seitokai Yakuindomo OVA,1.0
+632,617045,960,770,Seitokai Yakuindomo,Seitokai Yakuindomo OVA,0.8095238095238095
+633,620442,1568,773,Mobile Suit Gundam III: Encounters in Space,Mobile Suit Gundam III: Encounters in Space,1.0
+634,621558,239,775,Kamisama Hajimemashita 2,Kamisama Hajimemashita OVA,0.84
+635,621576,264,775,Kamisama Hajimemashita OVA 2,Kamisama Hajimemashita OVA,0.9230769230769231
+636,621784,659,775,Kamisama Hajimemashita,Kamisama Hajimemashita OVA,0.8333333333333334
+637,622007,1075,775,Kamisama Hajimemashita OVA,Kamisama Hajimemashita OVA,1.0
+638,622680,861,776,Golden Time,Golden Time,1.0
+639,623990,1343,778,Arashi no Yoru ni,Arashi no Yoru ni,1.0
+640,626877,820,781,Hidamari Sketch x SP,Hidamari Sketch x SP,1.0
+641,629539,402,784,Giovanni no Shima,Giovanni no Shima,1.0
+642,630352,658,785,Charlotte,Charlotte,1.0
+643,631904,663,787,Akagami no Shirayukihime,Akagami no Shirayuki-hime,0.8
+644,633429,694,789,Baka to Test to Shoukanjuu 2,Baka to Test to Shoukanjuu,0.9166666666666666
+645,633493,805,789,Baka to Test to Shoukanjuu,Baka to Test to Shoukanjuu,1.0
+646,634560,902,790,Mahou Sensei Negima! ~Mou Hitotsu no Sekai~,Mahou Sensei Negima! Mou Hitotsu no Sekai,0.8536585365853658
+647,637854,1111,794,Mind Game,Mind Game,1.0
+648,639620,936,796,Mobile Suit Gundam Wing,Mobile Suit Gundam Wing,1.0
+649,642742,1014,801,Minami-ke Tadaima,Minami-ke Tadaima,1.0
+650,643676,1560,802,Hourou Musuko,Hourou Musuko,1.0
+651,643865,2174,803,Tantei Gakuen Q,Tantei Gakuen Q,1.0
+652,645033,955,804,Momo e no Tegami,Momo e no Tegami,1.0
+653,645939,922,805,Nurarihyon no Mago,Nurarihyon no Mago,1.0
+654,647019,522,807,Bokura wa Minna Kawaisou: Hajimete no,Bokura wa Minna Kawaisou: Hajimete no,1.0
+655,650007,465,810,Shakugan no Shana II,Shakugan no Shana,0.8235294117647058
+656,650145,816,810,Shakugan no Shana,Shakugan no Shana,1.0
+657,650380,1397,810,Shakugan no Shana S,Shakugan no Shana,0.875
+658,654112,486,815,Kara no Kyoukai Remix: Gate of Seventh Heaven,Kara no Kyoukai Remix: Gate of Seventh Heaven,1.0
+659,658161,1046,819,Mahouka Koukou no Rettousei,Mahouka Koukou no Rettousei,1.0
+660,658951,585,820,Higashi no Eden - Movie I: The King of Eden,Higashi no Eden Movie I: The King of Eden,0.8974358974358975
+661,662197,2248,824,Mobile Police Patlabor 2: The Movie,Mobile Police Patlabor 2: The Movie,1.0
+662,662261,2389,824,Mobile Police Patlabor: The Movie,Mobile Police Patlabor 2: The Movie,0.8235294117647058
+663,663974,1612,825,Majin Tantei Nougami Neuro,Majin Tantei Nougami Neuro,1.0
+664,665358,2041,826,Poyopoyo Kansatsu Nikki,Poyopoyo Kansatsu Nikki,1.0
+665,666718,1446,828,Saenai Heroine no Sodatekata,Saenai Heroine no Sodatekata,1.0
+666,670478,741,832,Towa no Quon 6: Towa no Quon,Towa no Quon 6: Towa no Quon,1.0
+667,672302,3818,834,Texhnolyze,Texhnolyze,1.0
+668,672570,2633,835,The iDOLM@STER,The iDOLM@STER,1.0
+669,674220,1998,836,Soredemo Sekai wa Utsukushii,Soredemo Sekai wa Utsukushii,1.0
+670,674490,493,837,The Disappearance of Conan Edogawa: The Worst Two Days in History,The Disappearance of Conan Edogawa: The Worst Two Days in History,1.0
+671,676580,862,840,Genshiken,Genshiken,1.0
+672,679210,971,844,Hal,Hal,1.0
+673,679518,2802,845,Inazuma Eleven GO,Inazuma Eleven,0.8
+674,679692,3215,845,Inazuma Eleven,Inazuma Eleven,1.0
+675,682555,1996,848,Master Keaton,Master Keaton,1.0
+676,685927,858,852,Evangelion: 3.0 You Can (Not) Redo,Evangelion: 3.0 You Can (Not) Redo,1.0
+677,686589,1477,853,Naruto,Naruto,1.0
+678,687425,1468,854,Initial D Battle Stage,Initial D Battle Stage 2,0.9090909090909091
+679,687553,1695,854,Initial D Battle Stage 2,Initial D Battle Stage 2,1.0
+680,688535,1349,856,K,K,1.0
+681,688536,2354,856,H2,K,1.0
+682,690124,1119,859,Macross Zero,Macross Zero,1.0
+683,690650,2709,860,Mainichi Kaasan,Mainichi Kaasan,1.0
+684,691541,1327,861,Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!,Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!,1.0
+685,692345,1080,862,Nodame Cantabile OVA 2,Nodame Cantabile OVA 2,1.0
+686,692404,1192,862,Nodame Cantabile OVA,Nodame Cantabile OVA 2,0.9
+687,694715,1301,865,Moyashimon,Moyashimon,1.0
+688,697051,911,868,Persona 4 The Animation,Persona 4 The Animation,1.0
+689,698152,909,869,Pokemon XY: Mega Evolution,Pokemon XY: Mega Evolution,1.0
+690,700324,182,872,Hoozuki no Reitetsu OVA,Hoozuki no Reitetsu OVA,1.0
+691,701187,1676,872,Hoozuki no Reitetsu,Hoozuki no Reitetsu OVA,0.8095238095238095
+692,702690,853,874,Detective Conan Movie 19: The Hellfire Sunflowers,Detective Conan Movie 19: The Hellfire Sunflowers,1.0
+693,705429,952,877,High School DxD BorN,High School DxD BorN,1.0
+694,707294,2589,879,Plawres Sanshiro,Plawres Sanshirou,0.9333333333333333
+695,708123,888,880,Nisekoi OVA,Nisekoi OVA,1.0
+696,709306,1584,882,Mahou Sensei Negima! ~Shiroki Tsubasa Ala Alba~,Mahou Sensei Negima! Shiroki Tsubasa Ala Alba,0.8666666666666667
+697,711447,2159,885,Taiyou no Ko Esteban,Taiyou no Ko Esteban,1.0
+698,712446,1354,886,Detective Conan Magic File 2: Kudo Shinichi: The Case of the Mysterious Wall and the Black Lab,Detective Conan Magic File 2: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab,0.8723404255319149
+699,712941,2962,887,Future GPX Cyber Formula ZERO,Future GPX Cyber Formula Zero,0.8
+700,713121,3323,887,Future GPX Cyber Formula,Future GPX Cyber Formula Zero,0.8148148148148148
+701,714208,3313,888,Fantastic Children,Fantastic Children,1.0
+702,714852,1297,889,Accel World,Accel World,1.0
+703,715783,2006,890,Bungaku Shoujo,Bungaku Shoujo,1.0
+704,717926,1878,892,Gugure! Kokkuri-san,Gugure! Kokkuri-san,1.0
+705,718442,2812,893,Haiyore! Nyaruko-san,Haiyore! Nyaruko-san F,0.9
+706,718852,1480,893,Haiyore! Nyaruko-san F,Haiyore! Nyaruko-san F,1.0
+707,718968,1669,893,Haiyore! Nyaruko-san W,Haiyore! Nyaruko-san F,0.9047619047619048
+708,719726,1063,894,Majokko Shimai no Yoyo to Nene,Majokko Shimai no Yoyo to Nene,1.0
+709,723008,951,899,Strike Witches Movie,Strike Witches Movie,1.0
+710,723644,263,900,Psycho-Pass,Psycho-Pass 2,0.8181818181818182
+711,723790,747,900,Psycho-Pass 2,Psycho-Pass 2,1.0
+712,725696,2763,903,UFO Robo Grendizer,UFO Robo Grendizer,1.0
+713,727004,1428,904,Aura: Maryuuinkouga Saigo no Tatakai,Aura: Maryuuinkouga Saigo no Tatakai,1.0
+714,727371,2244,905,Hourou Musuko Specials,Hourou Musuko Specials,1.0
+715,728752,1684,906,Detective Conan Magic File 4: Osaka Okonomiyaki Odyssey,Detective Conan Magic File 4: Osaka Okonomiyaki Odyssey,1.0
+716,728994,2308,907,Bishoujo Senshi Sailor Moon S,Bishoujo Senshi Sailor Moon,0.9259259259259259
+717,729503,3188,907,Bishoujo Senshi Sailor Moon R,Bishoujo Senshi Sailor Moon,0.9259259259259259
+718,729766,3651,907,Bishoujo Senshi Sailor Moon,Bishoujo Senshi Sailor Moon,1.0
+719,731557,1367,909,Waga Seishun no Arcadia,Waga Seishun no Arcadia,1.0
+720,733476,1191,911,Mitsudomoe Special,Mitsudomoe Special,1.0
+721,734637,1490,912,Mujin Wakusei Survive,Mujin Wakusei Survive,1.0
+722,735353,920,913,New Prince of Tennis,New Prince of Tennis,1.0
+723,735354,919,913,The New Prince of Tennis,New Prince of Tennis,0.8181818181818182
+724,737341,1405,915,Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,1.0
+725,737789,1432,916,Shion no Oh,Shion no Ou,0.8
+726,740394,986,919,Sora no Otoshimono,Sora no Otoshimono OVA,0.8888888888888888
+727,740921,2008,919,Sora no Otoshimono OVA,Sora no Otoshimono OVA,1.0
+728,741617,1422,920,Tsubasa Chronicle,Tsubasa Chronicle,1.0
+729,744232,1005,923,Tonari no Seki-kun,Tonari no Seki-kun,1.0
+730,744478,1449,923,Tonari no Seki-kun OVA,Tonari no Seki-kun,0.8
+731,746096,1084,925,Suisei no Gargantia,Suisei no Gargantia,1.0
+732,746856,1484,926,Heroic Age,Heroic Age,1.0
+733,748064,964,928,Detective Conan OVA 4: Conan and Kid and Crystal Mother,Detective Conan OVA 04: Conan and Kid and Crystal Mother,0.8958333333333334
+734,748763,924,929,Mobile Suit Gundam Wing: Operation Meteor,Mobile Suit Gundam Wing: Operation Meteor,1.0
+735,749216,2204,930,Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru,Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru,1.0
+736,751892,3970,933,Chuuka Ichiban!,Chuuka Ichiban!,1.0
+737,752268,2868,934,Ashita no Nadja,Ashita no Nadja,1.0
+738,752761,2089,935,CLAMP in Wonderland 2,CLAMP in Wonderland 2,1.0
+739,753732,2055,936,Yuru Yuri,Yuru Yuri,1.0
+740,753862,804,936,Yuru Yuri ,Yuru Yuri,0.8571428571428571
+741,754945,2026,937,City Hunter: Goodbye My Sweetheart,City Hunter: Goodbye My Sweetheart,1.0
+742,755994,800,939,Zero no Tsukaima F,Zero no Tsukaima,0.875
+743,756048,929,939,Zero no Tsukaima,Zero no Tsukaima,1.0
+744,757459,2004,940,Utawarerumono: Itsuwari no Kamen,Utawarerumono: Itsuwari no Kamen,1.0
+745,758457,1226,942,Darker than Black: Ryuusei no Gemini,Darker than Black: Ryuusei no Gemini,1.0
+746,761212,3773,945,Jigoku Sensei Nube,Jigoku Sensei Nube,1.0
+747,762143,1381,946,Kappa no Coo to Natsuyasumi,Kappa no Coo to Natsuyasumi,1.0
+748,762770,790,947,Kyoukai no Kanata Movie: I'll Be Here - Kako-hen,Kyoukai no Kanata Movie: I'll Be Here - Kako-hen,1.0
+749,764647,3006,949,Marmalade Boy,Marmalade Boy,1.0
+750,765028,2182,950,Medaka Box Abnormal,Medaka Box Abnormal,1.0
+751,767051,916,952,Rokka no Yuusha,Rokka no Yuusha,1.0
+752,768524,1978,953,Sengoku Basara Two,Sengoku Basara Two,1.0
+753,769066,1116,954,Senjou no Valkyria: Gallian Chronicles,Senjou no Valkyria: Gallian Chronicles,1.0
+754,769987,986,955,Sora no Otoshimono,Sora no Otoshimono,1.0
+755,770511,2008,955,Sora no Otoshimono OVA,Sora no Otoshimono,0.8888888888888888
+756,772377,482,958,Towa no Quon 4: Guren no Shoushin,Towa no Quon 4: Guren no Shoushin,1.0
+757,774725,2002,960,Yuusha-Oh GaoGaiGar Final Grand Glorious Gathering,Yuusha-Ou GaoGaiGar Final Grand Glorious Gathering,0.88
+758,775273,1053,961,Zero no Tsukaima: Futatsuki no Kishi,Zero no Tsukaima: Futatsuki no Kishi,1.0
+759,779036,1235,966,Genshiken OVA,Genshiken OVA,1.0
+760,780627,1435,968,Hakuouki Hekketsuroku,Hakuouki Hekketsuroku,1.0
+761,781123,2394,970,Bishoujo Senshi Sailor Moon S: The Movie,Bishoujo Senshi Sailor Moon R: The Movie,0.85
+762,781128,2403,970,Bishoujo Senshi Sailor Moon R: The Movie,Bishoujo Senshi Sailor Moon R: The Movie,1.0
+763,782798,2072,972,Inazuma Eleven GO: Kyuukyoku no Kizuna Gryphon,Inazuma Eleven Go: Kyuukyoku no Kizuna Gryphon,0.8723404255319149
+764,783863,949,973,Mobile Suit Gundam: Iron-Blooded Orphans,Mobile Suit Gundam: Iron-Blooded Orphans,1.0
+765,784902,1153,974,Mirai Nikki Redial,Mirai Nikki Redial,1.0
+766,786358,2150,976,Lupin III,Lupin III,1.0
+767,787017,1138,977,High School DxD,High School DxD,1.0
+768,788920,845,979,Amagi Brilliant Park,Amagi Brilliant Park,1.0
+769,790536,1979,980,Oda Nobuna no Yabou,Oda Nobuna no Yabou,1.0
+770,790901,1121,981,Utawarerumono,Utawarerumono,1.0
+771,795272,1776,987,Mahoujin Guru Guru,Mahoujin Guru Guru,1.0
+772,795652,1006,988,Fullmetal Alchemist: Brotherhood: 4-Koma Theater,Fullmetal Alchemist: Brotherhood - 4-Koma Theater,0.86
+773,797066,2037,989,Dragon Quest: Dai no Daibouken,Dragon Quest: Dai no Daibouken,1.0
+774,797384,1601,990,Mitsudomoe,Mitsudomoe,1.0
+775,801324,1997,995,Btooom!,Btooom!,1.0
+776,801397,2119,997,Gakkou no Kaidan,Gakkou no Kaidan,1.0
+777,802255,681,998,Gangsta.,Gangsta.,1.0
+778,803081,982,1000,Giant Killing,Giant Killing,1.0
+779,803524,1296,1001,Kekkaishi,Kekkaishi,1.0
+780,805165,1707,1003,Prince of Tennis: Another Story II ~Ano Toki no Bokura,Prince of Tennis: Another Story II - Ano Toki no Bokura,0.8867924528301887
+781,805169,1709,1003,The Prince of Tennis: Another Story II ~Ano Toki no Bokura,Prince of Tennis: Another Story II - Ano Toki no Bokura,0.8245614035087719
+782,805507,441,1004,Seitokai Yakuindomo*,Seitokai Yakuindomo,0.9444444444444444
+783,805652,758,1004,Seitokai Yakuindomo OVA,Seitokai Yakuindomo,0.8095238095238095
+784,805755,960,1004,Seitokai Yakuindomo,Seitokai Yakuindomo,1.0
+785,806812,1181,1005,Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa,Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa,1.0
+786,808806,989,1007,Ano Natsu de Matteru,Ano Natsu de Matteru,1.0
+787,809672,3103,1008,Turn A Gundam,Turn A Gundam,1.0
+788,812209,1990,1011,Hanbun no Tsuki ga Noboru Sora,Hanbun no Tsuki ga Noboru Sora,1.0
+789,812469,3216,1012,Black Jack 21,Black Jack 21,1.0
+790,814112,933,1015,Arakawa Under the Bridge x Bridge,Arakawa Under the Bridge,0.8461538461538461
+791,814474,1571,1015,Arakawa Under the Bridge,Arakawa Under the Bridge,1.0
+792,816032,973,1017,Inu x Boku SS,Inu x Boku SS,1.0
+793,817049,1318,1018,Isshuukan Friends.,Isshuukan Friends.,1.0
+794,818683,466,1020,Love Live! School Idol Project 2,Love Live! School Idol Project,0.9310344827586207
+795,819283,1602,1020,Love Live! School Idol Project,Love Live! School Idol Project,1.0
+796,819722,827,1021,Love Stage!!,Love Stage!!,1.0
+797,822019,2900,1024,Toriko,Toriko,1.0
+798,824585,1230,1027,Imawa no Kuni no Alice,Imawa no Kuni no Alice,1.0
+799,826701,3323,1029,Future GPX Cyber Formula,Future GPX Cyber Formula Sin,0.8461538461538461
+800,826774,3453,1029,Future GPX Cyber Formula SAGA,Future GPX Cyber Formula Sin,0.8275862068965517
+801,826808,3511,1029,Future GPX Cyber Formula 11,Future GPX Cyber Formula Sin,0.8214285714285714
+802,826828,3539,1029,Future GPX Cyber Formula SIN,Future GPX Cyber Formula Sin,0.8571428571428571
+803,828671,3125,1032,Himouto! Umaru-chan OVA,Himouto! Umaru-chan,0.8095238095238095
+804,828852,1419,1032,Himouto! Umaru-chan,Himouto! Umaru-chan,1.0
+805,831332,2014,1034,Layton Kyouju to Eien no Utahime,Layton Kyouju to Eien no Utahime,1.0
+806,832041,1715,1035,Love Stage!! OVA,Love Stage!! OVA,1.0
+807,832535,2787,1036,Mobile Police Patlabor TV,Mobile Police Patlabor,0.8636363636363636
+808,832570,2865,1036,Mobile Police Patlabor,Mobile Police Patlabor,1.0
+809,833759,785,1038,Ore no Imouto ga Konna ni Kawaii Wake ga Nai Specials,Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials,0.9019607843137255
+810,834680,1186,1039,Persona 3 The Movie 3: Falling Down,Persona 3 the Movie 3: Falling Down,0.8333333333333334
+811,835576,1260,1040,Shounen Onmyouji,Shounen Onmyouji,1.0
+812,837113,1265,1043,Air Gear,Air Gear,1.0
+813,837410,2393,1044,Uchuu Senkan Yamato,Uchuu Senkan Yamato,1.0
+814,837613,2807,1044,Uchuu Senkan Yamato 3,Uchuu Senkan Yamato,0.8947368421052632
+815,838035,1563,1044,Uchuu Senkan Yamato 2,Uchuu Senkan Yamato,0.8947368421052632
+816,838462,446,1045,Towa no Quon 5: Souzetsu no Raifuku,Towa no Quon 5: Souzetsu no Raifuku,1.0
+817,840430,903,1047,Zettai Karen Children: The Unlimited - Hyoubu Kyousuke,Zettai Karen Children: The Unlimited - Hyoubu Kyousuke,1.0
+818,840866,2308,1048,Bishoujo Senshi Sailor Moon S,Bishoujo Senshi Sailor Moon R,0.9285714285714286
+819,841330,3188,1048,Bishoujo Senshi Sailor Moon R,Bishoujo Senshi Sailor Moon R,1.0
+820,841570,3651,1048,Bishoujo Senshi Sailor Moon,Bishoujo Senshi Sailor Moon R,0.9259259259259259
+821,842230,3094,1049,Crayon Shin-chan,Crayon Shin-chan,1.0
+822,844292,1442,1051,Non Non Biyori: Okinawa e Ikukoto ni Natta,Non Non Biyori: Okinawa e Ikukoto ni Natta,1.0
+823,844717,976,1052,Perfect Day,Perfect Day,1.0
+824,849126,1128,1058,Angel Beats! Another Epilogue,Angel Beats!: Another Epilogue,0.8333333333333334
+825,849922,612,1059,Boku wa Tomodachi ga Sukunai NEXT,Boku wa Tomodachi ga Sukunai,0.8387096774193549
+826,850098,935,1059,Boku wa Tomodachi ga Sukunai,Boku wa Tomodachi ga Sukunai,1.0
+827,850475,3665,1059,Boku wa Tomodachi ga Sukunai OVA,Boku wa Tomodachi ga Sukunai,0.8666666666666667
+828,852170,3168,1061,Girls und Panzer,Girls und Panzer,1.0
+829,852662,2328,1062,Fushigi no Umi no Nadia,Fushigi no Umi no Nadia,1.0
+830,855341,1741,1064,Hello!! Kiniro Mosaic,Hello!! Kiniro Mosaic,1.0
+831,855542,2214,1065,Little Busters!,Little Busters!,1.0
+832,855976,1205,1065,Little Busters! EX,Little Busters!,0.8125
+833,856764,1059,1066,Mardock Scramble: The First Compression,Mardock Scramble: The First Compression,1.0
+834,857566,930,1067,Minami-ke Okaeri,Minami-ke Okaeri,1.0
+835,858171,2402,1068,The New Prince of Tennis Specials,New Prince of Tennis Specials,0.8709677419354839
+836,862115,788,1073,Towa no Quon 3: Mugen no Renza,Towa no Quon 3: Mugen no Renza,1.0
+837,864032,1418,1075,Shigofumi,Shigofumi,1.0
+838,864614,1912,1076,Shugo Chara!,Shugo Chara!,1.0
+839,866056,1703,1078,Suzumiya Haruhi-chan no Yuutsu,Suzumiya Haruhi-chan no Yuuutsu,0.9655172413793104
+840,868499,890,1081,Hellsing,Hellsing,1.0
+841,869250,1610,1082,Hetalia: The Beautiful World Extra Disc,Hetalia: The Beautiful World Extra Disc,1.0
+842,870735,978,1084,Hottarake no Shima: Haruka to Mahou no Kagami,Hottarake no Shima: Haruka to Mahou no Kagami,1.0
+843,872320,1107,1087,Seto no Hanayome OVA Special,Seto no Hanayome OVA Specials,0.9629629629629629
+844,873733,1773,1088,Yozakura Quartet: Hana no Uta,Yozakura Quartet: Hana no Uta,1.0
+845,874106,2567,1089,Ayakashi - Japanese Classic Horror,Ayakashi: Japanese Classic Horror,0.8
+846,875777,1478,1091,Yozakura Quartet: Tsuki ni Naku,Yozakura Quartet: Tsuki ni Naku,1.0
+847,876406,3176,1092,Casshern Sins,Casshern Sins,1.0
+848,876694,59,1093,Fate/stay night: Unlimited Blade Works TV,Fate/stay night: Unlimited Blade Works,0.9230769230769231
+849,876702,73,1093,Fate/stay night: Unlimited Blade Works TV 2,Fate/stay night: Unlimited Blade Works,0.8780487804878049
+850,876955,617,1093,Fate/stay night: Unlimited Blade Works,Fate/stay night: Unlimited Blade Works,1.0
+851,877996,3485,1094,Gallery Fake,Gallery Fake,1.0
+852,879102,1834,1095,Hakuouki Reimeiroku,Hakuouki Reimeiroku,1.0
+853,880348,2654,1097,Kemonozume,Kemonozume,1.0
+854,882295,2512,1100,Mikakunin de Shinkoukei OVA,Mikakunin de Shinkoukei,0.84
+855,882974,1682,1100,Mikakunin de Shinkoukei,Mikakunin de Shinkoukei,1.0
+856,884095,2044,1101,Patlabor: The Mobile Police - New Files,Mobile Police Patlabor: The New Files,0.8157894736842105
+857,884096,2045,1101,Mobile Police Patlabor - The New Files,Mobile Police Patlabor: The New Files,0.8108108108108109
+858,887366,1631,1106,Ore no Nounai Sentakushi ga Gakuen Love Comedy o Zenryoku de Jama Shiteiru,"Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru",0.8701298701298701
+859,887666,2448,1107,Cardcaptor Sakura Specials,Cardcaptor Sakura Specials,1.0
+860,889615,3156,1109,Yawara!,Yawara!,1.0
+861,889822,3254,1110,Area 88,Area 88,1.0
+862,891857,1448,1112,Shugo Chara!! Doki,Shugo Chara!! Doki,1.0
+863,893630,1395,1114,Shinryaku! Ika Musume,Shinryaku! Ika Musume,1.0
+864,893794,1726,1114,Shinryaku! Ika Musume OVA,Shinryaku! Ika Musume,0.8260869565217391
+865,894256,1673,1115,Cross Road,Cross Road,1.0
+866,896316,2427,1118,Donten ni Warau,Donten ni Warau,1.0
+867,897638,3323,1119,Future GPX Cyber Formula,Future GPX Cyber Formula Saga,0.8148148148148148
+868,897708,3453,1119,Future GPX Cyber Formula SAGA,Future GPX Cyber Formula Saga,0.8
+869,897760,3539,1119,Future GPX Cyber Formula SIN,Future GPX Cyber Formula Saga,0.8275862068965517
+870,898823,467,1121,Hidamari Sketch   Specials,Hidamari Sketch Specials,0.84
+871,899297,1315,1121,Hidamari Sketch Specials,Hidamari Sketch Specials,1.0
+872,899747,1172,1122,Chuunibyou demo Koi ga Shitai! Kirameki no... Slapstick Noel,Chuunibyou demo Koi ga Shitai!: Kirameki no... Slapstick Noel,0.9180327868852459
+873,902429,1798,1125,Naruto x UT,Naruto x UT,1.0
+874,903184,1383,1126,Kanojo to Kanojo no Neko,Kanojo to Kanojo no Neko,1.0
+875,903768,985,1127,On Your Mark,On Your Mark,1.0
+876,904446,899,1128,Lupin III (2015),Lupin III (2015),1.0
+877,905607,968,1130,Salaryman Kintaro,Salaryman Kintarou,0.9375
+878,906634,1112,1131,Persona 4 The Animation: No One is Alone,Persona 4 The Animation: No One is Alone,1.0
+879,909563,1166,1134,Shinryaku!? Ika Musume,Shinryaku!? Ika Musume,1.0
+880,910219,307,1135,Uchuu Senkan Yamato 2199,Uchuu Senkan Yamato 2,0.8636363636363636
+881,910242,2393,1135,Uchuu Senkan Yamato,Uchuu Senkan Yamato 2,0.8947368421052632
+882,910440,2807,1135,Uchuu Senkan Yamato 3,Uchuu Senkan Yamato 2,0.9
+883,910826,1563,1135,Uchuu Senkan Yamato 2,Uchuu Senkan Yamato 2,1.0
+884,912824,1731,1137,One Piece: Straw Hat Theater,One Piece: Straw Hat Theater,1.0
+885,916236,2165,1141,Amagami SS,Amagami SS,1.0
+886,916486,1425,1141,Amagami SS+,Amagami SS,0.8888888888888888
+887,916972,1410,1142,Chuunibyou Demo Koi ga Shitai! Ren: The Rikka Wars,Chuunibyou demo Koi ga Shitai! Ren: The Rikka Wars,0.8823529411764706
+888,918113,1389,1144,Yamada-kun to 7-nin no Majo OVA,Yamada-kun to 7-nin no Majo (OVA),0.8181818181818182
+889,919032,980,1146,Detective Conan Movie 11: Jolly Roger in the Deep Azure,Detective Conan Movie 11: Jolly Roger in the Deep Azure,1.0
+890,922048,1474,1149,Haikyuu!! Movie 1: Owari to Hajimari,Haikyuu!! Movie 1: Owari to Hajimari,1.0
+891,923032,1363,1150,Grisaia no Kajitsu,Grisaia no Kajitsu,1.0
+892,923452,1316,1151,Freedom,Freedom,1.0
+893,923918,1399,1152,Hoshi no Koe,Hoshi no Koe,1.0
+894,924454,868,1153,Fate/stay night,Fate/stay night,1.0
+895,925178,2568,1154,Kaitou Saint Tail,Kaitou Saint Tail,1.0
+896,926294,1704,1155,Prince of Tennis: Eikoku-shiki Teikyuu Shiro Kessen!,Prince of Tennis: Eikokushiki Teikyuu Shiro Kessen!,0.9019607843137255
+897,926295,1705,1155,The Prince of Tennis: Eikoku-shiki Teikyuu Shiro Kessen!,Prince of Tennis: Eikokushiki Teikyuu Shiro Kessen!,0.8363636363636363
+898,928295,1423,1157,Otome Youkai Zakuro,Otome Youkai Zakuro,1.0
+899,928916,771,1158,Owari no Seraph,Owari no Seraph,1.0
+900,929467,2332,1159,Metropolis,Metropolis,1.0
+901,929992,2371,1160,Mobile Fighter G Gundam,Mobile Fighter G Gundam,1.0
+902,932528,1149,1162,Shonan Junai Gumi,Shonan Junai Gumi!,0.9375
+903,934137,1734,1164,Toshokan Sensou,Toshokan Sensou,1.0
+904,935004,1913,1165,Sengoku Basara,Sengoku Basara,1.0
+905,935289,1373,1166,True Tears,True Tears,1.0
+906,935817,1118,1167,Sayonara Zetsubou Sensei Jo: Zoku Zetsubou Shoujo Senshuu,Sayonara Zetsubou Sensei Jo: Zoku Zetsubou Shoujo Senshuu,1.0
+907,935896,1377,1167,Sayonara Zetsubou Sensei Jo: Zetsubou Shoujo Senshuu,Sayonara Zetsubou Sensei Jo: Zoku Zetsubou Shoujo Senshuu,0.8837209302325582
+908,937042,1752,1168,Urusei Yatsura OVA,Urusei Yatsura OVA,1.0
+909,937839,1356,1169,Vampire Knight Guilty,Vampire Knight Guilty,1.0
+910,938567,870,1170,Zero no Tsukaima: Princess no Rondo,Zero no Tsukaima: Princesses no Rondo,0.8823529411764706
+911,939357,1400,1171,Acchi Kocchi,Acchi Kocchi,1.0
+912,940663,2308,1173,Bishoujo Senshi Sailor Moon S,Bishoujo Senshi Sailor Moon SuperS,0.84375
+913,940848,2665,1173,Bishoujo Senshi Sailor Moon Super S,Bishoujo Senshi Sailor Moon SuperS,0.9117647058823529
+914,942705,2270,1175,Bokura ga Ita,Bokura ga Ita,1.0
+915,943994,1805,1176,Captain Harlock,Captain Harlock,1.0
+916,944741,1387,1177,Fairy Tail x Rave,Fairy Tail x Rave,1.0
+917,945721,1317,1178,Gundam Build Fighters Try,Gundam Build Fighters Try,1.0
+918,945936,1722,1178,Gundam Build Fighters,Gundam Build Fighters Try,0.8260869565217391
+919,946656,1174,1179,Chrome Shelled Regios,Chrome Shelled Regios,1.0
+920,948310,2336,1181,Hokuto no Ken,Hokuto no Ken 2,0.8461538461538461
+921,948949,1848,1181,Hokuto no Ken 2,Hokuto no Ken 2,1.0
+922,949485,3121,1182,Mobile Suit Gundam II: Soldiers of Sorrow,Mobile Suit Gundam II: Soldiers of Sorrow,1.0
+923,949811,1920,1182,Mobile Suit Gundam II: Soldiers of Sorrow,Mobile Suit Gundam II: Soldiers of Sorrow,1.0
+924,950714,1468,1183,Initial D Battle Stage,Initial D Battle Stage,1.0
+925,950852,1695,1183,Initial D Battle Stage 2,Initial D Battle Stage,0.9090909090909091
+926,951024,2056,1184,Rozen Maiden,Rozen Maiden,1.0
+927,951631,1678,1185,Level E,Level E,1.0
+928,951936,2477,1186,Paniponi Dash!,Paniponi Dash!,1.0
+929,952769,2574,1187,Mugen no Ryvius,Mugen no Ryvius,1.0
+930,953742,2715,1188,Magic Knight Rayearth,Magic Knight Rayearth II,0.8636363636363636
+931,955241,2953,1190,AKB0048,AKB0048,1.0
+932,956733,1492,1192,Aishiteruze Baby,Aishiteruze Baby,1.0
+933,958060,1256,1194,Samurai 7,Samurai 7,1.0
+934,959193,1970,1195,Dareka no Manazashi,Dareka no Manazashi,1.0
+935,959379,1759,1197,Chobits,Chobits,1.0
+936,962865,2839,1202,Doraemon (2005),Doraemon (2005),1.0
+937,965842,851,1206,Full Metal Panic! The Second Raid: Episode 00,Full Metal Panic! The Second Raid Episode 000,0.8695652173913043
+938,967355,2219,1208,Hakkenden: Touhou Hakken Ibun,Hakkenden: Touhou Hakken Ibun,1.0
+939,968503,280,1209,Higurashi no Naku Koro ni Kai,Higurashi no Naku Koro ni Rei,0.8
+940,968562,401,1209,Higurashi no Naku Koro ni,Higurashi no Naku Koro ni Rei,0.8518518518518519
+941,968959,1137,1209,Higurashi no Naku Koro ni Rei,Higurashi no Naku Koro ni Rei,1.0
+942,970207,3958,1210,Kamichama Karin,Kamichama Karin,1.0
+943,971314,1853,1211,Kamisama no Inai Nichiyoubi,Kamisama no Inai Nichiyoubi,1.0
+944,972639,1981,1213,Minami-ke Betsubara,Minami-ke Betsubara,1.0
+945,972852,2487,1214,Heppoko Jikken Animation Excel Saga,Heppoko Jikken Animation Excel Saga,1.0
+946,975371,1208,1216,Mardock Scramble: The Third Exhaust,Mardock Scramble: The Third Exhaust,1.0
+947,977469,995,1218,One Piece: Romance Dawn Story,One Piece: Romance Dawn Story,1.0
+948,979628,3316,1220,Shoujo Kakumei Utena: Adolescence Mokushiroku,Shoujo Kakumei Utena: Adolescence Mokushiroku,1.0
+949,979929,3332,1221,Simoun,Simoun,1.0
+950,980258,2502,1222,Tetsujin 28-gou (2004),Tetsujin 28-gou (2004),1.0
+951,981148,1349,1223,K,X,1.0
+952,981149,2354,1223,H2,X,1.0
+953,981162,2070,1224,Angel Densetsu,Angel Densetsu,1.0
+954,985257,2416,1229,Gokinjo Monogatari,Gokinjo Monogatari,1.0
+955,986431,794,1230,Kara no Kyoukai: Mirai Fukuin - Extra Chorus,Kara no Kyoukai: Mirai Fukuin - Extra Chorus,1.0
+956,987741,2125,1232,Maria-sama ga Miteru Specials,Maria-sama ga Miteru Specials,1.0
+957,987868,2361,1232,Maria-sama ga Miteru 3rd Specials,Maria-sama ga Miteru Specials,0.8125
+958,988654,1809,1232,Maria-sama ga Miteru 4th Specials,Maria-sama ga Miteru Specials,0.8125
+959,988784,1638,1233,Karas,Karas,1.0
+960,989018,1947,1234,Mobile Suit Gundam SEED Destiny Final Plus: The Chosen Future,Mobile Suit Gundam Seed Destiny Final Plus: The Chosen Future,0.84375
+961,989307,1146,1235,Mayo Chiki!,Mayo Chiki!,1.0
+962,991642,3973,1238,Tokimeki Tonight,Tokimeki Tonight,1.0
+963,991826,475,1239,Tokyo Ghoul A,Tokyo Ghoul A,1.0
+964,991849,571,1239,Tokyo Ghoul,Tokyo Ghoul A,0.8181818181818182
+965,994011,1594,1241,Saiyuki Reload Gunlock,Saiyuuki Reload Gunlock,0.8636363636363636
+966,995264,1481,1243,Seitokai no Ichizon,Seitokai no Ichizon,1.0
+967,995321,1608,1243,Seitokai no Ichizon 2,Seitokai no Ichizon,0.8947368421052632
+968,996289,1232,1245,Persona 4 the Animation: The Factor of Hope,Persona 4 The Animation: The Factor of Hope,0.9024390243902439
+969,997937,1417,1247,Hetalia: Axis Powers Fan Disc,Hetalia Axis Powers Fan Disc,0.8275862068965517
+970,998504,2065,1249,Joshiraku,Joshiraku,1.0
+971,998873,2294,1250,Uchuu no Kishi Tekkaman Blade,Uchuu no Kishi Tekkaman Blade,1.0
+972,999947,1333,1251,Harmonie,Harmonie,1.0
+973,1000156,2295,1252,Deadman Wonderland OVA,Deadman Wonderland,0.8
+974,1000726,1312,1252,Deadman Wonderland,Deadman Wonderland,1.0
+975,1001594,873,1253,Highschool of the Dead,Highschool of the Dead,1.0
+976,1002392,1452,1254,Hiyokoi,Hiyokoi,1.0
+977,1006064,2248,1259,Mobile Police Patlabor 2: The Movie,Mobile Police Patlabor: The Movie,0.8235294117647058
+978,1006128,2389,1259,Mobile Police Patlabor: The Movie,Mobile Police Patlabor: The Movie,1.0
+979,1006363,2788,1259,Patlabor: The Mobile Police TV,Mobile Police Patlabor: The Movie,0.8125
+980,1006406,2866,1259,Patlabor: The Mobile Police,Mobile Police Patlabor: The Movie,0.8333333333333334
+981,1007472,1123,1260,Ore no Imouto ga Konna ni Kawaii Wake ga Nai,Ore no Imouto ga Konnani Kawaii Wake ga Nai,0.8809523809523809
+982,1007481,1141,1260,Ore no Imouto ga Konna ni Kawaii Wake ga Nai.,Ore no Imouto ga Konnani Kawaii Wake ga Nai,0.8604651162790697
+983,1007915,2256,1261,Junjou Romantica Special,Junjou Romantica Special,1.0
+984,1009459,3944,1262,Sugar Sugar Rune,Sugar Sugar Rune,1.0
+985,1009548,2162,1263,Aoki Hagane no Arpeggio: Ars Nova DC,Aoki Hagane no Arpeggio: Ars Nova,0.9090909090909091
+986,1010356,1645,1263,Aoki Hagane no Arpeggio: Ars Nova,Aoki Hagane no Arpeggio: Ars Nova,1.0
+987,1011583,1850,1264,Shoubushi Densetsu Tetsuya,Shoubushi Densetsu Tetsuya,1.0
+988,1013666,2527,1267,Tenshi na Konamaiki,Tenshi na Konamaiki,1.0
+989,1014703,2517,1268,Super GALS! Kotobuki Ran,Super GALS! Kotobuki Ran,1.0
+990,1016754,2162,1270,Aoki Hagane no Arpeggio: Ars Nova DC,Aoki Hagane no Arpeggio: Ars Nova DC,1.0
+991,1017473,1645,1270,Aoki Hagane no Arpeggio: Ars Nova,Aoki Hagane no Arpeggio: Ars Nova DC,0.9090909090909091
+992,1017872,970,1271,Blood Lad,Blood Lad,1.0
+993,1018194,1461,1272,Brave Story,Brave Story,1.0
+994,1020224,1351,1274,Carnival Phantasm: EX Season,Carnival Phantasm EX Season,0.8214285714285714
+995,1021295,1763,1275,Danna ga Nani o Itteiru ka Wakaranai Ken,Danna ga Nani wo Itteiru ka Wakaranai Ken,0.8780487804878049
+996,1021404,2186,1276,Detective Conan Magic File 3: Shinichi and Ran: Memories of Mahjong Tiles and Tanabata,Detective Conan Magic File 3: Shinichi and Ran - Memories of Mahjong Tiles and Tanabata,0.9259259259259259
+997,1023542,1411,1280,Higashi no Eden: Falling Down,Higashi no Eden: Falling Down,1.0
+998,1024052,2558,1281,Masuda Kousuke Gekijou Gag Manga Biyori 3,Masuda Kousuke Gekijou Gag Manga Biyori 2,0.95
+999,1024100,2646,1281,Masuda Kousuke Gekijou Gag Manga Biyori,Masuda Kousuke Gekijou Gag Manga Biyori 2,0.9487179487179487
+1000,1024244,2965,1281,Masuda Kousuke Gekijou Gag Manga Biyori 2,Masuda Kousuke Gekijou Gag Manga Biyori 2,1.0
+1001,1024344,3201,1281,Masuda Kousuke Gekijou Gag Manga Biyori +,Masuda Kousuke Gekijou Gag Manga Biyori 2,0.95
+1002,1026090,1614,1283,Ganbare Genki,Ganbare Genki,1.0
+1003,1026898,1444,1284,Genshiken Nidaime,Genshiken Nidaime,1.0
+1004,1027941,1964,1285,Gunslinger Girl,Gunslinger Girl,1.0
+1005,1028338,1376,1287,Pale Cocoon,Pale Cocoon,1.0
+1006,1028531,3166,1288,Senyuu. 2,Senyuu. 2,1.0
+1007,1029505,2564,1290,Saki,Saki,1.0
+1008,1030063,1080,1291,Nodame Cantabile OVA 2,Nodame Cantabile OVA,0.9
+1009,1030121,1192,1291,Nodame Cantabile OVA,Nodame Cantabile OVA,1.0
+1010,1030585,3126,1292,RahXephon,RahXephon,1.0
+1011,1031891,2513,1294,Kaikan Phrase,Kaikan Phrase,1.0
+1012,1033701,2522,1297,Yuuki Yuuna wa Yuusha de Aru,Yuuki Yuuna wa Yuusha de Aru,1.0
+1013,1035168,722,1299,Yahari Ore no Seishun Love Come wa Machigatteiru.,Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA,0.8181818181818182
+1014,1035366,1710,1299,Yahari Ore no Seishun Love Come wa Machigatteiru. OVA,Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA,0.8909090909090909
+1015,1036012,1164,1300,Tetsuwan Birdy Decode 2,Tetsuwan Birdy Decode,0.9047619047619048
+1016,1036296,1729,1300,Tetsuwan Birdy Decode,Tetsuwan Birdy Decode,1.0
+1017,1037411,1984,1301,Chuunibyou Demo Koi ga Shitai! Ren,Chuunibyou demo Koi ga Shitai! Ren,0.8285714285714286
+1018,1038403,1939,1303,Ookiku Furikabutte: Natsu no Taikai-hen Special,Ookiku Furikabutte: Natsu no Taikai Hen Special,0.8333333333333334
+1019,1039300,3694,1304,Perrine Monogatari,Perrine Monogatari,1.0
+1020,1040549,16,1307,Sword Art Online,Sword Art Online II,0.8235294117647058
+1021,1040954,793,1307,Sword Art Online II,Sword Art Online II,1.0
+1022,1042809,3336,1309,Shigurui,Shigurui,1.0
+1023,1043524,1142,1310,Toradora!: Bentou no Gokui,Toradora!: Bentou no Gokui,1.0
+1024,1044104,3240,1312,The Big O,The Big O,1.0
+1025,1045736,1303,1314,Vandread: The Second Stage,Vandread: The Second Stage,1.0
+1026,1046933,2950,1316,Bartender,Bartender,1.0
+1027,1047762,2030,1317,Tegami Bachi: Hikari to Ao no Gensou Yawa,Tegami Bachi: Hikari to Ao no Gensou Yawa,1.0
+1028,1048364,1816,1318,Detective Conan Magic File 6: Fantasista Flower,Detective Conan Magic File 6: Fantasista Flower,1.0
+1029,1050100,2155,1321,City Hunter: The Secret Service,City Hunter: The Secret Service,1.0
+1030,1052323,1952,1323,Black Cat,Black Cat,1.0
+1031,1053230,1552,1324,Gatchaman Crowds Insight,Gatchaman Crowds Insight,1.0
+1032,1053762,2850,1325,Fullmetal Alchemist: The Sacred Star of Milos Specials,Fullmetal Alchemist: The Sacred Star of Milos,0.8269230769230769
+1033,1053894,1156,1325,Fullmetal Alchemist: The Sacred Star of Milos,Fullmetal Alchemist: The Sacred Star of Milos,1.0
+1034,1054770,1106,1326,Gatchaman Crowds: Embrace,Gatchaman Crowds: Embrace,1.0
+1035,1055656,988,1327,Kaze no Stigma,Kaze no Stigma,1.0
+1036,1059225,2946,1331,Oruchuban Ebichu,Oruchuban Ebichu,1.0
+1037,1062400,1409,1335,Trinity Seven OVA,Trinity Seven OVA,1.0
+1038,1062762,1263,1336,Sankarea,Sankarea,1.0
+1039,1064513,1196,1338,Towa no Quon 1: Utakata no Kaben,Towa no Quon 1: Utakata no Kaben,1.0
+1040,1065764,1395,1339,Shinryaku! Ika Musume,Shinryaku!! Ika Musume,0.8571428571428571
+1041,1067675,1858,1342,Zipang,Zipang,1.0
+1042,1068600,1717,1343,Chi's Sweet Home OVA,Chi's Sweet Home OVA,1.0
+1043,1069450,1289,1345,Ben-To,Ben-To,1.0
+1044,1071051,1527,1347,Busou Renkin,Busou Renkin,1.0
+1045,1072242,2561,1349,Air,Air,1.0
+1046,1073064,1849,1350,Happy Birthday Inochi Kagayaku Toki,"Happy Birthday, Inochi Kagayaku Toki",0.8611111111111112
+1047,1073883,1540,1351,Hitsugi no Chaika,Hitsugi no Chaika,1.0
+1048,1074149,2193,1352,Initial D Extra Stage,Initial D Extra Stage 2,0.9047619047619048
+1049,1077559,1123,1355,Ore no Imouto ga Konna ni Kawaii Wake ga Nai,Ore no Imouto ga Konnani Kawaii Wake ga Nai.,0.8604651162790697
+1050,1077570,1141,1355,Ore no Imouto ga Konna ni Kawaii Wake ga Nai.,Ore no Imouto ga Konnani Kawaii Wake ga Nai.,0.8837209302325582
+1051,1078133,2774,1356,Lady Jewelpet,Lady Jewelpet,1.0
+1052,1081152,1723,1359,Sakasama no Patema: Beginning of the Day,Sakasama no Patema: Beginning of the Day,1.0
+1053,1082031,1578,1360,Scrapped Princess,Scrapped Princess,1.0
+1054,1082515,1566,1361,Shashinkan,Shashinkan,1.0
+1055,1084572,1374,1364,Tonari no Seki-kun Specials,Tonari no Seki-kun Specials,1.0
+1056,1085570,1109,1365,Towa no Quon 2: Konton no Ranbu,Towa no Quon 2: Konton no Ranbu,1.0
+1057,1086739,1322,1366,Uchuu Show e Youkoso,Uchuu Show e Youkoso,1.0
+1058,1087883,1909,1367,Waga Seishun no Arcadia: Mugen Kidou SSX,Waga Seishun no Arcadia: Mugen Kidou SSX,1.0
+1059,1089599,3392,1369,Aoki Densetsu Shoot!,Aoki Densetsu Shoot!,1.0
+1060,1092717,1534,1372,Baka to Test to Shoukanjuu Specials,Baka to Test to Shoukanjuu Specials,1.0
+1061,1093885,1768,1373,Hentai Ouji to Warawanai Neko.,Hentai Ouji to Warawanai Neko.,1.0
+1062,1094493,3016,1374,Garo: Honoo no Kokuin,Garo: Honoo no Kokuin,1.0
+1063,1096270,849,1376,Gochuumon wa Usagi Desu ka??,Gochuumon wa Usagi Desu ka?,0.9615384615384616
+1064,1096375,3077,1376,Gochuumon wa Usagi Desu ka?,Gochuumon wa Usagi Desu ka?,1.0
+1065,1100945,2290,1381,Kamichu!,Kamichu!,1.0
+1066,1102044,2556,1383,Love Lab,Love Lab,1.0
+1067,1102384,2848,1384,Hidamari Sketch,Hidamari Sketch,1.0
+1068,1102562,1217,1384,Hidamari Sketch  ,Hidamari Sketch,0.8666666666666667
+1069,1102877,1957,1385,GJ-bu,GJ-bu,1.0
+1070,1104291,2584,1387,Lupin III: Part III,Lupin III: Part III,1.0
+1071,1104650,1339,1387,Lupin III: Part II,Lupin III: Part III,1.0
+1072,1105868,2125,1389,Maria-sama ga Miteru Specials,Maria-sama ga Miteru: Haru Specials,0.8181818181818182
+1073,1108274,2125,1392,Maria-sama ga Miteru Specials,Maria-sama ga Miteru 3rd Specials,0.8125
+1074,1108384,2361,1392,Maria-sama ga Miteru 3rd Specials,Maria-sama ga Miteru 3rd Specials,1.0
+1075,1109666,940,1393,Mardock Scramble: The Second Combustion,Mardock Scramble: The Second Combustion,1.0
+1076,1110563,3594,1394,Osomatsu-san,Osomatsu-san,1.0
+1077,1115240,2615,1399,Sentou Mecha Xabungle,Sentou Mecha Xabungle,1.0
+1078,1116674,1439,1400,Slayers Evolution-R,Slayers Evolution-R,1.0
+1079,1116676,1440,1400,The Slayers Evolution-R,Slayers Evolution-R,0.8095238095238095
+1080,1117966,3039,1402,Strawberry Panic,Strawberry Panic,1.0
+1081,1119518,2667,1404,Senyuu.,Senyuu.,1.0
+1082,1119706,3161,1405,Sabagebu!,Sabagebu!,1.0
+1083,1120038,2169,1407,Shikabane Hime: Kuro,Shikabane Hime: Kuro,1.0
+1084,1121883,2154,1409,Speed Grapher,Speed Grapher,1.0
+1085,1124633,1950,1411,Yozakura Quartet: Hoshi no Umi,Yozakura Quartet: Hoshi no Umi,1.0
+1086,1125590,2694,1415,Yuyushiki,Yuyushiki,1.0
+1087,1126393,1267,1416,"Tabisuru Nuigurumi: Traveling ""Daru""",Tabisuru Nuigurumi: Traveling Daru,0.8285714285714286
+1088,1127293,1313,1417,Suisei no Gargantia: Meguru Kouro Haruka,"Suisei no Gargantia: Meguru Kouro, Haruka",0.8780487804878049
+1089,1127993,2854,1418,Afro Samurai Resurrection,Afro Samurai: Resurrection,0.8076923076923077
+1090,1129443,1544,1419,Biohazard: Damnation,Biohazard: Damnation,1.0
+1091,1134773,1234,1426,Flanders no Inu,Flanders no Inu,1.0
+1092,1135917,3754,1427,Groove Adventure Rave,Groove Adventure Rave,1.0
+1093,1137264,2193,1429,Initial D Extra Stage,Initial D Extra Stage,1.0
+1094,1138294,2278,1430,Potemayo Specials,Potemayo Specials,1.0
+1095,1141504,1511,1433,Kannagi,Kannagi,1.0
+1096,1144176,1666,1437,Tari Tari,Tari Tari,1.0
+1097,1146571,1895,1440,Steamboy,Steamboy,1.0
+1098,1148108,2050,1443,Sekirei,Sekirei,1.0
+1099,1148362,2201,1444,Dragon Ball: Episode of Bardock,Dragon Ball: Episode of Bardock,1.0
+1100,1149666,2827,1445,Damekko Doubutsu,Damekko Doubutsu,1.0
+1101,1150201,1647,1446,Danganronpa Kibou no Gakuen to Zetsubou no Koukousei The Animation,Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,0.9193548387096774
+1102,1151579,2784,1448,Ginga Kikoutai Majestic Prince,Ginga Kikoutai Majestic Prince,1.0
+1103,1155376,3411,1452,Soukou Kihei Votoms: Red Shoulder Document - Yabou no Roots,Soukou Kihei Votoms: Red Shoulder Document - Yabou no Roots,1.0
+1104,1155960,3491,1453,Snow Halation,Snow Halation,1.0
+1105,1157449,465,1455,Shakugan no Shana II,Shakugan no Shana S,0.8333333333333334
+1106,1157623,816,1455,Shakugan no Shana,Shakugan no Shana S,0.875
+1107,1157937,1397,1455,Shakugan no Shana S,Shakugan no Shana S,1.0
+1108,1160200,1557,1457,Rakudai Kishi no Cavalry,Rakudai Kishi no Cavalry,1.0
+1109,1161454,1900,1458,Tales of the Abyss,Tales of the Abyss,1.0
+1110,1162406,1609,1459,Seitokai no Ichizon Lv.2,Seitokai no Ichizon Lv.2,1.0
+1111,1162993,1345,1460,Detective Conan OVA 11: A Secret Order from London,Detective Conan OVA 11: A Secret Order from London,1.0
+1112,1164454,3721,1462,Tenshi no Tamago,Tenshi no Tamago,1.0
+1113,1164985,1403,1463,Black Bullet,Black Bullet,1.0
+1114,1166552,2888,1466,Futatsu no Spica,Futatsu no Spica,1.0
+1115,1167259,2698,1467,Inazuma Eleven: Saikyou Gundan Ogre Shuurai,Inazuma Eleven: Saikyou Gundan Ogre Shuurai,1.0
+1116,1167260,2697,1467,Gekijouban Inazuma Eleven: Saikyou Gundan Ogre Shuurai,Inazuma Eleven: Saikyou Gundan Ogre Shuurai,0.803921568627451
+1117,1169183,1914,1469,Kiss x Sis,Kiss x Sis,1.0
+1118,1171907,2740,1473,Karakuri Zoushi Ayatsuri Sakon,Karakuri Zoushi Ayatsuri Sakon,1.0
+1119,1174162,2955,1475,Meitantei Holmes,Meitantei Holmes,1.0
+1120,1175503,1965,1476,Shigofumi Special,Shigofumi Special,1.0
+1121,1176122,2433,1478,Ristorante Paradiso,Ristorante Paradiso,1.0
+1122,1176998,2158,1479,Shin Getter Robo,Shin Getter Robo,1.0
+1123,1180352,1542,1482,Ookami Shoujo to Kuro Ouji OVA,Ookami Shoujo to Kuro Ouji,0.8571428571428571
+1124,1180400,1630,1482,Ookami Shoujo to Kuro Ouji,Ookami Shoujo to Kuro Ouji,1.0
+1125,1181648,1780,1483,Selector Spread WIXOSS,Selector Spread WIXOSS,1.0
+1126,1183788,1826,1485,Yowamushi Pedal: Special Ride,Yowamushi Pedal: Special Ride,1.0
+1127,1184953,2099,1487,Tamayura: More Aggressive OVA,Tamayura: More Aggressive,0.8518518518518519
+1128,1185163,2496,1487,Tamayura: More Aggressive,Tamayura: More Aggressive,1.0
+1129,1186939,2040,1488,Uchuu no Stellvia,Uchuu no Stellvia,1.0
+1130,1186999,2175,1489,Shinrei Tantei Yakumo,Shinrei Tantei Yakumo,1.0
+1131,1188743,1944,1490,Vampire Knight,Vampire Knight,1.0
+1132,1189114,2720,1491,Zettai Karen Children,Zettai Karen Children,1.0
+1133,1190612,1746,1492,Dragon Ball Super,Dragon Ball Super,1.0
+1134,1190771,1624,1493,Detective Conan Magic File 5: Niigata - Tokyo Omiyage Capriccio,Detective Conan Magic File 5: Niigata - Tokyo Omiyage Capriccio,1.0
+1135,1192675,2974,1496,Dodge Danpei,Dodge Danpei,1.0
+1136,1194815,1547,1499,C: The Money of Soul and Possibility Control,C: The Money of Soul and Possibility Control,1.0
+1137,1196192,2562,1501,Wangan Midnight,Wangan Midnight,1.0
+1138,1199692,3138,1505,Whistle!,Whistle!,1.0
+1139,1199942,2184,1506,Asura Cryin' 2,Asura Cryin' 2,1.0
+1140,1200310,3095,1506,Asura Cryin',Asura Cryin' 2,0.8333333333333334
+1141,1201411,1836,1507,Hatsukoi Limited,Hatsukoi Limited,1.0
+1142,1202684,2432,1509,City Hunter: Bay City Wars,City Hunter: Bay City Wars,1.0
+1143,1203906,1414,1510,D-Frag! OVA,D-Frag! OVA,1.0
+1144,1204536,2962,1511,Future GPX Cyber Formula ZERO,Future GPX Cyber Formula,0.8148148148148148
+1145,1204745,3323,1511,Future GPX Cyber Formula,Future GPX Cyber Formula,1.0
+1146,1204816,3453,1511,Future GPX Cyber Formula SAGA,Future GPX Cyber Formula,0.8148148148148148
+1147,1204848,3511,1511,Future GPX Cyber Formula 11,Future GPX Cyber Formula,0.88
+1148,1204868,3539,1511,Future GPX Cyber Formula SIN,Future GPX Cyber Formula,0.8461538461538461
+1149,1205960,1724,1512,Fuse Teppou Musume no Torimonochou,Fuse: Teppou Musume no Torimonochou,0.8571428571428571
+1150,1206994,1732,1513,Kowarekake no Orgel,Kowarekake no Orgel,1.0
+1151,1208997,472,1516,Maria-sama ga Miteru 4th,Maria-sama ga Miteru,0.8181818181818182
+1152,1209110,2786,1516,Maria-sama ga Miteru,Maria-sama ga Miteru,1.0
+1153,1209213,948,1516,Maria-sama ga Miteru 3rd,Maria-sama ga Miteru,0.8181818181818182
+1154,1210464,1443,1517,Mei to Koneko Bus,Mei to Koneko Bus,1.0
+1155,1211042,2715,1518,Magic Knight Rayearth,Magic Knight Rayearth,1.0
+1156,1212577,1982,1519,Moonlight Mile 2nd Season - Touch Down,Moonlight Mile 2nd Season: Touch Down,0.8205128205128205
+1157,1212646,608,1520,Nisekoi,Nisekoi:,0.8333333333333334
+1158,1212750,826,1520,Nisekoi:,Nisekoi:,1.0
+1159,1213118,2580,1521,Otona Joshi no Anime Time 2,Otona Joshi no Anime Time,0.9565217391304348
+1160,1214380,2795,1522,Pandora Hearts Specials,Pandora Hearts Specials,1.0
+1161,1217268,1118,1525,Sayonara Zetsubou Sensei Jo: Zoku Zetsubou Shoujo Senshuu,Sayonara Zetsubou Sensei Jo: Zetsubou Shoujo Senshuu,0.8837209302325582
+1162,1217366,1377,1525,Sayonara Zetsubou Sensei Jo: Zetsubou Shoujo Senshuu,Sayonara Zetsubou Sensei Jo: Zetsubou Shoujo Senshuu,1.0
+1163,1224720,2188,1533,Dogs: Bullets & Carnage,Dogs: Bullets & Carnage,1.0
+1164,1226646,1599,1534,Aoyama Goshou Tanpenshuu,Aoyama Goushou Tanpenshuu,0.8
+1165,1227759,2036,1535,Carnival Phantasm: HibiChika Special,Carnival Phantasm: HibiChika Special,1.0
+1166,1227881,2317,1536,Gatchaman Crowds,Gatchaman Crowds,1.0
+1167,1229307,3323,1537,Future GPX Cyber Formula,Future GPX Cyber Formula 11,0.88
+1168,1229414,3511,1537,Future GPX Cyber Formula 11,Future GPX Cyber Formula 11,1.0
+1169,1229437,3539,1537,Future GPX Cyber Formula SIN,Future GPX Cyber Formula 11,0.8214285714285714
+1170,1230279,1758,1538,Joshiraku OVA,Joshiraku OVA,1.0
+1171,1231386,2047,1539,High School DxD OVA,High School DxD OVA,1.0
+1172,1231787,944,1540,Hadashi no Gen,Hadashi no Gen 2,0.8571428571428571
+1173,1231847,3141,1540,Hadashi no Gen 2,Hadashi no Gen 2,1.0
+1174,1232351,2325,1541,Ginban Kaleidoscope,Ginban Kaleidoscope,1.0
+1175,1234035,1523,1542,Kimikiss Pure Rouge,Kimikiss Pure Rouge,1.0
+1176,1234642,2675,1543,Kamikaze Kaitou Jeanne,Kamikaze Kaitou Jeanne,1.0
+1177,1236392,3895,1544,Kaze no Shoujo Emily,Kaze no Shoujo Emily,1.0
+1178,1236617,2314,1545,Hakushaku to Yousei,Hakushaku to Yousei,1.0
+1179,1237649,2272,1546,Owari no Seraph: Owaranai Seraph,Owari no Seraph: Owaranai Seraph,1.0
+1180,1239767,2490,1548,Nekojiru-sou,Nekojiru-sou,1.0
+1181,1241331,1949,1549,Maison Ikkoku: Kanketsuhen,Maison Ikkoku: Kanketsu-hen,0.8148148148148148
+1182,1242027,1591,1550,Mobile Suit Gundam 0083: Stardust Memory,Mobile Suit Gundam 0083: Stardust Memory,1.0
+1183,1242860,1433,1551,Higurashi no Naku Koro ni Special,Higurashi no Naku Koro ni Kai Specials,0.8611111111111112
+1184,1244049,1883,1552,Ikoku Meiro no Croise,Ikoku Meiro no Croise,1.0
+1185,1247099,1631,1556,Ore no Nounai Sentakushi ga Gakuen Love Comedy o Zenryoku de Jama Shiteiru,"Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru OVA",0.8271604938271605
+1186,1247501,2799,1557,Kurau Phantom Memory,Kurau Phantom Memory,1.0
+1187,1248711,3406,1558,Oban Star-Racers,Oban Star-Racers,1.0
+1188,1249021,2177,1559,Mobile Suit Gundam,Mobile Suit Gundam I,0.8888888888888888
+1189,1249047,2230,1559,Mobile Suit Gundam I,Mobile Suit Gundam I,1.0
+1190,1249258,551,1559,Mobile Suit Gundam 00,Mobile Suit Gundam I,0.85
+1191,1249760,3587,1559,Mobile Suit Gundam F91,Mobile Suit Gundam I,0.8095238095238095
+1192,1249802,3673,1559,Mobile Suit Gundam ZZ,Mobile Suit Gundam I,0.85
+1193,1251028,3808,1560,Nerima Daikon Brothers,Nerima Daikon Brothers,1.0
+1194,1252619,1460,1562,Prince of Tennis: A Day on Survival Mountain,Prince of Tennis: A Day on Survival Mountain,1.0
+1195,1253329,1054,1563,Rurouni Kenshin: Special Techniques,Rurouni Kenshin: Special Techniques,1.0
+1196,1254579,2200,1565,Rec,Rec,1.0
+1197,1255256,1649,1566,Strike the Blood,Strike the Blood,1.0
+1198,1255783,863,1567,Strike Witches: Operation Victory Arrow,Strike Witches: Operation Victory Arrow,1.0
+1199,1256841,3037,1568,Soredemo Machi wa Mawatteiru,Soredemo Machi wa Mawatteiru,1.0
+1200,1259550,3939,1570,Chibi Maruko-chan Movie,Chibi Maruko-chan Movie,1.0
+1201,1262316,2115,1574,Zegapain,Zegapain,1.0
+1202,1264055,1854,1576,Bamboo Blade,Bamboo Blade,1.0
+1203,1265489,1635,1578,Hanamaru Youchien,Hanamaru Youchien,1.0
+1204,1266405,2024,1580,Gokusen,Gokusen,1.0
+1205,1267127,1640,1581,Detroit Metal City: Birth of the Metal Devil,Detroit Metal City: Birth of the Metal Devil,1.0
+1206,1268731,3257,1583,Cross Ange: Tenshi to Ryuu no Rondo,Cross Ange: Tenshi to Ryuu no Rondo,1.0
+1207,1270063,1755,1584,Final Fantasy VII: Last Order,Final Fantasy VII: Last Order,1.0
+1208,1274157,3009,1590,Needless,Needless,1.0
+1209,1275131,1837,1591,Nagasarete Airantou,Nagasarete Airantou,1.0
+1210,1276701,3203,1593,Nabari no Ou,Nabari no Ou,1.0
+1211,1277481,1671,1594,Prince of Tennis: Two Samurai The First Game,"Prince of Tennis: The Two Samurai, The First Game",0.8695652173913043
+1212,1279933,3012,1597,Hanayamata,Hanayamata,1.0
+1213,1280262,2259,1598,Hikaru no Go: New Year Special,Hikaru no Go: New Year Special,1.0
+1214,1281952,1927,1599,Inazuma Eleven Go vs Danball Senki W Movie,Inazuma Eleven Go vs. Danball Senki W Movie,0.8837209302325582
+1215,1282082,2249,1600,Keroro Gunsou Movie 4,Keroro Gunsou Movie 1,0.9
+1216,1282233,2509,1600,Keroro Gunsou Movie 1,Keroro Gunsou Movie 1,1.0
+1217,1282630,1307,1600,Keroro Gunsou Movie 3,Keroro Gunsou Movie 1,0.9
+1218,1282941,1954,1600,Keroro Gunsou Movie 2,Keroro Gunsou Movie 1,0.9
+1219,1282942,1960,1600,Keroro Gunsou Movie 5,Keroro Gunsou Movie 1,0.9
+1220,1284057,977,1602,Minami-ke Omatase,Minami-ke Omatase,1.0
+1221,1285071,3385,1603,Legend of Basara,Legend of Basara,1.0
+1222,1286243,1634,1604,Machine-Doll wa Kizutsukanai,Machine-Doll wa Kizutsukanai,1.0
+1223,1290895,3063,1610,Saber Marionette J,Saber Marionette J,1.0
+1224,1291430,2142,1611,Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki,Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki,1.0
+1225,1291996,2444,1612,Scryed,Scryed,1.0
+1226,1292899,1508,1613,Shakugan no Shana Movie,Shakugan no Shana Movie,1.0
+1227,1293203,2539,1614,Oseam,Oseam,1.0
+1228,1293274,2399,1615,Mazinkaiser,Mazinkaiser,1.0
+1229,1294214,1005,1616,Tonari no Seki-kun,Tonari no Seki-kun OVA,0.8
+1230,1294477,1449,1616,Tonari no Seki-kun OVA,Tonari no Seki-kun OVA,1.0
+1231,1295448,1295,1617,Tales of Zestiria: Doushi no Yoake,Tales of Zestiria: Doushi no Yoake,1.0
+1232,1296446,1509,1618,Tokyo Majin Gakuen Kenpuchou Tou Dai Ni Maku,Tokyo Majin Gakuen Kenpucho: Tou Dai Ni Maku,0.8809523809523809
+1233,1296979,2762,1619,Shin Taketori Monogatari: 1000-nen Joou,Shin Taketori Monogatari: 1000-nen Joou,1.0
+1234,1298105,3409,1620,Strike Witches TV,Strike Witches 2,0.8125
+1235,1298582,3189,1621,Mushibugyou,Mushibugyou,1.0
+1236,1298993,3135,1622,Mirai Nikki,Mirai Nikki,1.0
+1237,1301571,2521,1626,07-Ghost,07-Ghost,1.0
+1238,1303247,1415,1628,Fullmetal Alchemist: Premium Collection,Fullmetal Alchemist: Premium Collection,1.0
+1239,1305779,3390,1631,Fushigiboshi no Futagohime,Fushigiboshi noFutagohime,0.8
+1240,1306412,2710,1632,Galaxy Angel A,Galaxy Angel 3,0.8461538461538461
+1241,1306571,3080,1632,Galaxy Angel X,Galaxy Angel 3,0.8461538461538461
+1242,1306627,3219,1632,Galaxy Angel Z,Galaxy Angel 3,0.8461538461538461
+1243,1306692,3391,1632,Galaxy Angel S,Galaxy Angel 3,0.8461538461538461
+1244,1307794,1660,1633,Genius Party Beyond,Genius Party Beyond,1.0
+1245,1308739,3362,1634,Ginga Tetsudou no Yoru,Ginga Tetsudou no Yoru,1.0
+1246,1309592,2812,1635,Haiyore! Nyaruko-san,Haiyore! Nyaruko-san W,0.9
+1247,1310002,1480,1635,Haiyore! Nyaruko-san F,Haiyore! Nyaruko-san W,0.9047619047619048
+1248,1310118,1669,1635,Haiyore! Nyaruko-san W,Haiyore! Nyaruko-san W,1.0
+1249,1310248,3943,1635,Haiyore! Nyaruko-san W OVA,Haiyore! Nyaruko-san W,0.8333333333333334
+1250,1312418,2279,1638,Hori-san to Miyamura-kun,Hori-san to Miyamura-kun,1.0
+1251,1315289,1789,1640,Kimi ga Nozomu Eien,Kimi ga Nozomu Eien,1.0
+1252,1315601,2728,1641,Kiniro Mosaic,Kiniro Mosaic,1.0
+1253,1316905,2251,1643,Kiba,Kiba,1.0
+1254,1319837,1470,1649,Nyan Koi!,Nyan Koi!,1.0
+1255,1320101,2484,1650,Peace Maker Kurogane,Peace Maker Kurogane,1.0
+1256,1324207,2585,1654,Haikara-san ga Tooru,Haikara-san ga Tooru,1.0
+1257,1325751,1516,1655,Druaga no Tou: Sword of Uruk,Druaga no Tou: The Sword of Uruk,0.8064516129032258
+1258,1328563,2841,1658,Hunter x Hunter Pilot,Hunter x Hunter Pilot,1.0
+1259,1329761,1337,1659,Hellsing: The Dawn,Hellsing: The Dawn,1.0
+1260,1330863,3463,1660,Kirarin Revolution,Kirarin Revolution,1.0
+1261,1331471,2624,1661,Ikoku Meiro no Croise Special,Ikoku Meiro no Croise Special,1.0
+1262,1333042,1134,1663,Minami-ke Natsuyasumi,Minami-ke Natsuyasumi,1.0
+1263,1334528,1821,1665,MM!,MM!,1.0
+1264,1334537,2958,1666,Noir,Noir,1.0
+1265,1334728,3101,1667,Pokemon XY,Pokemon XY,1.0
+1266,1335439,3043,1668,Tegami Bachi Gakuen,Tegami Bachi Gakuen,1.0
+1267,1337657,1473,1670,Slayers Gorgeous,Slayers Gorgeous,1.0
+1268,1338053,2503,1671,Robot Carnival,Robot Carnival,1.0
+1269,1339077,2842,1672,Rumiko Takahashi Anthology,Rumiko Takahashi Anthology,1.0
+1270,1340678,2199,1674,Slayers Return,Slayers Return,1.0
+1271,1342084,3255,1675,Selector Infected WIXOSS,Selector Infected WIXOSS,1.0
+1272,1345849,2648,1679,Witchblade,Witchblade,1.0
+1273,1346856,3810,1680,Young Black Jack,Young Black Jack,1.0
+1274,1347566,3145,1681,Yowamushi Pedal: Re:RIDE,Yowamushi Pedal: Re:RIDE,1.0
+1275,1351041,2125,1686,Maria-sama ga Miteru Specials,Maria-sama ga Miteru 4th Specials,0.8125
+1276,1351914,1809,1686,Maria-sama ga Miteru 4th Specials,Maria-sama ga Miteru 4th Specials,1.0
+1277,1352163,2319,1687,Kuroshitsuji Picture Drama,Kuroshitsuji Picture Drama,1.0
+1278,1354194,2558,1689,Masuda Kousuke Gekijou Gag Manga Biyori 3,Masuda Kousuke Gekijou Gag Manga Biyori,0.9487179487179487
+1279,1354247,2646,1689,Masuda Kousuke Gekijou Gag Manga Biyori,Masuda Kousuke Gekijou Gag Manga Biyori,1.0
+1280,1354399,2965,1689,Masuda Kousuke Gekijou Gag Manga Biyori 2,Masuda Kousuke Gekijou Gag Manga Biyori,0.9487179487179487
+1281,1354510,3201,1689,Masuda Kousuke Gekijou Gag Manga Biyori +,Masuda Kousuke Gekijou Gag Manga Biyori,0.9487179487179487
+1282,1355975,2122,1691,Mai-Otome,Mai-Otome,1.0
+1283,1356711,3172,1692,Ginga e Kickoff!!,Ginga e Kickoff!!,1.0
+1284,1359181,2127,1695,Natsu no Arashi! 2,Natsu no Arashi!,0.875
+1285,1359777,3573,1695,Natsu no Arashi!,Natsu no Arashi!,1.0
+1286,1360104,2378,1696,Nazo no Kanojo X,Nazo no Kanojo X,1.0
+1287,1360973,2530,1697,Oh! Edo Rocket,Oh! Edo Rocket,1.0
+1288,1363229,1294,1699,Minami-ke Okawari,Minami-ke Okawari,1.0
+1289,1363675,1271,1700,Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer,Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer,1.0
+1290,1363892,2146,1701,Rain Town,Rain Town,1.0
+1291,1364762,1748,1702,Robotics;Notes,Robotics;Notes,1.0
+1292,1365371,3394,1705,Souten Kouro,Souten Kouro,1.0
+1293,1366764,2413,1707,Baka to Test to Shoukanjuu: Spinout! Sore ga Bokura no Nichijou,Baka to Test to Shoukanjuu: Spinout! Sore ga Bokura no Nichijou,1.0
+1294,1368628,2547,1710,Steins;Gate: Soumei Eichi no Cognitive Computing,Steins;Gate: Soumei Eichi no Cognitive Computing,1.0
+1295,1369166,2109,1711,Trinity Blood,Trinity Blood,1.0
+1296,1369935,2446,1712,Uragiri wa Boku no Namae o Shitteiru,Uragiri wa Boku no Namae wo Shitteiru,0.8648648648648649
+1297,1371217,1740,1713,Trinity Seven,Trinity Seven,1.0
+1298,1372313,3131,1715,Canaan,Canaan,1.0
+1299,1374123,1549,1717,Denpa Onna to Seishun Otoko Special,Denpa Onna to Seishun Otoko Special,1.0
+1300,1375321,1922,1718,Detective Conan OVA 2: 16 Suspects,Detective Conan OVA 02: 16 Suspects,0.8529411764705882
+1301,1376368,1898,1719,El-Hazard: The Magnificent World,El Hazard: The Magnificent World,0.8181818181818182
+1302,1377740,1872,1721,Genius Party,Genius Party,1.0
+1303,1377896,2828,1722,Inukami!,Inukami!,1.0
+1304,1378081,2563,1723,Jyu Oh Sei,Jyu Oh Sei,1.0
+1305,1379070,1520,1724,Kami nomi zo Shiru Sekai: Yonin to Idol,Kami nomi zo Shiru Sekai: 4-nin to Idol,0.8
+1306,1379551,2591,1725,Kimi ni Todoke 2nd Season Specials,Kimi ni Todoke 2nd Season Specials,1.0
+1307,1380386,2195,1726,Maoyuu Maou Yuusha,Maoyuu Maou Yuusha,1.0
+1308,1381245,1349,1727,K,MR,1.0
+1309,1381246,2354,1727,H2,MR,1.0
+1310,1381812,3021,1728,Matantei Loki Ragnarok,Matantei Loki Ragnarok,1.0
+1311,1385544,2767,1732,Potemayo,Potemayo,1.0
+1312,1389837,1479,1738,Slayers Excellent,Slayers Excellent,1.0
+1313,1391462,3960,1740,Soukou Kihei Votoms: Pailsen Files,Soukou Kihei Votoms: Pailsen Files,1.0
+1314,1392645,1876,1742,Tetsuwan Birdy Decode: The Cipher,Tetsuwan Birdy Decode: The Cipher,1.0
+1315,1393110,1812,1743,Tobe! Isami,Tobe! Isami,1.0
+1316,1393697,1359,1744,.hack//Quantum,.hack//Quantum,1.0
+1317,1394828,2600,1746,Bishoujo Senshi Sailor Moon S Memorial,Bishoujo Senshi Sailor Moon Memorial,0.8918918918918919
+1318,1394879,2685,1746,Bishoujo Senshi Sailor Moon Memorial,Bishoujo Senshi Sailor Moon Memorial,1.0
+1319,1394919,2769,1746,Bishoujo Senshi Sailor Moon R Memorial,Bishoujo Senshi Sailor Moon Memorial,0.8918918918918919
+1320,1395948,3111,1747,Bishoujo Senshi Sailor Moon Super S Special,Bishoujo Senshi Sailor Moon SuperS Special,0.8837209302325582
+1321,1399040,1436,1750,Hakuouki Reimeiroku Tokuten Disc,Hakuouki Reimeiroku Tokuten Disc,1.0
+1322,1400193,2671,1752,High School DxD Specials,High School DxD Specials,1.0
+1323,1404313,1290,1757,Hunter x Hunter: Phantom Rouge,Hunter x Hunter: Phantom Rouge,1.0
+1324,1407068,2436,1760,Junketsu no Maria,Junketsu no Maria,1.0
+1325,1408810,2046,1761,Nogizaka Haruka no Himitsu: Finale,Nogizaka Haruka no Himitsu: Finale,1.0
+1326,1408892,2500,1762,Hyakko,Hyakko,1.0
+1327,1412467,1542,1766,Ookami Shoujo to Kuro Ouji OVA,Ookami Shoujo to Kuro Ouji OVA,1.0
+1328,1412508,1630,1766,Ookami Shoujo to Kuro Ouji,Ookami Shoujo to Kuro Ouji OVA,0.8571428571428571
+1329,1412998,2581,1767,Ookiku Furikabutte Special,Ookiku Furikabutte Special,1.0
+1330,1417790,2415,1772,Shinkyoku Soukai Polyphonica Crimson S,Shinkyoku Soukai Polyphonica Crimson S,1.0
+1331,1419413,1619,1773,Slayers Revolution,Slayers Revolution,1.0
+1332,1419414,1620,1773,The Slayers Revolution,Slayers Revolution,0.8
+1333,1419642,2153,1774,Sankarea OVA,Sankarea OVA,1.0
+1334,1420272,2479,1775,Zettai Karen Children OVA: Aitazousei! Ubawareta Mirai?,Zettai Karen Children OVA: Aitazousei! Ubawareta Mirai?,1.0
+1335,1420962,2524,1776,Witch Hunter Robin,Witch Hunter Robin,1.0
+1336,1422559,3777,1777,Captain Tsubasa J,Captain Tsubasa J,1.0
+1337,1422605,3876,1777,Captain Tsubasa,Captain Tsubasa J,0.8666666666666667
+1338,1424349,3388,1780,Bubblegum Crisis,Bubblegum Crisis,1.0
+1339,1425924,2931,1782,Zoids Genesis,Zoids Genesis,1.0
+1340,1429510,3812,1787,Flag,Flag,1.0
+1341,1430677,2145,1789,GJ-bu@,GJ-bu@,1.0
+1342,1431225,2913,1790,Fushigi Yugi OVA 2,Fushigi Yuugi OVA 2,0.8235294117647058
+1343,1434089,3773,1793,Jigoku Sensei Nube,Jigoku Sensei Nube OVA,0.8
+1344,1435926,1897,1795,Mai-Otome Zwei,Mai-Otome Zwei,1.0
+1345,1437057,1940,1796,Lupin III: Dead or Alive,Lupin III: Dead or Alive,1.0
+1346,1437735,3264,1797,Kyoushoku Soukou Guyver (1989),Kyoushoku Soukou Guyver (1989),1.0
+1347,1439154,3147,1799,Kakumeiki Valvrave,Kakumeiki Valvrave,1.0
+1348,1439471,1689,1799,Kakumeiki Valvrave 2,Kakumeiki Valvrave,0.8888888888888888
+1349,1443079,3245,1803,Sidonia no Kishi Movie,Sidonia no Kishi Movie,1.0
+1350,1445822,2711,1806,Ro-Kyu-Bu! SS,Ro-Kyu-Bu! SS,1.0
+1351,1446373,1840,1807,Vandread,Vandread,1.0
+1352,1446552,3369,1808,Tactics,Tactics,1.0
+1353,1447223,1504,1810,Yawara! Special: Zutto Kimi no Koto ga,Yawara! Special: Zutto Kimi no Koto ga... .,0.8717948717948718
+1354,1448919,2365,1813,Dantalian no Shoka,Dantalian no Shoka,1.0
+1355,1450333,2254,1815,.hack//G.U. Trilogy,.hack//G.U. Trilogy,1.0
+1356,1453255,1916,1818,Kinnikuman,Kinnikuman,1.0
+1357,1457088,2938,1822,Koi to Senkyo to Chocolate,Koi to Senkyo to Chocolate,1.0
+1358,1458129,3010,1823,Mashiro-Iro Symphony: The Color of Lovers,Mashiro-iro Symphony: The Color of Lovers,0.8780487804878049
+1359,1458734,2558,1824,Masuda Kousuke Gekijou Gag Manga Biyori 3,Masuda Kousuke Gekijou Gag Manga Biyori +,0.95
+1360,1458782,2646,1824,Masuda Kousuke Gekijou Gag Manga Biyori,Masuda Kousuke Gekijou Gag Manga Biyori +,0.9487179487179487
+1361,1458926,2965,1824,Masuda Kousuke Gekijou Gag Manga Biyori 2,Masuda Kousuke Gekijou Gag Manga Biyori +,0.95
+1362,1459026,3201,1824,Masuda Kousuke Gekijou Gag Manga Biyori +,Masuda Kousuke Gekijou Gag Manga Biyori +,1.0
+1363,1463394,2340,1831,Ore no Kanojo to Osananajimi ga Shuraba Sugiru,Ore no Kanojo to Osananajimi ga Shuraba Sugiru,1.0
+1364,1465593,2730,1834,Tears to Tiara,Tears to Tiara,1.0
+1365,1468560,3396,1838,Shin Shirayukihime Densetsu Pretear,Shin Shirayuki-hime Densetsu Pretear,0.8571428571428571
+1366,1469534,1579,1839,Slayers Premium,Slayers Premium,1.0
+1367,1472099,2458,1843,Aquarion Evol,Aquarion Evol,1.0
+1368,1472991,3286,1844,Bishoujo Senshi Sailor Moon Sailor Stars Hero Club,Bishoujo Senshi Sailor Moon: Sailor Stars - Hero Club,0.8125
+1369,1473388,2331,1845,Urusei Yatsura Movie 1: Only You,Urusei Yatsura Movie 1: Only You,1.0
+1370,1477836,2276,1850,Bakemonogatari Recap,Bakemonogatari Recap,1.0
+1371,1479465,3777,1851,Captain Tsubasa J,Captain Tsubasa,0.8666666666666667
+1372,1479508,3876,1851,Captain Tsubasa,Captain Tsubasa,1.0
+1373,1479875,2597,1852,Abenobashi Mahou Shoutengai,Abenobashi Mahou Shoutengai,1.0
+1374,1480925,3008,1853,Afro Samurai,Afro Samurai,1.0
+1375,1481243,2078,1854,Cencoroll,Cencoroll,1.0
+1376,1483511,2401,1857,Kyoushoku Soukou Guyver (2005),Kyoushoku Soukou Guyver (2005),1.0
+1377,1485378,1874,1858,Kimi ga Aruji de Shitsuji ga Ore de,Kimi ga Aruji de Shitsuji ga Ore de,1.0
+1378,1485555,2857,1859,Egomama,Egomama,1.0
+1379,1486947,2710,1861,Galaxy Angel A,Galaxy Angel 4,0.8461538461538461
+1380,1487106,3080,1861,Galaxy Angel X,Galaxy Angel 4,0.8461538461538461
+1381,1487162,3219,1861,Galaxy Angel Z,Galaxy Angel 4,0.8461538461538461
+1382,1487227,3391,1861,Galaxy Angel S,Galaxy Angel 4,0.8461538461538461
+1383,1490234,3487,1864,Le Chevalier D'Eon,Le Chevalier D'Eon,1.0
+1384,1492932,1891,1868,One Piece 3D: Mugiwara Chase,One Piece 3D: Mugiwara Chase,1.0
+1385,1493179,2558,1869,Masuda Kousuke Gekijou Gag Manga Biyori 3,Masuda Kousuke Gekijou Gag Manga Biyori 3,1.0
+1386,1493227,2646,1869,Masuda Kousuke Gekijou Gag Manga Biyori,Masuda Kousuke Gekijou Gag Manga Biyori 3,0.9487179487179487
+1387,1493371,2965,1869,Masuda Kousuke Gekijou Gag Manga Biyori 2,Masuda Kousuke Gekijou Gag Manga Biyori 3,0.95
+1388,1493471,3201,1869,Masuda Kousuke Gekijou Gag Manga Biyori +,Masuda Kousuke Gekijou Gag Manga Biyori 3,0.95
+1389,1494204,2447,1871,Mazinkaiser: Shitou! Ankoku Dai Shogun,Mazinkaiser: Shitou! Ankoku Dai Shogun,1.0
+1390,1497103,1655,1874,Slayers: The Motion Picture,Slayers: The Motion Picture,1.0
+1391,1498113,2077,1876,Solty Rei,Solty Rei,1.0
+1392,1499050,3458,1877,Soukyuu no Fafner: Dead Aggressor,Soukyuu no Fafner: Dead Aggressor,1.0
+1393,1502156,2022,1880,Tsubasa Chronicle: Torikago no Kuni no Himegimi,Tsubasa Chronicle: Tori Kago no Kuni no Himegimi,0.851063829787234
+1394,1504396,1930,1883,All Alone With You,All Alone With You,1.0
+1395,1505153,1829,1884,Amagami SS OVA,Amagami SS OVA,1.0
+1396,1505931,3373,1885,Andersen Douwa - Ningyo Hime,Andersen Douwa Ningyo Hime,0.8518518518518519
+1397,1506955,3591,1886,Ayashi no Ceres,Ayashi no Ceres,1.0
+1398,1507964,2737,1888,D.N.Angel,D.N.Angel,1.0
+1399,1509165,2456,1890,Brigadoon Marin to Melan,Brigadoon: Marin to Melan,0.8
+1400,1510089,1804,1891,Detective Conan OVA 5: The Target is Kogoro! The Detective Boys' Secret Investigation,Detective Conan OVA 05: The Target is Kogoro! The Detective Boys' Secret Investigation,0.9324324324324325
+1401,1510152,3088,1892,Dog Days,Dog Days',0.8571428571428571
+1402,1510285,2330,1892,Dog Days',Dog Days',1.0
+1403,1510937,3211,1893,Fuujin Monogatari,Fuujin Monogatari,1.0
+1404,1512696,2627,1896,Gun x Sword,Gun x Sword,1.0
+1405,1515544,2598,1900,Ghost in the Shell: Nyuumon Arise,Ghost in the Shell: Nyuumon Arise,1.0
+1406,1518875,2984,1903,Gakusen Toshi Asterisk,Gakusen Toshi Asterisk,1.0
+1407,1522696,2583,1907,Natsuyuki Rendezvous,Natsuyuki Rendezvous,1.0
+1408,1523528,2267,1908,Kyou no Go no Ni,Kyou no Go no Ni,1.0
+1409,1523971,3346,1908,Kyou no Go no Ni TV,Kyou no Go no Ni,0.8
+1410,1526278,2510,1911,Kimi no Iru Machi: Tasogare Kousaten,Kimi no Iru Machi: Tasogare Kousaten,1.0
+1411,1529191,2606,1914,Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie,Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie,1.0
+1412,1529256,2986,1914,Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie Lite,Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie,0.9166666666666666
+1413,1531739,3057,1917,Saber Marionette J Again,Saber Marionette J Again,1.0
+1414,1536076,3813,1921,The iDOLM@STER: Shiny Festa,The iDOLM@STER Shiny Festa,0.8148148148148148
+1415,1536326,2292,1922,Aria the Origination Picture Drama,Aria The Origination Picture Drama,0.8285714285714286
+1416,1537387,2847,1923,Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,1.0
+1417,1537638,3948,1923,Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui! OVA,Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,0.847457627118644
+1418,1537963,2623,1924,Tokyo Majin Gakuen Kenpuchou Tou,Tokyo Majin Gakuen Kenpucho: Tou,0.8181818181818182
+1419,1542743,3252,1929,Choujigen Game Neptune: The Animation OVA,Choujigen Game Neptune The Animation OVA,0.8780487804878049
+1420,1543217,2516,1930,Buddy Complex,Buddy Complex,1.0
+1421,1543888,3127,1931,Buddy Complex Kanketsu-hen -Ano Sora ni Kaeru Mirai de-,Buddy Complex: Kanketsu-hen - Ano Sora ni Kaeru Mirai de,0.8103448275862069
+1422,1544202,3312,1932,Cybersix,Cybersix,1.0
+1423,1544819,1968,1933,Detective Conan OVA 3: Conan and Heiji and the Vanished Boy,Detective Conan OVA 03: Conan and Heiji and the Vanished Boy,0.9038461538461539
+1424,1547293,3566,1936,Boku no Chikyuu wo Mamotte,Boku no Chikyuu wo Mamotte,1.0
+1425,1550781,1747,1940,Kiddy Grade: Truth Dawn,Kiddy Grade: Truth Dawn,1.0
+1426,1552006,2097,1942,Gunslinger Girl: Il Teatrino OVA,Gunslinger Girl: Il Teatrino,0.8666666666666667
+1427,1552297,2620,1942,Gunslinger Girl: Il Teatrino,Gunslinger Girl: Il Teatrino,1.0
+1428,1553124,2240,1943,Ghost in the Shell: Stand Alone Complex - Tachikoma Days,Ghost in the Shell: Stand Alone Complex - Tachikoma na Hibi,0.819672131147541
+1429,1553956,3347,1944,Kamigami no Asobi,Kamigami no Asobi,1.0
+1430,1556115,2428,1947,Kurokami The Animation,Kurokami The Animation,1.0
+1431,1559668,3296,1950,Saiyuki Gaiden: Tokubetsu-hen - Kouga no Shou,Saiyuuki Gaiden: Tokubetsu-hen - Kouga no Shou,0.9333333333333333
+1432,1562674,1933,1953,Shikabane Hime: Aka,Shikabane Hime: Aka,1.0
+1433,1562792,2350,1955,Soukyuu no Fafner: Dead Aggressor - Heaven and Earth,Soukyuu no Fafner: Dead Aggressor - Heaven and Earth,1.0
+1434,1563732,3020,1956,Star Driver: Kagayaki no Takuto,Star Driver: Kagayaki no Takuto,1.0
+1435,1564366,2370,1957,Subete ga F ni Naru: The Perfect Insider,Subete ga F ni Naru: The Perfect Insider,1.0
+1436,1565629,1751,1958,Slayers Great,Slayers Great,1.0
+1437,1566955,2473,1961,Taishou Yakyuu Musume,Taishou Yakyuu Musume.,0.95
+1438,1568510,3149,1962,Tokyo Marble Chocolate,Tokyo Marble Chocolate,1.0
+1439,1570873,3795,1964,El Cazador de la Bruja,El Cazador de la Bruja,1.0
+1440,1573050,3076,1967,After War Gundam X,After War Gundam X,1.0
+1441,1573698,2324,1968,Air Movie,Air Movie,1.0
+1442,1576863,2810,1972,Area no Kishi,Area no Kishi,1.0
+1443,1577462,3001,1973,Basquash!,Basquash!,1.0
+1444,1578918,3073,1975,Great Mazinger,Great Mazinger,1.0
+1445,1583568,2988,1981,Doki Doki Densetsu Mahoujin Guru Guru,Doki Doki Densetsu: Mahoujin Guru Guru,0.8387096774193549
+1446,1585921,3752,1983,Himitsu: The Revelation,Himitsu: The Revelation,1.0
+1447,1586454,2802,1984,Inazuma Eleven GO,Inazuma Eleven Go,0.875
+1448,1586642,3215,1984,Inazuma Eleven,Inazuma Eleven Go,0.8
+1449,1587568,3067,1985,Gakuen Utopia Manabi Straight!,Gakuen Utopia Manabi Straight!,1.0
+1450,1588338,2514,1986,Hetalia: The World Twinkle,Hetalia: The World Twinkle,1.0
+1451,1590841,3165,1988,Inou Battle wa Nichijou-kei no Naka de,Inou-Battle wa Nichijou-kei no Naka de,0.868421052631579
+1452,1592331,2937,1990,Konjiki no Gash Bell!! 101 Banme no Mamono,Konjiki no Gash Bell!!: 101 Banme no Mamono,0.8780487804878049
+1453,1593044,2805,1991,Mahou Tsukai ni Taisetsu na Koto: Natsu no Sora,Mahou Tsukai ni Taisetsu na Koto: Natsu no Sora,1.0
+1454,1593499,2091,1992,Mobile Suit Zeta Gundam: A New Translation III -Love is the Pulse of the Stars-,Mobile Suit Zeta Gundam: A New Translation III - Love Is the Pulse of the Stars,0.8481012658227848
+1455,1595975,1654,1996,Ookami-san to Shichinin no Nakama-tachi,Ookami-san to Shichinin no Nakama-tachi,1.0
+1456,1603208,2493,2008,Black Cat Special,Black Cat Special,1.0
+1457,1606695,3266,2011,Ginga Densetsu Weed,Ginga Densetsu Weed,1.0
+1458,1609360,2164,2014,Hunter x Hunter: The Last Mission,Hunter x Hunter: The Last Mission,1.0
+1459,1610708,1581,2015,Ibara no Ou,Ibara no Ou,1.0
+1460,1610804,2914,2016,Kanon,Kanon,1.0
+1461,1612162,3360,2018,Kiddy Grade,Kiddy Grade,1.0
+1462,1613593,2775,2020,Kuroshitsuji Recap,Kuroshitsuji Recap,1.0
+1463,1614648,3840,2021,Gravitation,Gravitation,1.0
+1464,1615246,3205,2022,Kyou no Go no Ni (2009),Kyou no Go no Ni (2008),0.8095238095238095
+1465,1618479,3534,2027,Re Boot,Re Boot,1.0
+1466,1618600,2257,2028,Nerawareta Gakuen,Nerawareta Gakuen,1.0
+1467,1618645,2352,2028,Nerawareta Gakuen,Nerawareta Gakuen,1.0
+1468,1619548,2286,2029,Taiho Shichauzo: Full Throttle,Taiho Shichau zo: Full Throttle,0.8387096774193549
+1469,1620555,2735,2030,Tight-rope,Tight-rope,1.0
+1470,1625350,2701,2036,Yumeiro Ptissire: Mune Kyun Tropical Island!,Yume-iro Ptissire: Mune Kyun Tropical Island!,0.8888888888888888
+1471,1626145,3060,2037,Video Girl AI,Video Girl Ai,0.8333333333333334
+1472,1627287,1819,2038,Aoharu x Kikanjuu,Aoharu x Kikanjuu,1.0
+1473,1627531,3549,2039,Crayon Shin-chan Movie 18: Chou Jikuu! Arashi wo Yobu Ora no Hanayome,Crayon Shin-chan Movie 18: Chou Jikuu! Arashi wo Yobu Ora no Hanayome,1.0
+1474,1630006,2710,2042,Galaxy Angel A,Galaxy Angel Z,0.8461538461538461
+1475,1630165,3080,2042,Galaxy Angel X,Galaxy Angel Z,0.8461538461538461
+1476,1630221,3219,2042,Galaxy Angel Z,Galaxy Angel Z,1.0
+1477,1630286,3391,2042,Galaxy Angel S,Galaxy Angel Z,0.8461538461538461
+1478,1630557,2101,2043,God Eater,God Eater,1.0
+1479,1630882,3273,2044,Guin Saga,Guin Saga,1.0
+1480,1631877,1626,2045,Hana to Alice: Satsujin Jiken,Hana to Alice: Satsujin Jiken,1.0
+1481,1633060,1892,2046,Black Blood Brothers,Black Blood Brothers,1.0
+1482,1635394,2525,2049,Kamisama Kazoku,Kamisama Kazoku,1.0
+1483,1636270,2672,2050,Mouryou no Hako,Mouryou no Hako,1.0
+1484,1638255,3351,2053,Hi no Tori,Hi no Tori,1.0
+1485,1638787,2434,2055,One Piece Recap,One Piece Recap,1.0
+1486,1640248,1426,2056,School Rumble San Gakki,School Rumble San Gakki,1.0
+1487,1641426,3526,2057,Saint Seiya: Soushuuhen,Saint Seiya: Soushuuhen,1.0
+1488,1642410,1495,2058,Senjou no Valkyria 3: Tagatame no Juusou,Senjou no Valkyria 3: Tagatame no Juusou,1.0
+1489,1642889,2459,2059,Saber Marionette J to X,Saber Marionette J to X,1.0
+1490,1644731,1781,2060,Shinryaku! Ika Musume Specials,Shinryaku! Ika Musume Specials,1.0
+1491,1645421,3144,2061,Ryuugajou Nanana no Maizoukin,Ryuugajou Nanana no Maizoukin (TV),0.8387096774193549
+1492,1646933,2579,2063,Suzuka,Suzuka,1.0
+1493,1647646,3434,2064,Tatakau Shisho: The Book of Bantorra,Tatakau Shisho: The Book of Bantorra,1.0
+1494,1650219,1514,2067,Umineko no Naku Koro ni,Umineko no Naku Koro ni,1.0
+1495,1651651,2634,2070,Yokohama Kaidashi Kikou,Yokohama Kaidashi Kikou,1.0
+1496,1652730,2751,2071,Yokohama Kaidashi Kikou: Quiet Country Cafe,Yokohama Kaidashi Kikou: Quiet Country Cafe,1.0
+1497,1654121,1917,2072,.hack//The Movie: Sekai no Mukou ni,.hack//The Movie: Sekai no Mukou ni,1.0
+1498,1655175,2288,2074,Aru Tabibito no Nikki,Aru Tabibito no Nikki,1.0
+1499,1656825,1499,2075,Fullmetal Alchemist: Reflections,Fullmetal Alchemist: Reflections,1.0
+1500,1658118,1349,2077,K,H2,1.0
+1501,1658119,2354,2077,H2,H2,1.0
+1502,1658342,2590,2078,Higurashi no Naku Koro ni Kaku Outbreak,Higurashi no Naku Koro ni Kaku: Outbreak,0.8947368421052632
+1503,1660682,2063,2081,Denpa Onna to Seishun Otoko,Denpa Onna to Seishun Otoko,1.0
+1504,1664495,3137,2085,Love Hina Again,Love Hina Again,1.0
+1505,1664873,1884,2086,Karin,Karin,1.0
+1506,1665902,1894,2087,Kodomo no Jikan: Ni Gakki,Kodomo no Jikan: Ni Gakki,1.0
+1507,1666170,3053,2088,Koi Kaze,Koi Kaze,1.0
+1508,1666520,1592,2089,Kotoura-san,Kotoura-san,1.0
+1509,1667399,2559,2091,Mobile Suit Zeta Gundam: A New Translation -Heirs to the Stars-,Mobile Suit Zeta Gundam: A New Translation - Heir to the Stars,0.8307692307692308
+1510,1669175,3540,2094,Angel Heart,Angel Heart,1.0
+1511,1669453,3934,2095,Mameshiba,Mameshiba,1.0
+1512,1669638,1793,2096,Shuffle!,Shuffle!,1.0
+1513,1671571,1535,2098,Nogizaka Haruka no Himitsu,Nogizaka Haruka no Himitsu,1.0
+1514,1672605,2363,2100,Love Hina Final Selection,Love Hina Final Selection,1.0
+1515,1673853,3159,2101,Mikan Enikki,Mikan Enikki,1.0
+1516,1674205,2228,2102,Mai Mai Shinko to Sennen no Mahou,Mai Mai Shinko to Sennen no Mahou,1.0
+1517,1676073,2431,2104,Mobile Suit Gundam: The 08th MS Team - A Battle With The Third Dimension,Mobile Suit Gundam: The 08th MS Team - A Battle with the Third Dimension,0.8571428571428571
+1518,1676690,1860,2105,Clannad Movie,Clannad Movie,1.0
+1519,1678550,2242,2108,Phi Brain: Kami no Puzzle 2,Phi Brain: Kami no Puzzle,0.92
+1520,1678594,2296,2108,Phi Brain: Kami no Puzzle 3,Phi Brain: Kami no Puzzle,0.92
+1521,1679124,3291,2108,Phi Brain: Kami no Puzzle,Phi Brain: Kami no Puzzle,1.0
+1522,1683340,3603,2112,Soukou Kihei Votoms: The Last Red Shoulder,Soukou Kihei Votoms: The Last Red Shoulder,1.0
+1523,1685097,3070,2114,Music S.T.A.R.T!!,Music S.T.A.R.T!!,1.0
+1524,1686118,1341,2115,Soukyuu no Fafner: Dead Aggressor - Exodus 2,Soukyuu no Fafner: Dead Aggressor - Exodus,0.9523809523809523
+1525,1686273,3815,2115,Soukyuu no Fafner: Dead Aggressor - Exodus,Soukyuu no Fafner: Dead Aggressor - Exodus,1.0
+1526,1686607,2411,2116,Blood-C: The Last Dark,Blood-C: The Last Dark,1.0
+1527,1688123,3379,2118,Aoi Hana,Aoi Hana,1.0
+1528,1688380,2393,2119,Uchuu Senkan Yamato,Uchuu Senkan Yamato 3,0.8947368421052632
+1529,1688578,2807,2119,Uchuu Senkan Yamato 3,Uchuu Senkan Yamato 3,1.0
+1530,1688964,1563,2119,Uchuu Senkan Yamato 2,Uchuu Senkan Yamato 3,0.9
+1531,1689493,1341,2120,Soukyuu no Fafner: Dead Aggressor - Exodus 2,Soukyuu no Fafner: Dead Aggressor - Exodus 2nd Season,0.8235294117647058
+1532,1689882,2791,2121,Tamako Market,Tamako Market,1.0
+1533,1690684,2746,2122,Wagaya no Oinari-sama,Wagaya no Oinari-sama.,0.95
+1534,1691534,2252,2123,Chuunibyou Demo Koi ga Shitai! Lite,Chuunibyou demo Koi ga Shitai! Lite,0.8333333333333334
+1535,1693313,1813,2125,Detective Conan OVA 8: High School Girl Detective Sonoko Suzuki's Case Files,Detective Conan OVA 08: High School Girl Detective Sonoko Suzuki's Case Files,0.927536231884058
+1536,1693801,2879,2126,Ginga Hyouryuu Vifam,Ginga Hyouryuu Vifam,1.0
+1537,1697751,2835,2131,Kikoushi Enma,Kikoushi Enma,1.0
+1538,1699142,3937,2132,Kidou Tenshi Angelic Layer,Kidou Tenshi Angelic Layer,1.0
+1539,1701457,1861,2134,Kiddy Grade: Maelstrom,Kiddy Grade: Maelstrom,1.0
+1540,1703443,1866,2136,Jinrui wa Suitai Shimashita Specials,Jinrui wa Suitai Shimashita Specials,1.0
+1541,1703817,2770,2137,Hatenkou Yuugi,Hatenkou Yuugi,1.0
+1542,1704501,2422,2138,Love Hina,Love Hina,1.0
+1543,1706509,3531,2141,Mister Ajikko,Mister Ajikko,1.0
+1544,1707730,2074,2143,Mahoromatic 2,Mahoromatic 2,1.0
+1545,1707789,2264,2143,Mahoromatic,Mahoromatic 2,0.8181818181818182
+1546,1710504,1966,2145,Rosario to Vampire Capu2,Rosario to Vampire Capu2,1.0
+1547,1710529,2074,2146,Mahoromatic 2,Mahoromatic,0.8181818181818182
+1548,1710565,2264,2146,Mahoromatic,Mahoromatic,1.0
+1549,1713600,3700,2149,Tamayura: Hitotose,Tamayura: Hitotose,1.0
+1550,1714003,3272,2150,Tiger Mask,Tiger Mask,1.0
+1551,1715762,3275,2152,Kousetsu Hyaku Monogatari,Kousetsu Hyaku Monogatari,1.0
+1552,1716834,3050,2154,Naruto: Honoo no Chuunin Shiken! Naruto vs Konohamaru!!,Naruto: Honoo no Chuunin Shiken! Naruto vs. Konohamaru!!,0.9
+1553,1718184,2536,2156,Nasu: Suitcase no Wataridori,Nasu: Suitcase no Wataridori,1.0
+1554,1719922,1786,2157,Nogizaka Haruka no Himitsu: Purezza,Nogizaka Haruka no Himitsu: Purezza,1.0
+1555,1723163,2917,2161,Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai Movie,Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai,0.88
+1556,1723232,3115,2161,Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai,Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai,1.0
+1557,1724539,2277,2163,Tengen Toppa Gurren Lagann: Kirameki Yoko Box ~Pieces of Sweet Stars~,Tengen Toppa Gurren Lagann: KiramekiYoko Box - Pieces of Sweet Stars,0.8194444444444444
+1558,1725074,746,2164,Yamada-kun to 7-nin no Majo TV,Yamada-kun to 7-nin no Majo,0.8928571428571429
+1559,1725434,1389,2164,Yamada-kun to 7-nin no Majo OVA,Yamada-kun to 7-nin no Majo,0.8620689655172413
+1560,1726137,2876,2165,Saraba Uchuu Senkan Yamato: Ai no Senshi-tachi,Saraba Uchuu Senkan Yamato: Ai no Senshitachi,0.8863636363636364
+1561,1727163,3049,2166,Senkaiden Houshin Engi,Senkaiden Houshin Engi,1.0
+1562,1732325,3872,2172,Crayon Shin-chan Movie 5: Ankoku Tamatama Daitsuiseki,Crayon Shin-chan Movie 05: Ankoku Tamatama Daitsuiseki,0.9056603773584906
+1563,1732676,3142,2173,Cat Shit One,Cat Shit One,1.0
+1564,1737198,3354,2181,Dead Leaves,Dead Leaves,1.0
+1565,1739995,2423,2185,Gotou ni Naritai.,Gotou ni Naritai.,1.0
+1566,1743636,3024,2189,Kenko Zenrakei Suieibu Umishou,Kenkou Zenrakei Suieibu Umishou,0.8387096774193549
+1567,1744322,2850,2190,Fullmetal Alchemist: The Sacred Star of Milos Specials,Fullmetal Alchemist: The Sacred Star of Milos Specials,1.0
+1568,1744397,1156,2190,Fullmetal Alchemist: The Sacred Star of Milos,Fullmetal Alchemist: The Sacred Star of Milos Specials,0.8269230769230769
+1569,1744672,2438,2191,Mobile Suit Zeta Gundam: A New Translation II -Lovers-,Mobile Suit Zeta Gundam: A New Translation II - Lovers,0.8909090909090909
+1570,1746232,2385,2193,Kenran Butou Sai: The Mars Daybreak,Kenran Butou Sai: The Mars Daybreak,1.0
+1571,1752573,2553,2200,Hayate no Gotoku! Heaven is a Place on Earth,Hayate no Gotoku! Heaven Is a Place on Earth,0.8666666666666667
+1572,1754870,3229,2202,Sentou Yousei Yukikaze,Sentou Yousei Yukikaze,1.0
+1573,1755589,2796,2203,Gunsmith Cats,Gunsmith Cats,1.0
+1574,1756857,3735,2204,Seimei no Kagaku: Micro Patrol,Seimei no Kagaku: Micro Patrol,1.0
+1575,1757734,2098,2206,Haiyore! Nyaruko-san: Yasashii Teki no Shitome-kata,Haiyore! Nyaruko-san: Yasashii Teki no Shitome-kata,1.0
+1576,1758648,2772,2207,Negima!? Natsu Special!?,Negima!? Natsu Special!?,1.0
+1577,1759534,2245,2209,Papa no Iukoto wo Kikinasai!: Pokkapoka,Papa no Iukoto wo Kikinasai!: Pokkapoka,1.0
+1578,1763385,2383,2213,Negima!?,Negima!?,1.0
+1579,1763386,2897,2213,Negima!,Negima!?,0.8333333333333334
+1580,1763653,3541,2214,Loveless,Loveless,1.0
+1581,1765028,3171,2216,Ai Yori Aoshi,Ai Yori Aoshi,1.0
+1582,1765314,2083,2217,Vampire Hunter D,Vampire Hunter D,1.0
+1583,1766538,2825,2218,Shakugan no Shana Movie Special,Shakugan no Shana Movie Special,1.0
+1584,1772080,1886,2224,Ghost in the Shell: Arise - Alternative Architecture,Ghost in the Shell: Arise - Alternative Architecture,1.0
+1585,1773768,2956,2227,Karneval,Karneval,1.0
+1586,1774636,3088,2229,Dog Days,Dog Days,1.0
+1587,1774758,2330,2229,Dog Days',Dog Days,0.8571428571428571
+1588,1776691,2540,2232,New Initial D Movie: Legend 2 - Tousou,New Initial D Movie: Legend 2 - Tousou,1.0
+1589,1779698,2102,2236,Omamori Himari,Omamori Himari,1.0
+1590,1780750,2780,2237,Otaku no Video,Otaku no Video,1.0
+1591,1781469,2538,2238,Pumpkin Scissors,Pumpkin Scissors,1.0
+1592,1787394,3557,2244,Shingu: Secret of the Stellar Wars,Shingu: Secret of the Stellar Wars,1.0
+1593,1789635,3856,2246,Supernatural The Animation,Supernatural The Animation,1.0
+1594,1790797,3444,2248,Asura,Asura,1.0
+1595,1792680,2265,2252,Witch Craft Works,Witch Craft Works,1.0
+1596,1794260,3169,2254,Wake Up Girls! Shichinin no Idol,"Wake Up, Girls! Shichinin no Idol",0.8484848484848485
+1597,1795812,2674,2257,Dash! Kappei,Dash! Kappei,1.0
+1598,1800412,1262,2263,Hayate no Gotoku!! OVA,Hayate no Gotoku! OVA,0.8571428571428571
+1599,1804180,1844,2267,Madan no Ou to Vanadis,Madan no Ou to Vanadis,1.0
+1600,1804628,2884,2268,Mouretsu Pirates,Mouretsu Pirates,1.0
+1601,1805366,2546,2269,Moyashimon Returns,Moyashimon Returns,1.0
+1602,1807358,2274,2271,Poulette no Isu,Poulette no Isu,1.0
+1603,1808397,2622,2272,Shinmai Maou no Testament OVA,Shinmai Maou no Testament OVA,1.0
+1604,1809016,3797,2272,Shinmai Maou no Testament,Shinmai Maou no Testament OVA,0.8518518518518519
+1605,1810498,2873,2274,Project ARMS: The 2nd Chapter,Project ARMS: The 2nd Chapter,1.0
+1606,1812291,2104,2276,Shakugan no Shana II Specials,Shakugan no Shana Specials,0.8148148148148148
+1607,1812581,2639,2276,Shakugan no Shana S Specials,Shakugan no Shana Specials,0.92
+1608,1812643,2748,2276,Shakugan no Shana Specials,Shakugan no Shana Specials,1.0
+1609,1813704,2713,2277,Rockman.EXE Stream,Rockman.EXE Stream,1.0
+1610,1815379,3744,2278,Puchimas! Petit iDOLM@STER,Puchimas!: Petit iDOLM@STER,0.8148148148148148
+1611,1815706,2297,2279,Suisei no Gargantia Special,Suisei no Gargantia Specials,0.9615384615384616
+1612,1817479,3221,2281,Toushou Daimos,Toushou Daimos,1.0
+1613,1818637,3660,2282,Bakumatsu Kikansetsu Irohanihoheto,Bakumatsu Kikansetsu Irohanihoheto,1.0
+1614,1823565,2878,2288,Hi no Tori: Uchuu Hen,Hi no Tori: Uchuu Hen,1.0
+1615,1824612,2991,2289,Guilty Crown Kiseki: Reassortment,Guilty Crown Kiseki: Reassortment,1.0
+1616,1825630,3791,2291,Crayon Shin-chan Movie 12: Arashi wo Yobu! Yuuhi no Kasukabe Boys,Crayon Shin-chan Movie 12: Arashi wo Yobu! Yuuhi no Kasukabe Boys,1.0
+1617,1826609,3528,2293,Dirty Pair OVA,Dirty Pair OVA,1.0
+1618,1831347,3851,2298,Muteki Kanban Musume,Muteki Kanban Musume,1.0
+1619,1831517,2181,2299,Suzumiya Haruhi no Yuuutsu (2009),Suzumiya Haruhi no Yuuutsu (2009),1.0
+1620,1832967,2998,2300,Neppu Kairiku Bushi Road,Neppuu Kairiku Bushi Road,0.875
+1621,1833814,2534,2301,Mahou Senshi Louie,Mahou Senshi Louie,1.0
+1622,1837194,1618,2306,Wasurenagumo,Wasurenagumo,1.0
+1623,1838878,3949,2308,Tengen Toppa Gurren Lagann Parallel Works 2,Tengen Toppa Gurren Lagann: Parallel Works,0.8372093023255814
+1624,1838879,1902,2308,Tengen Toppa Gurren Lagann Parallel Works,Tengen Toppa Gurren Lagann: Parallel Works,0.8780487804878049
+1625,1839460,3163,2309,Utawarerumono OVA,Utawarerumono OVA,1.0
+1626,1840205,1585,2310,The TV Show,The TV Show,1.0
+1627,1841927,1756,2312,Ichiban Ushiro no Daimaou,Ichiban Ushiro no Daimaou,1.0
+1628,1843934,2812,2315,Haiyore! Nyaruko-san,Haiyore! Nyaruko-san,1.0
+1629,1844307,1480,2315,Haiyore! Nyaruko-san F,Haiyore! Nyaruko-san,0.9
+1630,1844408,1669,2315,Haiyore! Nyaruko-san W,Haiyore! Nyaruko-san,0.9
+1631,1845654,1890,2316,Gosenzo-sama Banbanzai!,Gosenzo-sama Banbanzai!,1.0
+1632,1845804,3204,2318,Freezing,Freezing,1.0
+1633,1847315,2647,2320,Mahoromatic: Summer Special,Mahoromatic Summer Special,0.8148148148148148
+1634,1851415,3965,2324,Junkers Come Here,Junkers Come Here,1.0
+1635,1857134,3585,2330,Street Fighter II: The Movie,Street Fighter II: The Movie,1.0
+1636,1861520,2460,2335,Aki no Kanade,Aki no Kanade,1.0
+1637,1863125,2329,2337,World Trigger,World Trigger,1.0
+1638,1865235,3570,2339,Yugo the Negotiator,Yugo the Negotiator,1.0
+1639,1867901,3167,2342,Appleseed Alpha,Appleseed Alpha,1.0
+1640,1868510,2619,2343,Gakuen Utopia Manabi Straight! Special,Gakuen Utopia Manabi Straight! Special,1.0
+1641,1870316,2714,2345,Final Fantasy VII: On the Way to a Smile Episode: Denzel,Final Fantasy VII: On the Way to a Smile - Episode: Denzel,0.9298245614035088
+1642,1873430,3621,2348,Cyber City Oedo 808,Cyber City Oedo 808,1.0
+1643,1875000,2610,2350,GA: Geijutsuka Art Design Class OVA,GA: Geijutsuka Art Design Class,0.8787878787878788
+1644,1875654,3906,2350,GA: Geijutsuka Art Design Class,GA: Geijutsuka Art Design Class,1.0
+1645,1877636,2571,2353,Buki yo Saraba,Buki yo Saraba,1.0
+1646,1878809,3243,2354,Zombie-Loan Specials,Zombie-Loan Specials,1.0
+1647,1880308,3982,2355,Gugure! Kokkuri-san Specials,Gugure! Kokkuri-san Specials,1.0
+1648,1882409,2699,2358,Biohazard: Degeneration,Biohazard: Degeneration,1.0
+1649,1885129,3830,2360,Kodomo no Omocha OVA,Kodomo no Omocha OVA,1.0
+1650,1886544,2757,2362,Mamoru-kun ni Megami no Shukufuku wo!,Mamoru-kun ni Megami no Shukufuku wo!,1.0
+1651,1887190,2218,2363,IS: Infinite Stratos,IS: Infinite Stratos,1.0
+1652,1888691,3984,2364,Halo Legends,Halo Legends,1.0
+1653,1890867,2408,2367,Rosario to Vampire,Rosario to Vampire,1.0
+1654,1894079,2886,2370,Sora no Manimani,Sora no Manimani,1.0
+1655,1895989,3342,2372,Sekai Seifuku: Bouryaku no Zvezda,Sekai Seifuku: Bouryaku no Zvezda,1.0
+1656,1898510,2749,2375,Aoki Ryusei SPT Layzner,Aoki Ryuusei SPT Layzner,0.8695652173913043
+1657,1901938,1928,2378,Space Adventure Cobra,Space Adventure Cobra,1.0
+1658,1902647,3303,2379,Yoroiden Samurai Troopers Gaiden,Yoroiden Samurai Troopers,0.8214285714285714
+1659,1902786,3578,2379,Yoroiden Samurai Troopers,Yoroiden Samurai Troopers,1.0
+1660,1904413,2463,2382,Armitage III,Armitage III,1.0
+1661,1906704,3974,2384,Chirin no Suzu,Chirin no Suzu,1.0
+1662,1909011,3489,2388,Hellsing: Psalm of Darkness,Hellsing: Psalm of Darkness,1.0
+1663,1909780,2896,2389,Hokuto no Ken: Raoh Gaiden Ten no Haoh,Hokuto no Ken: Raoh Gaiden Ten no Haoh,1.0
+1664,1913329,2376,2393,Kiddy Grade: Ignition,Kiddy Grade: Ignition,1.0
+1665,1914659,2725,2395,Kyoushoku Soukou Guyver II,Kyoushoku Soukou Guyver II,1.0
+1666,1915991,3328,2397,Medaka Box,Medaka Box,1.0
+1667,1916522,2738,2398,Koe de Oshigoto! The Animation,Koe de Oshigoto! The Animation,1.0
+1668,1917385,2467,2399,Mushibugyou OVA,Mushibugyou OVA,1.0
+1669,1919451,3623,2401,Red Garden,Red Garden,1.0
+1670,1919851,2642,2402,Rekka no Honoo: Final Burning,Rekka no Honoo: Final Burning,1.0
+1671,1922022,3985,2404,Sakura Trick,Sakura Trick,1.0
+1672,1923204,2606,2406,Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie,Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie Lite,0.9166666666666666
+1673,1923424,2986,2406,Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie Lite,Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie Lite,1.0
+1674,1924678,2717,2408,Tenchi Muyo! Ryo-Ohki 2 Special,Tenchi Muyou! Ryo-Ohki 2 Special,0.84375
+1675,1925899,3339,2409,Tetsuwan Birdy,Tetsuwan Birdy,1.0
+1676,1926221,2691,2410,Tamayura,Tamayura,1.0
+1677,1932102,3058,2416,Cyborg Kuro-chan,Cyborg Kuro-chan,1.0
+1678,1934962,3516,2419,Cyborg 009 (1979),Cyborg 009 (1979),1.0
+1679,1936502,2651,2421,Ansatsu Kyoushitsu,Ansatsu Kyoushitsu,1.0
+1680,1936572,763,2421,Ansatsu Kyoushitsu TV,Ansatsu Kyoushitsu,0.8823529411764706
+1681,1939144,2358,2424,Dance in the Vampire Bund,Dance in the Vampire Bund,1.0
+1682,1940463,2800,2425,Dantalian no Shoka: Ibarahime,Dantalian no Shoka: Ibarahime,1.0
+1683,1942411,2869,2427,Jitsu wa Watashi wa,Jitsu wa Watashi wa,1.0
+1684,1943342,2631,2428,Iria: Zeiram The Animation,Iria: Zeiram The Animation,1.0
+1685,1945358,2779,2430,Future Card Buddyfight 100,Future Card Buddyfight,0.8333333333333334
+1686,1947462,3283,2432,Karneval Specials,Karneval Specials,1.0
+1687,1953229,2823,2438,Mouretsu Pirates: Abyss of Hyperspace,Mouretsu Pirates: Abyss of Hyperspace,1.0
+1688,1956099,3402,2441,Rockman.EXE Beast+,Rockman.EXE Beast,0.9375
+1689,1957579,2993,2443,Sasameki Koto,Sasameki Koto,1.0
+1690,1959635,3065,2445,Negima!? Haru Special!?,Negima!? Haru Special!?,1.0
+1691,1961121,3181,2447,Terra Formars OVA,Terra Formars OVA,1.0
+1692,1961737,2449,2448,YAT Anshin! Uchuu Ryokou,YAT Anshin! Uchuu Ryokou,1.0
+1693,1967504,1870,2454,Shijou Saikyou no Deshi Kenichi OVA Specials,Shijou Saikyou no Deshi Kenichi Specials,0.8536585365853658
+1694,1967851,2537,2455,Bleach: Memories in the Rain,Bleach: Memories in the Rain,1.0
+1695,1970940,2927,2458,Hinata no Aoshigure,Hinata no Aoshigure,1.0
+1696,1972406,2330,2460,Dog Days',Dog Days'',0.875
+1697,1972893,3888,2461,Cat's Eye,Cat's Eye,1.0
+1698,1973330,3284,2462,Hataraki Man,Hataraki Man,1.0
+1699,1974117,3404,2463,Mazinkaiser SKL,Mazinkaiser SKL,1.0
+1700,1977946,3235,2467,Koutetsu Jeeg,Koutetsu Jeeg,1.0
+1701,1979463,2663,2469,Kochira Katsushikaku Kameari Kouenmae Hashutsujo,Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie,0.8148148148148148
+1702,1982648,3719,2473,Ninja Senshi Tobikage,Ninja Senshi Tobikage,1.0
+1703,1983121,2891,2474,Mobile Suit Gundam MS IGLOO: Apocalypse 0079,Mobile Suit Gundam MS IGLOO: Apocalypse 0079,1.0
+1704,1985140,3397,2476,Pandane to Tamago-hime,Pandane to Tamago-hime,1.0
+1705,1986102,3027,2478,Muteki Choujin Zanbot 3,Muteki Choujin Zanbot 3,1.0
+1706,1986759,3481,2479,Switch,Switch,1.0
+1707,1987525,3196,2481,Princess Princess,Princess Princess,1.0
+1708,1989450,3809,2483,Re: Cutie Honey,Re: Cutie Honey,1.0
+1709,1990431,3696,2484,Saint Seiya: Soul of Gold,Saint Seiya: Soul of Gold,1.0
+1710,1991185,3409,2485,Strike Witches TV,Strike Witches,0.8
+1711,1993293,2983,2488,Uchuu Kaizoku Captain Harlock: Arcadia-gou no Nazo,Uchuu Kaizoku Captain Harlock: Arcadia-gou no Nazo,1.0
+1712,1995413,3475,2491,Vassalord,Vassalord.,0.875
+1713,1995618,2333,2492,Usavich,Usavich,1.0
+1714,1995890,2464,2493,Touch: Cross Road - Kaze no Yukue,Touch: Cross Road - Kaze no Yukue,1.0
+1715,1996835,2847,2494,Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! OVA,0.9285714285714286
+1716,1997039,3948,2494,Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui! OVA,Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! OVA,0.9152542372881356
+1717,2002814,3334,2500,Otome wa Boku ni Koishiteru,Otome wa Boku ni Koishiteru,1.0
+1718,2003570,2731,2501,Asatte no Houkou,Asatte no Houkou.,0.9333333333333333
+1719,2005855,3265,2503,Solty Rei Specials,Solty Rei Specials,1.0
+1720,2008126,3381,2506,Seirei Tsukai no Blade Dance,Seirei Tsukai no Blade Dance,1.0
+1721,2008961,3504,2507,Rental Magica,Rental Magica,1.0
+1722,2010979,2649,2510,Shin Koihime Musou: Otome Tairan,Shin KoihimeMusou: Otome Tairan,0.8709677419354839
+1723,2013435,3109,2512,Bubblegum Crisis Tokyo 2040,Bubblegum Crisis Tokyo 2040,1.0
+1724,2014797,3552,2513,Sousei no Aquarion,Sousei no Aquarion,1.0
+1725,2014820,3596,2513,Sousei no Aquarion OVA,Sousei no Aquarion,0.8
+1726,2015989,3715,2515,Aikatsu!,Aikatsu!,1.0
+1727,2019546,3979,2520,Crayon Shin-chan Movie 8: Arashi wo Yobu Jungle,Crayon Shin-chan Movie 08: Arashi wo Yobu Jungle,0.8958333333333334
+1728,2021689,2198,2523,Escaflowne,Escaflowne,1.0
+1729,2022162,2753,2524,Gedo Senki,Gedo Senki,1.0
+1730,2022684,2610,2525,GA: Geijutsuka Art Design Class OVA,GA: Geijutsuka Art Design Class OVA,1.0
+1731,2023290,3906,2525,GA: Geijutsuka Art Design Class,GA: Geijutsuka Art Design Class OVA,0.8787878787878788
+1732,2025488,1622,2528,Hi no Tori: Houou Hen,Hi no Tori: Houou Hen,1.0
+1733,2027239,3248,2530,Girls und Panzer Specials,Girls und Panzer Specials,1.0
+1734,2030148,3288,2534,Kaibutsu Oujo,Kaibutsu Oujo,1.0
+1735,2034337,3370,2538,Muv-Luv Alternative: Total Eclipse,Muv-Luv Alternative: Total Eclipse,1.0
+1736,2038762,3047,2543,Soukou no Strain,Soukou no Strain,1.0
+1737,2039447,2782,2544,Wonderful Days,Wonderful Days,1.0
+1738,2044851,3957,2549,Yakushiji Ryoko no Kaiki Jikenbo,Yakushiji Ryouko no Kaiki Jikenbo,0.8484848484848485
+1739,2045201,3000,2550,To Aru Majutsu no Index: Endymion no Kiseki Special,Toaru Majutsu no Index: Endymion no Kiseki Special,0.86
+1740,2049915,2295,2556,Deadman Wonderland OVA,Deadman Wonderland OVA,1.0
+1741,2050540,1312,2556,Deadman Wonderland,Deadman Wonderland OVA,0.8
+1742,2055087,3177,2562,Infinite Stratos Encore - Koi ni Kogareru Rokujuusou,IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou,0.9245283018867925
+1743,2055546,2692,2563,Kamisama Dolls,Kamisama Dolls,1.0
+1744,2056957,3626,2564,Kazemakase Tsukikage Ran,Kazemakase Tsukikage Ran,1.0
+1745,2057952,3433,2565,Kindaichi Shounen no Jikenbo Movie,Kindaichi Shounen no Jikenbo,0.8125
+1746,2058112,1657,2565,Kindaichi Shounen no Jikenbo,Kindaichi Shounen no Jikenbo,1.0
+1747,2065661,3353,2574,Soukou Kihei Votoms: Koei Futatabi,Soukou Kihei Votoms: Koei Futatabi,1.0
+1748,2069017,1429,2577,Stop!! Hibari-kun!,Stop!! Hibari-kun!,1.0
+1749,2069670,2695,2578,Seikimatsu Occult Gakuin,Seikimatsu Occult Gakuin,1.0
+1750,2071499,2410,2580,Urusei Yatsura Movie 3: Remember My Love,Urusei Yatsura Movie 3: Remember My Love,1.0
+1751,2074291,2736,2583,Devil May Cry,Devil May Cry,1.0
+1752,2076122,3863,2585,Crayon Shin-chan Movie 2: Buriburi Oukoku no Hihou,Crayon Shin-chan Movie 02: Buriburi Oukoku no Hihou,0.9
+1753,2076123,3864,2585,Eiga Crayon Shin-chan Movie 2: Buriburi Oukoku no Hihou,Crayon Shin-chan Movie 02: Buriburi Oukoku no Hihou,0.8181818181818182
+1754,2077360,2216,2587,Ghost in the Shell: Stand Alone Complex - The Laughing Man - Tachikoma Days,Ghost in the Shell: Stand Alone Complex - The Laughing Man - Tachikoma no Hibi,0.8571428571428571
+1755,2077560,2462,2588,Hidan no Aria,Hidan no Aria,1.0
+1756,2080088,3942,2591,Freezing Vibration,Freezing Vibration,1.0
+1757,2080553,2471,2593,Elf wo Karu Monotachi II,Elf wo Karu Mono-tachi II,0.8
+1758,2082118,3804,2594,Magic Tree House,Magic Tree House,1.0
+1759,2084820,3061,2597,Iriya no Sora UFO no Natsu,"Iriya no Sora, UFO no Natsu",0.8
+1760,2087007,3903,2599,Mermaid Forest,Mermaid Forest,1.0
+1761,2087022,3936,2599,Mermaid Forest TV,Mermaid Forest,0.8
+1762,2091004,3436,2604,Roujin Z,Roujin Z,1.0
+1763,2091594,3045,2605,Sekiranun Graffiti,Sekiranun Graffiti,1.0
+1764,2092636,3071,2606,RahXephon: Pluralitas Concentio,RahXephon: Pluralitas Concentio,1.0
+1765,2093768,3198,2607,Seiken Tsukai no World Break,Seiken Tsukai no World Break,1.0
+1766,2094484,3236,2608,Riding Bean,Riding Bean,1.0
+1767,2097629,3552,2611,Sousei no Aquarion,Sousei no Aquarion OVA,0.8
+1768,2097662,3596,2611,Sousei no Aquarion OVA,Sousei no Aquarion OVA,1.0
+1769,2100083,3759,2615,Shangri-La,Shangri-La,1.0
+1770,2109701,3951,2625,Batman: Gotham Knight,Batman: Gotham Knight,1.0
+1771,2111005,2710,2627,Galaxy Angel A,Galaxy Angel,0.8333333333333334
+1772,2111112,3080,2627,Galaxy Angel X,Galaxy Angel,0.8333333333333334
+1773,2111157,3219,2627,Galaxy Angel Z,Galaxy Angel,0.8333333333333334
+1774,2111206,3391,2627,Galaxy Angel S,Galaxy Angel,0.8333333333333334
+1775,2111675,2616,2628,Hotori: Tada Saiwai o Koinegau,Hotori: Tada Saiwai wo Koinegau,0.8387096774193549
+1776,2122186,2997,2640,Murder Princess,Murder Princess,1.0
+1777,2123051,2613,2642,Soukou Kihei Votoms: Kakuyaku taru Itan,Soukou Kihei Votoms: Kakuyaku taru Itan,1.0
+1778,2124179,3657,2643,Project ARMS,Project ARMS,1.0
+1779,2131960,3745,2651,Galaxy Angel Z Special,Galaxy Angel Z Special,1.0
+1780,2133315,3087,2653,Infinite Stratos 2 - Hitonatsu no Omoide,IS: Infinite Stratos 2 - Hitonatsu no Omoide,0.9047619047619048
+1781,2141720,3692,2663,Kurozuka,Kurozuka,1.0
+1782,2145460,2909,2668,Shikabane Hime: Kuro Special,Shikabane Hime: Kuro Special,1.0
+1783,2148414,1292,2671,Touhou Niji Sousaku Doujin Anime: Musou Kakyou 2,Touhou Niji Sousaku Doujin Anime: Musou Kakyou,0.9772727272727273
+1784,2148758,2356,2672,Yumekui Merry,Yumekui Merry,1.0
+1785,2149765,3184,2673,Ranma 1/2: Tendou-ke no Oyobidenai Yatsura!,Ranma : Tendou-ke no Oyobidenai Yatsura!,0.8372093023255814
+1786,2150831,3120,2675,Chuunibyou Demo Koi ga Shitai! Ren Specials,Chuunibyou demo Koi ga Shitai! Ren Specials,0.8636363636363636
+1787,2158884,3348,2685,Hakuouki Hekketsuroku Episode 0,Hakuouki Hekketsuroku Episode 0,1.0
+1788,2160150,3858,2686,Haikyuu!! Movie 2: Shousha to Haisha,Haikyuu!! Movie 2: Shousha to Haisha,1.0
+1789,2160938,3410,2687,Dragonaut: The Resonance Special,Dragonaut: The Resonance Special,1.0
+1790,2163192,3839,2689,Guilty Crown: Lost Christmas,Guilty Crown: Lost Christmas,1.0
+1791,2165255,3824,2691,Kenyu Densetsu Yaiba,Kenyuu Densetsu Yaiba,0.85
+1792,2167429,3890,2693,Key the Metal Idol,Key the Metal Idol,1.0
+1793,2172404,3099,2699,Mizu no Kotoba,Mizu no Kotoba,1.0
+1794,2173725,3832,2700,Battle Programmer Shirase,Battle Programmer Shirase,1.0
+1795,2178615,2474,2708,Fractale,Fractale,1.0
+1796,2180051,3368,2711,Dragon Half,Dragon Half,1.0
+1797,2183290,3417,2715,Hoshizora e Kakaru Hashi,Hoshizora e Kakaru Hashi,1.0
+1798,2183559,3884,2715,Hoshizora e Kakaru Hashi OVA,Hoshizora e Kakaru Hashi,0.84
+1799,2190274,2081,2723,Queen Emeraldas,Queen Emeraldas,1.0
+1800,2191713,3223,2724,Namiuchigiwa no Muromi-san,Namiuchigiwa no Muromi-san,1.0
+1801,2191981,3724,2724,Namiuchigiwa no Muromi-san OVA,Namiuchigiwa no Muromi-san,0.8571428571428571
+1802,2198869,2818,2733,Tokumu Sentai Shinesman,Tokumu Sentai Shinesman,1.0
+1803,2199727,2455,2734,Asu no Yoichi!,Asu no Yoichi!,1.0
+1804,2204108,3574,2739,Bungaku Shoujo: Kyou no Oyatsu ~Hatsukoi~,Bungaku Shoujo: Kyou no Oyatsu - Hatsukoi,0.8048780487804879
+1805,2211944,3013,2747,Eureka Seven: Navigation ray=out,Eureka Seven: Navigation ray=out,1.0
+1806,2218808,3401,2755,Ro-Kyu-Bu! Tomoka no Ichigo Sunday,Ro-Kyu-Bu!: Tomoka no Ichigo Sundae,0.8055555555555556
+1807,2219809,3558,2756,Sekai Meisaku Douwa: Mori wa Ikiteiru,Sekai Meisaku Douwa: Mori wa Ikiteiru,1.0
+1808,2225618,3250,2764,Yuusha ni Nare Nakatta Ore wa Shibushibu Shuushoku o Ketsui Shimashita.,Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.,0.84375
+1809,2226335,3083,2765,Cello Hiki no Gauche,Cello Hiki no Gauche,1.0
+1810,2227592,3683,2767,Zombie-Loan,Zombie-Loan,1.0
+1811,2227813,2963,2768,Ani*Kuri15,Ani*Kuri15,1.0
+1812,2228775,3949,2769,Tengen Toppa Gurren Lagann Parallel Works 2,Tengen Toppa Gurren Lagann: Parallel Works 2,0.8837209302325582
+1813,2228776,1902,2769,Tengen Toppa Gurren Lagann Parallel Works,Tengen Toppa Gurren Lagann: Parallel Works 2,0.8372093023255814
+1814,2235425,3946,2777,Gokukoku no Brynhildr,Gokukoku no Brynhildr,1.0
+1815,2236245,3905,2778,Katte ni Kaizou,Katte ni Kaizou,1.0
+1816,2237244,3758,2780,Lost Universe,Lost Universe,1.0
+1817,2249965,2902,2798,.hack//Roots,.hack//Roots,1.0
+1818,2250357,3679,2799,A-Channel,A-Channel,1.0
+1819,2250390,3227,2799,+A-Channel,A-Channel,0.875
+1820,2250685,2346,2800,Sword Art Online: Extra Edition,Sword Art Online: Extra Edition,1.0
+1821,2252442,3820,2801,Taimadou Gakuen 35 Shiken Shoutai,Taimadou Gakuen 35 Shiken Shoutai,1.0
+1822,2253370,3431,2802,Vampire Knight Special,Vampire Knight Special,1.0
+1823,2258212,3206,2809,Arete Hime,Arete Hime,1.0
+1824,2259857,2184,2812,Asura Cryin' 2,Asura Cryin',0.8333333333333334
+1825,2260105,3095,2812,Asura Cryin',Asura Cryin',1.0
+1826,2260881,3225,2813,Dai Mahou Touge,Dai Mahou Touge,1.0
+1827,2267922,3619,2822,Itsuka Tenma no Kuro Usagi OVA,Itsuka Tenma no Kuro Usagi OVA,1.0
+1828,2272845,3726,2828,Mahoujin Guru Guru Movie,Mahoujin Guru Guru Movie,1.0
+1829,2274358,466,2830,Love Live! School Idol Project 2,Love Live! School Idol Project Recap,0.8235294117647058
+1830,2274901,1602,2830,Love Live! School Idol Project,Love Live! School Idol Project Recap,0.8181818181818182
+1831,2275143,2299,2831,Mikakunin de Shinkoukei: Mite. Are ga Watashitachi no Tomatteiru Ryokan yo.,Mikakunin de Shinkoukei: Mite. Are ga Watashitachi no Tomatteiru Ryokan yo.,1.0
+1832,2275975,3705,2832,Macademi Wasshoi!,Macademi Wasshoi!,1.0
+1833,2278641,2071,2837,Scryed Alteration I: Tao,Scryed Alteration I: Tao,1.0
+1834,2281401,3246,2839,Starship Operators,Starship Operators,1.0
+1835,2282377,2855,2842,To Aru Kagaku no Railgun S Specials,Toaru Kagaku no Railgun S Specials,0.8055555555555556
+1836,2283472,3366,2843,World Destruction: Sekai Bokumetsu no Rokunin,World Destruction: Sekai Bokumetsu no Rokunin,1.0
+1837,2286256,3589,2847,Crayon Shin-chan Movie 1: Action Kamen vs Haigure Maou,Crayon Shin-chan Movie 01: Action Kamen vs. Haigure Maou,0.8245614035087719
+1838,2287333,2704,2849,Porfy no Nagai Tabi,Porfy no Nagai Tabi,1.0
+1839,2288376,2901,2850,Mokke Specials,Mokke Specials,1.0
+1840,2291872,3019,2854,Uchuu Senkan Yamato: Kanketsu-hen,Uchuu Senkan Yamato: Kanketsu-hen,1.0
+1841,2297574,2640,2860,Princess Lover!,Princess Lover!,1.0
+1842,2301516,1967,2863,CB Chara Go Nagai World,CB Chara Go Nagai World,1.0
+1843,2302438,3755,2864,Devil Survivor 2 The Animation,Devil Survivor 2 The Animation,1.0
+1844,2304946,3771,2867,Fire Tripper,Fire Tripper,1.0
+1845,2305109,3785,2868,Amatsuki,Amatsuki,1.0
+1846,2306667,2710,2871,Galaxy Angel A,Galaxy Angel S,0.8461538461538461
+1847,2306826,3080,2871,Galaxy Angel X,Galaxy Angel S,0.8461538461538461
+1848,2306882,3219,2871,Galaxy Angel Z,Galaxy Angel S,0.8461538461538461
+1849,2306947,3391,2871,Galaxy Angel S,Galaxy Angel S,1.0
+1850,2308218,3507,2873,I''s Pure,I''s Pure,1.0
+1851,2309586,2945,2875,Hitsugi no Chaika OVA,Hitsugi no Chaika OVA,1.0
+1852,2310458,3253,2876,Gosick Recap,Gosick Recap,1.0
+1853,2310943,3500,2877,It's a Rumic World: 50th Anniversary WeeklyShonen Sunday,It's a Rumic World: 50th Anniversary WeeklyShonen Sunday,1.0
+1854,2314485,3438,2882,Kyoshin Gorg,Kyoshin Gorg,1.0
+1855,2316571,3714,2885,Kogepan,Kogepan,1.0
+1856,2323161,2617,2893,Miyori no Mori,Miyori no Mori,1.0
+1857,2325453,3917,2895,Shinigami no Ballad,Shinigami no Ballad,1.0
+1858,2326682,2135,2897,Scryed Alteration II: Quan,Scryed Alteration II: Quan,1.0
+1859,2328868,3590,2899,Maburaho,Maburaho,1.0
+1860,2330005,3805,2901,Rocket Girls,Rocket Girls,1.0
+1861,2331329,3766,2903,Moshidora,Moshidora,1.0
+1862,2332292,3515,2904,New Dominion Tank Police,New Dominion Tank Police,1.0
+1863,2333555,3909,2905,Ninin ga Shinobuden,Ninin ga Shinobuden,1.0
+1864,2335385,3929,2907,Maji de Watashi ni Koi Shinasai!!,Maji de Watashi ni Koi Shinasai!,0.967741935483871
+1865,2336276,3579,2908,Mobile Suit Victory Gundam,Mobile Suit Victory Gundam,1.0
+1866,2344331,2639,2917,Shakugan no Shana S Specials,Shakugan no Shana S Specials,1.0
+1867,2344395,2748,2917,Shakugan no Shana Specials,Shakugan no Shana S Specials,0.92
+1868,2350866,3062,2924,Bleach: The Sealed Sword Frenzy,Bleach: The Sealed Sword Frenzy,1.0
+1869,2351646,2260,2926,Dennou Boukenki Webdiver,Dennou Boukenki Webdiver,1.0
+1870,2361292,3544,2937,Ichigo 100% - Koi ga Hajimaru?! Satsuei Gasshuku - Yureru Kokoro ga Higashi e Nishi e,Ichigo 100%: Koi ga Hajimaru?! Satsuei Gasshuku - Yureru Kokoro ga Higashi e Nishi e,0.9230769230769231
+1871,2365323,3483,2943,Samurai Deeper Kyo,Samurai Deeper Kyou,0.9411764705882353
+1872,2366690,2952,2945,Shin Angyo Onshi,Shin Angyo Onshi,1.0
+1873,2370538,3337,2949,Rinne no Lagrange 2,Rinne no Lagrange,0.8823529411764706
+1874,2370653,3568,2949,Rinne no Lagrange,Rinne no Lagrange,1.0
+1875,2372609,2905,2952,Tezuka Osamu no Buddha: Akai Sabaku yo! Utsukushiku,Tezuka Osamu no Buddha: Akai Sabaku yo! Utsukushiku,1.0
+1876,2373853,3796,2953,Tantei Opera Milky Holmes 2,Tantei Opera Milky Holmes,0.92
+1877,2376646,3740,2956,To Heart 2 OVA,To Heart 2 OVA,1.0
+1878,2377282,3713,2957,sola Specials,Sola Specials,0.8333333333333334
+1879,2381162,3655,2962,Fate/Prototype,Fate/Prototype,1.0
+1880,2382870,3990,2964,Daitoshokan no Hitsujikai,Daitoshokan no Hitsujikai,1.0
+1881,2383304,3459,2965,Code:Breaker,Code:Breaker,1.0
+1882,2387941,3685,2970,Hyper Police,Hyper Police,1.0
+1883,2388826,3493,2971,Hyakka Ryouran: Samurai Girls,Hyakka Ryouran: Samurai Girls,1.0
+1884,2391142,1292,2974,Touhou Niji Sousaku Doujin Anime: Musou Kakyou 2,Touhou Niji Sousaku Doujin Anime: Musou Kakyou Special,0.8431372549019608
+1885,2394188,2661,2978,Kowarekake no Orgel Special,Kowarekake no Orgel Special,1.0
+1886,2398888,3548,2984,Dual Parallel! Trouble Adventures Special,Dual Parallel! Trouble Adventures Special,1.0
+1887,2401124,3869,2986,Battle Spirits: Sword Eyes,Battle Spirits: Sword Eyes,1.0
+1888,2405956,2093,2993,Hi no Tori: Yamato Hen,Hi no Tori: Yamato Hen,1.0
+1889,2409074,3642,2995,Futakoi Alternative,Futakoi Alternative,1.0
+1890,2414874,3382,3002,Sirius no Densetsu,Sirius no Densetsu,1.0
+1891,2416492,2970,3004,Kumo no You ni Kaze no You ni,Kumo no You ni Kaze no You ni,1.0
+1892,2421006,2908,3009,Armitage III Dual-Matrix,Armitage III: Dual-Matrix,0.8
+1893,2423015,3527,3011,Zone of the Enders: Dolores,"Zone of the Enders: Dolores, I",0.8928571428571429
+1894,2428124,3769,3016,Hidan no Aria Special,Hidan no Aria Special,1.0
+1895,2431886,3892,3021,Kamisama no Inai Nichiyoubi Special,Kamisama no Inai Nichiyoubi Special,1.0
+1896,2434612,2837,3024,Kuro no Sumika: Chronus,Kuro no Sumika: Chronus,1.0
+1897,2436185,3749,3025,Koi to Senkyo to Chocolate Special,Koi to Senkyo to Chocolate Special,1.0
+1898,2447892,2486,3039,TWO-MIX: White Reflection,TWO-MIX: White Reflection,1.0
+1899,2450772,1092,3042,Arslan Senki,Arslan Senki,1.0
+1900,2451590,3092,3043,Zone of the Enders: Idolo,Zone of the Enders: Idolo,1.0
+1901,2453444,2089,3046,CLAMP in Wonderland 2,CLAMP in Wonderland,0.8947368421052632
+1902,2455194,3547,3047,Brothers Conflict OVA,Brothers Conflict OVA,1.0
+1903,2457419,2656,3051,Cardfight!! Vanguard G: Gears Crisis-hen,Cardfight!! Vanguard G: Gears Crisis-hen,1.0
+1904,2460840,3637,3056,FlashBack,FlashBack,1.0
+1905,2462550,3429,3058,Jigoku Sensei Nube: Gozen 0 toki Nube Shisu,Jigoku Sensei Nube: Gozen 0 toki Nube Shisu,1.0
+1906,2466719,3717,3064,Munto,Munto,1.0
+1907,2467097,3684,3065,Megazone 23,Megazone 23,1.0
+1908,2477156,3843,3079,Dakara Boku wa H ga Dekinai.,"Dakara Boku wa, H ga Dekinai.",0.8275862068965517
+1909,2480864,3445,3083,Futsuu no Joshikousei ga [Locodol] Yatte Mita. Special,Futsuu no Joshikousei ga [Locodol] Yatte Mita.,0.8461538461538461
+1910,2483137,2923,3086,Kyouryuu Boukenki Jura Tripper,Kyouryuu Boukenki Jura Tripper,1.0
+1911,2492578,2994,3097,Ontama!,Ontama!,1.0
+1912,2493360,3977,3098,Dragon Crisis!,Dragon Crisis!,1.0
+1913,2494408,3871,3099,Recorder to Randoseru OVA,Recorder to Randoseru Re,0.8
+1914,2500423,1419,3107,Himouto! Umaru-chan,Himouto! Umaru-chan'S,0.8947368421052632
+1915,2502686,3658,3109,Gregory Horror Show,Gregory Horror Show,1.0
+1916,2504679,3415,3111,Lupin III: Lupin Ikka Seizoroi,Lupin III: Lupin Ikka Seizoroi,1.0
+1917,2509709,3656,3116,Ikkitousen: Xtreme Xecutor,Ikkitousen: Xtreme Xecutor,1.0
+1918,2512821,3648,3120,Uchuu Senkan Yamato: Arata naru Tabidachi,Uchuu Senkan Yamato: Aratanaru Tabidachi,0.8780487804878049
+1919,2524345,2177,3136,Mobile Suit Gundam,Mobile Suit Gundam F91,0.8
+1920,2524379,2230,3136,Mobile Suit Gundam I,Mobile Suit Gundam F91,0.8095238095238095
+1921,2525184,3587,3136,Mobile Suit Gundam F91,Mobile Suit Gundam F91,1.0
+1922,2528692,3261,3142,Tao Tao Ehonkan Sekai Doubutsu Banashi,TaoTao Ehonkan Sekai Doubutsu Banashi,0.8888888888888888
+1923,2532144,3294,3146,Totsuzen! Neko no Kuni Banipal Witt,Totsuzen! Neko no Kuni Banipal Witt,1.0
+1924,2537603,3915,3151,Shin Hokuto no Ken,Shin Hokuto no Ken,1.0
+1925,2544701,2662,3160,Urusei Yatsura Movie 4: Lum The Forever,Urusei Yatsura Movie 4: Lum The Forever,1.0
+1926,2550482,3247,3166,Zetman,Zetman,1.0
+1927,2552570,3627,3168,Ikkitousen: Great Guardians,Ikkitousen: Great Guardians,1.0
+1928,2553330,3838,3169,Zero no Tsukaima: Princess no Rondo Picture Drama,Zero no Tsukaima: Princesses no Rondo Picture Drama,0.9166666666666666
+1929,2559354,3807,3175,Lupin III: Touhou Kenbunroku - Another Page,Lupin III: Touhou Kenbunroku - Another Page,1.0
+1930,2559758,3408,3176,Mobile Suit Gundam: The 08th MS Team - Miller's Report,Mobile Suit Gundam: The 08th MS Team - Miller's Report,1.0
+1931,2566463,3611,3185,Umi ga Kikoeru,Umi ga Kikoeru,1.0
+1932,2568055,2449,3188,YAT Anshin! Uchuu Ryokou,YAT Anshin! Uchuu Ryokou 2,0.9166666666666666
+1933,2578102,3365,3199,Bokusatsu Tenshi Dokuro-chan 2,Bokusatsu Tenshi Dokuro-chan 2,1.0
+1934,2578320,3767,3199,Bokusatsu Tenshi Dokuro-chan,Bokusatsu Tenshi Dokuro-chan 2,0.9259259259259259
+1935,2587186,3893,3208,Code:Breaker OVA,Code:Breaker OVA,1.0
+1936,2589611,2863,3211,Grappler Baki 2,Grappler Baki,0.8461538461538461
+1937,2589733,3241,3211,Grappler Baki,Grappler Baki,1.0
+1938,2592435,3460,3214,Goshuushou-sama Ninomiya-kun,Goshuushou-sama Ninomiya-kun,1.0
+1939,2595137,3986,3217,Juushin Enbu: Hero Tales,Jyuushin Enbu: Hero Tales,0.875
+1940,2598728,3775,3222,Kono Minikuku mo Utsukushii Sekai,Kono Minikuku mo Utsukushii Sekai,1.0
+1941,2605705,3299,3232,Seiken no Blacksmith,Seiken no Blacksmith,1.0
+1942,2607176,3535,3234,Strait Jacket,Strait Jacket,1.0
+1943,2607884,3222,3235,Stratos 4 Advance,Stratos 4 Advance,1.0
+1944,2615987,3256,3245,Ai Yori Aoshi: Yumegatari,Ai Yori Aoshi: Yumegatari,1.0
+1945,2621002,3896,3250,Break Blade Picture Drama,Break Blade Picture Drama,1.0
+1946,2622232,3861,3252,Dakara Boku wa H ga Dekinai. OVA,"Dakara Boku wa, H ga Dekinai. OVA",0.8484848484848485
+1947,2626254,3416,3256,Fortune Arterial: Akai Yakusoku,Fortune Arterial: Akai Yakusoku,1.0
+1948,2636970,2943,3270,To Aru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne,Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne.,0.9
+1949,2641365,3699,3276,C Special,C Special,1.0
+1950,2643099,1349,3280,K,C,1.0
+1951,2643100,2354,3280,H2,C,1.0
+1952,2647319,3847,3285,Gundam Evolve,Gundam Evolve,1.0
+1953,2649150,3641,3287,I My Me! Strawberry Eggs,I My Me! Strawberry Eggs,1.0
+1954,2652996,3484,3293,Makai Senki Disgaea: Welcome to Netherworld,Makai Senki Disgaea: Welcome to Netherworld,1.0
+1955,2655119,3789,3296,Mahou Sensei Negima! Introduction Film,Mahou Sensei Negima! Introduction Film,1.0
+1956,2655799,3117,3297,Kami nomi zo Shiru Sekai: Flag 0,Kami nomi zo Shiru Sekai: Flag 0,1.0
+1957,2662802,2096,3306,Gatchaman Crowds Insight: Inbound,Gatchaman Crowds Insight: Inbound,1.0
+1958,2666045,2915,3309,Hayate no Gotoku! Cuties,Hayate no Gotoku! Cuties,1.0
+1959,2668724,1669,3311,Haiyore! Nyaruko-san W,Haiyore! Nyaruko-san W OVA,0.8333333333333334
+1960,2668848,3943,3311,Haiyore! Nyaruko-san W OVA,Haiyore! Nyaruko-san W OVA,1.0
+1961,2669469,2151,3314,Kimi to Boku.,Kimi to Boku,0.9090909090909091
+1962,2670716,3498,3316,Kawa no Hikari,Kawa no Hikari,1.0
+1963,2671642,3563,3317,Kamen no Maid Guy,Kamen no Maid Guy,1.0
+1964,2673501,3855,3319,Ochamegami Monogatari: Korokoro Poron,Ochamegami Monogatari: Korokoro Pollon,0.8378378378378378
+1965,2674155,3866,3321,Mushrambo,Mushrambo,1.0
+1966,2674620,2912,3322,Senyuu. Specials,Senyuu. Specials,1.0
+1967,2676456,2622,3324,Shinmai Maou no Testament OVA,Shinmai Maou no Testament,0.8518518518518519
+1968,2677094,3797,3324,Shinmai Maou no Testament,Shinmai Maou no Testament,1.0
+1969,2678954,2322,3329,Shingetsutan Tsukihime,Shingetsutan Tsukihime,1.0
+1970,2683426,3034,3335,Cardfight!! Vanguard Movie: Neon Messiah,Cardfight!! Vanguard Movie: Neon Messiah,1.0
+1971,2685431,2779,3337,Future Card Buddyfight 100,Future Card Buddyfight 100,1.0
+1972,2688008,3490,3340,Pokemon Best Wishes! Season 2 - Episode N,Pokemon Best Wishes! Season 2: Episode N,0.8292682926829268
+1973,2688913,3282,3341,Mai-Otome Specials,Mai-Otome Specials,1.0
+1974,2689750,2898,3342,Mahou Sensei Negima!,Mahou Sensei Negima!,1.0
+1975,2691196,2097,3344,Gunslinger Girl: Il Teatrino OVA,Gunslinger Girl: Il Teatrino OVA,1.0
+1976,2691465,2620,3344,Gunslinger Girl: Il Teatrino,Gunslinger Girl: Il Teatrino OVA,0.8666666666666667
+1977,2693407,3402,3347,Rockman.EXE Beast+,Rockman.EXE Beast+,1.0
+1978,2694483,3635,3348,Shin Koihime Musou: Otome Tairan OVA,Shin KoihimeMusou: Otome Tairan OVA,0.8857142857142857
+1979,2695569,3871,3349,Recorder to Randoseru OVA,Recorder to Randoseru,0.8260869565217391
+1980,2699328,3865,3356,Tytania,Tytania,1.0
+1981,2700315,3999,3357,Steel Angel Kurumi,Steel Angel Kurumi,1.0
+1982,2702124,3875,3359,Yousei Florence,Yousei Florence,1.0
+1983,2702951,3962,3360,Tansu Warashi.,Tansu Warashi.,1.0
+1984,2704678,3499,3362,.hack//G.U. Returner,.hack//G.U. Returner,1.0
+1985,2706566,3107,3364,Furusato Japan,Furusato Japan,1.0
+1986,2710968,3281,3369,Chou Denji Robo Combattler V,Chou Denji Robo Combattler V,1.0
+1987,2713237,466,3373,Love Live! School Idol Project 2,Love Live! School Idol Project OVA,0.875
+1988,2713829,1602,3373,Love Live! School Idol Project,Love Live! School Idol Project OVA,0.8709677419354839
+1989,2716629,3924,3376,Hyakujuu-Ou GoLion,Hyakujuu-Ou GoLion,1.0
+1990,2726257,3486,3388,El-Hazard: The Alternative World,El Hazard: The Alternative World,0.8181818181818182
+1991,2727201,3618,3389,Green Legend Ran,Green Legend Ran,1.0
+1992,2728122,2792,3391,Eureka Seven Ao,Eureka Seven AO,0.8571428571428571
+1993,2778896,3601,3449,Mahou Sensei Negima! Anime Final,Mahou Sensei Negima! Anime Final,1.0
+1994,2787178,3709,3458,Shuffle! Prologue,Shuffle! Prologue,1.0
+1995,2788721,3518,3460,Starship Troopers: Invasion,Starship Troopers: Invasion,1.0
+1996,2793525,3765,3466,Yuusha ni Nare Nakatta Ore wa Shibushibu Shuushoku o Ketsui Shimashita. OVA,Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita. OVA,0.8529411764705882
+1997,2798183,3421,3471,Asobi ni Iku yo!,Asobi ni Iku yo!,1.0
+1998,2801011,3497,3474,Glass no Usagi,Glass no Usagi,1.0
+1999,2801967,3365,3475,Bokusatsu Tenshi Dokuro-chan 2,Bokusatsu Tenshi Dokuro-chan,0.9259259259259259
+2000,2802198,3767,3475,Bokusatsu Tenshi Dokuro-chan,Bokusatsu Tenshi Dokuro-chan,1.0
+2001,2805185,3992,3479,Doujin Work,Doujin Work,1.0
+2002,2817640,3638,3493,One Piece: Cry Heart,One Piece: Cry Heart,1.0
+2003,2819488,1305,3495,Buddha 2: Tezuka Osamu no Buddha: Owarinaki Tabi,Tezuka Osamu no Buddha: Owarinaki Tabi,0.8571428571428571
+2004,2831512,3800,3509,Tetsujin 28-gou: Hakuchuu no Zangetsu,Tetsujin 28-gou: Hakuchuu no Zangetsu,1.0
+2005,2837929,3646,3517,DearS,DearS,1.0
+2006,2839273,2083,3520,Vampire Hunter D,Vampire Hunter,0.8571428571428571
+2007,2843936,3799,3524,Hiiro no Kakera 2,Hiiro no Kakera,0.8666666666666667
+2008,2853774,3584,3534,Kaitou Joker 2,Kaitou Joker,0.8333333333333334
+2009,2857871,3314,3539,Monster Extra,Monster Extra,1.0
+2010,2858353,3330,3540,Puka Puka Juju,Puka Puka Juju,1.0
+2011,2874619,3223,3560,Namiuchigiwa no Muromi-san,Namiuchigiwa no Muromi-san OVA,0.8571428571428571
+2012,2874869,3724,3560,Namiuchigiwa no Muromi-san OVA,Namiuchigiwa no Muromi-san OVA,1.0
+2013,2875256,2602,3561,Yoroiden Samurai Troopers Kikoutei Densetsu,Yoroiden Samurai Troopers Kikoutei Densetsu,1.0
+2014,2880965,2686,3568,Yama no Susume 2,Yama no Susume,0.8571428571428571
+2015,2917950,3565,3611,Tailenders,Tailenders,1.0
+2016,2921446,3303,3615,Yoroiden Samurai Troopers Gaiden,Yoroiden Samurai Troopers Gaiden,1.0
+2017,2921590,3578,3615,Yoroiden Samurai Troopers,Yoroiden Samurai Troopers Gaiden,0.8214285714285714
+2018,2935294,1116,3632,Senjou no Valkyria: Gallian Chronicles,Senjou no Valkyria: Gallian Chronicles Theater,0.8181818181818182
+2019,2939865,3836,3638,Stratos 4 OVA,Stratos 4 OVA,1.0
+2020,2950480,1349,3650,K,F,1.0
+2021,2950481,2354,3650,H2,F,1.0
+2022,2957874,2381,3658,Hareluya II Boy,Hareluya II Boy,1.0
+2023,2975134,3738,3679,Spriggan,Spriggan,1.0
+2024,2986630,3413,3696,Dan Doh!!,Dan Doh!!,1.0
+2025,2996910,3993,3707,True Tears Epilogue,True Tears Epilogue,1.0
+2026,2999795,857,3711,White Album 2,White Album,0.8181818181818182
+2027,3031681,3932,3751,Winter Garden,Winter Garden,1.0
+2028,3035726,3525,3757,Meitantei Holmes: Aoi Ruby no Maki / Kaitei no Zaihou no Maki,Meitantei Holmes: Aoi Ruby no Maki / Kaitei no Zaihou no Maki,1.0
+2029,3036710,3609,3758,Kujira no Chouyaku,Kujira no Chouyaku,1.0
+2030,3039429,3871,3762,Recorder to Randoseru OVA,Recorder to Randoseru Do,0.8
+2031,3042665,3564,3766,Appleseed,Appleseed,1.0
+2032,3057198,3572,3784,Fuma no Kojirou: Yasha-hen,Fuuma no Kojirou: Yasha-hen,0.8846153846153846
+2033,3063107,3732,3791,Natsuiro Kiseki: 15-kaime no Natsuyasumi,Natsu-iro Kiseki: 15-kaime no Natsuyasumi,0.868421052631579
+2034,3069660,3871,3800,Recorder to Randoseru OVA,Recorder to Randoseru Mi,0.8
+2035,3072554,3474,3803,IGPX: Immortal Grand Prix,IGPX: Immortal Grand Prix,1.0
+2036,3081205,3889,3813,Majokko Tsukune-chan,Majokko Tsukune-chan,1.0
+2037,3081345,2177,3814,Mobile Suit Gundam,Mobile Suit Gundam ZZ,0.8421052631578947
+2038,3081374,2230,3814,Mobile Suit Gundam I,Mobile Suit Gundam ZZ,0.85
+2039,3081576,551,3814,Mobile Suit Gundam 00,Mobile Suit Gundam ZZ,0.8095238095238095
+2040,3082089,3673,3814,Mobile Suit Gundam ZZ,Mobile Suit Gundam ZZ,1.0
+2041,3090462,3708,3823,Toki wa Meguru: Tokyo Station,Toki wa Meguru: Tokyo Station,1.0
+2042,3100155,3653,3833,Azumanga Web Daioh,Azumanga Web Daioh,1.0
+2043,3105375,3355,3840,Eyeshield 21: Maboroshi no Golden Bowl,Eyeshield 21: Maboroshi no Golden Bowl,1.0
+2044,3114295,3619,3851,Itsuka Tenma no Kuro Usagi OVA,Itsuka Tenma no Kuro Usagi,0.8571428571428571
+2045,3118250,3613,3857,Hand Maid May,Hand Maid May,1.0
+2046,3135356,3739,3881,Teekyuu 5,Teekyuu 5,1.0
+2047,3137518,3870,3883,Witch Craft Works OVA,Witch Craft Works OVA,1.0
+2048,3146932,2218,3896,IS: Infinite Stratos,IS: Infinite Stratos 2,0.9
+2049,3166831,1572,3920,Fusha no Sha,Fusha no Sha,1.0
+2050,3179707,3667,3935,Konjiki no Gash Bell!! Hashire Gash!! Ubawareta Umagon,Konjiki no Gash Bell!!: Hashire Gash!! Ubawareta Umagon,0.92
