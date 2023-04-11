@@ -1,4 +1,0 @@
-left join attr,right join attr,similarity measure type,tokenizer,threshold,n_jobs,cand_set_size,avg_time
-Title,Title,JACCARD,3_GRAM,0.8,1,2051,0.9457006454467773
-Title,Title,JACCARD,3_GRAM,0.8,1,2051,49.70432209968567
-Title,Title,JACCARD,3_GRAM,0.8,1,2039,79.79673194885254

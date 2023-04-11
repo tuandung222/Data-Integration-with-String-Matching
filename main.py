@@ -11,6 +11,8 @@ from itertools import product
 TOKENIZERS = {'SPACE_DELIMITER': DelimiterTokenizer(delim_set={' '}, return_set=True),
               '2_GRAM': QgramTokenizer(qval=2, padding=False, return_set=True),
               '3_GRAM': QgramTokenizer(qval=3, padding=False, return_set=True),
+              '4_GRAM': QgramTokenizer(qval=4, padding=False, return_set=True),
+              '5_GRAM': QgramTokenizer(qval=5, padding=False, return_set=True),
               '2_GRAM_BAG': QgramTokenizer(qval=2),
               '3_GRAM_BAG': QgramTokenizer(qval=3)
               }
@@ -34,8 +36,8 @@ SIM_FUNC = {
 DATA_PATH = os.sep.join([os.getcwd(), 'example_datasets', 'example_datasets'])
 SCRIPTS_FILE = 'scripts.json'
 EXECUTION_TIMES = 1
-OUTPUT_DIRECTORY = 'benchmark_results'
-
+BENCHMARK_DIRECTORY = 'benchmark_results'
+APPLY_RESULTS_DIRECTORY = 'apply_results'
 
 def load_scripts():
     with open(SCRIPTS_FILE, 'r') as js_file:
@@ -45,8 +47,8 @@ def load_scripts():
 
 
 def load_data_and_test():
-    if not os.path.exists(OUTPUT_DIRECTORY):
-        os.makedirs(OUTPUT_DIRECTORY)
+    if not os.path.exists(BENCHMARK_DIRECTORY):
+        os.makedirs(BENCHMARK_DIRECTORY)
     scripts = load_scripts()
     output_header = ','.join(['left join attr', 'right join attr',
                               'similarity measure type', 'tokenizer',
@@ -56,19 +58,19 @@ def load_data_and_test():
         print(script['ltable'])
         l_path = os.sep.join([DATA_PATH, *script['ltable']])
         r_path = os.sep.join([DATA_PATH, *script['rtable']])
-        out_file_path = os.sep.join([OUTPUT_DIRECTORY, script['dataset_name']])
-        out_path = os.sep.join([OUTPUT_DIRECTORY, script['dataset_name']])
-        output_file = open(out_path + str(idx) + '.csv', 'a')
+        out_file_path = os.sep.join([BENCHMARK_DIRECTORY, script['dataset_name']])
+        out_path = os.sep.join([BENCHMARK_DIRECTORY, script['dataset_name']])
+        output_file = open(out_path + "_benchmark_" + str(idx) + '.csv', 'a')
         add_header = not os.path.exists(out_file_path)
         if add_header:
             output_file.write('%s\n' % output_header)
         l_table = pd.read_csv(l_path, encoding=script['ltable_encoding'])
         r_table = pd.read_csv(r_path, encoding=script['rtable_encoding'])
-        test(script, output_file, l_table, r_table)
+        test(script, output_file, l_table, r_table, idx)
         output_file.close()
 
 
-def test(script, output_file, l_table, r_table):
+def test(script, output_file, l_table, r_table, idx_script):
     total_info_obj = product(
         script['sim_funcs'],
         script['sim_measure_types'],
@@ -106,6 +108,7 @@ def test(script, output_file, l_table, r_table):
                                              l_out_attrs=[script['l_join_attr']], r_out_attrs=[script['r_join_attr']],
                                              l_out_prefix='l_', r_out_prefix='r_',
                                              out_sim_score=True, n_jobs=n_jobs, show_progress=True)
+            
             sum_time += (time.time() - start_time)
             cand_set_size = len(output_table)
             avg_time_elapsed = sum_time / EXECUTION_TIMES
@@ -113,7 +116,12 @@ def test(script, output_file, l_table, r_table):
                                       str(sim_measure_type), str(tokenizer),
                                       str(threshold), str(n_jobs),
                                       str(cand_set_size), str(avg_time_elapsed)])
-            print(output_table[["_id", 'l_' + script['l_join_attr'], 'r_' + script['r_join_attr'], "_sim_score"]])
+            # print(output_table[["_id", 'l_' + script['l_join_attr'], 'r_' + script['r_join_attr'], "_sim_score"]])
+            if not os.path.exists(BENCHMARK_DIRECTORY):
+                os.makedirs(BENCHMARK_DIRECTORY)
+            output_table.to_csv(os.sep.join([BENCHMARK_DIRECTORY, 
+                                             str(sim_measure_type) + '_' + str(tokenizer) + '_' +
+                                             str(scale_filter) + '_' + str(sim_funcs) + '_' + str(idx_script) + '.csv']))
             output_file.write('%s\n' % output_record)
 
 
