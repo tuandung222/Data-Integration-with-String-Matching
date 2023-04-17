@@ -1,7 +1,7 @@
 {"scripts" : [
     {
-        "num_script": 9,
-        "description": "test accuracy by threshold on 3-gram-Jaccard measure + POSITION_FILTER",
+        "num_script": 3,
+        "description": "test tokenizers on overlap measure",
         "dataset_name": "library",
         "ltable": ["library", "DBLP2.csv"],
         "rtable": ["library", "ACM.csv"],
@@ -11,9 +11,9 @@
         "r_id_attr": "id",
         "l_join_attr": "title",
         "r_join_attr": "title",
-        "tokenizers": ["2_GRAM"],
+        "tokenizers": ["2_GRAM", "3_GRAM", "4_GRAM", "5_GRAM", "6_GRAM"],
         "sim_measure_types": ["JACCARD"],
-        "thresholds": [0.5, 0.6, 0.7, 0.8, 0.9],
+        "thresholds": [0.8],
         "n_jobs": [4],
         "scale_filters": ["POSITION_FILTER"],
         "sim_funcs": ["JACCARD"]
